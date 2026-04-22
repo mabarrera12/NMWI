@@ -1,0 +1,31 @@
+# Constructed from biom file
+#OTU ID	SRR5263968	SRR5263970	SRR5263972	SRR5263974	SRR5263976	SRR5263984	SRR5263986
+d__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;__;__;__	0.0	0.0	0.0	0.0	16.0	0.0	0.0
+d__Bacteria;p__Actinobacteriota;c__Actinobacteria;o__Micrococcales;f__Micrococcaceae;g__Rothia	0.0	0.0	0.0	0.0	74.0	824.0	0.0
+d__Bacteria;p__Actinobacteriota;c__Actinobacteria;o__Corynebacteriales;f__Corynebacteriaceae;g__Lawsonella	0.0	0.0	0.0	0.0	0.0	0.0	40.0
+d__Bacteria;p__Firmicutes;c__Negativicutes;o__Veillonellales-Selenomonadales;f__Veillonellaceae;g__Veillonella	0.0	0.0	0.0	0.0	62.0	6789.0	0.0
+d__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rhizobiales;f__Rhizobiaceae;__	0.0	0.0	0.0	0.0	0.0	0.0	36.0
+d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Bacteroidales;f__Prevotellaceae;g__Prevotella	0.0	0.0	0.0	47.0	22.0	838.0	0.0
+d__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Pseudomonadales;f__Pseudomonadaceae;g__Pseudomonas	47697.0	12644.0	37.0	96787.0	158144.0	159916.0	141685.0
+d__Bacteria;p__Firmicutes;c__Bacilli;o__Lactobacillales;f__Streptococcaceae;g__Streptococcus	0.0	0.0	0.0	0.0	56.0	1174.0	23.0
+d__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Cellvibrionales;f__Cellvibrionaceae;g__Cellvibrio	0.0	0.0	0.0	0.0	35.0	0.0	0.0
+d__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Burkholderiales;f__Burkholderiaceae;g__Burkholderia-Caballeronia-Paraburkholderia	0.0	0.0	44606.0	0.0	0.0	0.0	0.0
+d__Bacteria;p__Firmicutes;c__Clostridia;o__Peptostreptococcales-Tissierellales;f__Anaerovoracaceae;g__[Eubacterium]_brachy_group	0.0	0.0	0.0	44.0	0.0	0.0	0.0
+d__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Pseudomonadales;f__Moraxellaceae;g__Moraxella	0.0	0.0	0.0	0.0	0.0	0.0	74.0
+d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Bacteroidales;f__Prevotellaceae;__	0.0	0.0	0.0	0.0	0.0	4024.0	0.0
+d__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Burkholderiales;f__Alcaligenaceae;g__Achromobacter	15006.0	0.0	0.0	0.0	0.0	0.0	0.0
+d__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Burkholderiales;f__Oxalobacteraceae;g__Massilia	0.0	0.0	0.0	0.0	27.0	0.0	0.0
+d__Bacteria;p__Campilobacterota;c__Campylobacteria;o__Campylobacterales;__;__	0.0	0.0	0.0	0.0	0.0	197.0	0.0
+d__Bacteria;p__Firmicutes;c__Clostridia;o__Lachnospirales;f__Lachnospiraceae;g__Lachnoanaerobaculum	0.0	0.0	0.0	0.0	0.0	56.0	0.0
+d__Bacteria;p__Firmicutes;c__Clostridia;o__Lachnospirales;f__Lachnospiraceae;__	0.0	0.0	0.0	0.0	0.0	29.0	0.0
+d__Bacteria;p__Patescibacteria;c__Saccharimonadia;o__Saccharimonadales;f__Saccharimonadaceae;g__TM7a	0.0	0.0	0.0	0.0	5.0	0.0	0.0
+d__Bacteria;p__Firmicutes;c__Bacilli;o__Staphylococcales;f__Staphylococcaceae;__	0.0	45308.0	0.0	0.0	0.0	0.0	0.0
+d__Bacteria;p__Firmicutes;c__Bacilli;o__Staphylococcales;f__Staphylococcaceae;g__Staphylococcus	161.0	0.0	31.0	0.0	27436.0	532.0	161.0
+d__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Sphingomonadales;f__Sphingomonadaceae;g__Novosphingobium	0.0	0.0	0.0	0.0	45.0	0.0	0.0
+d__Bacteria;p__Actinobacteriota;c__Actinobacteria;o__Propionibacteriales;f__Propionibacteriaceae;g__Cutibacterium	0.0	0.0	0.0	42.0	0.0	41.0	0.0
+d__Bacteria;p__Firmicutes;c__Clostridia;o__Peptostreptococcales-Tissierellales;f__Peptostreptococcales-Tissierellales;g__Parvimonas	0.0	0.0	0.0	19.0	0.0	0.0	0.0
+d__Bacteria;p__Campilobacterota;c__Campylobacteria;o__Campylobacterales;f__Campylobacteraceae;g__Campylobacter	0.0	0.0	0.0	0.0	0.0	705.0	0.0
+d__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Burkholderiales;f__Comamonadaceae;g__Aquabacterium	0.0	0.0	0.0	0.0	0.0	0.0	76.0
+d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Flavobacteriales;f__Weeksellaceae;g__Chryseobacterium	0.0	0.0	0.0	0.0	67.0	0.0	0.0
+d__Bacteria;p__Actinobacteriota;c__Actinobacteria;o__Actinomycetales;f__Actinomycetaceae;g__Actinomyces	0.0	0.0	0.0	0.0	19.0	0.0	0.0
+d__Bacteria;p__Firmicutes;c__Clostridia;o__Clostridiales;f__Clostridiaceae;g__Clostridium_sensu_stricto_13	0.0	0.0	0.0	0.0	0.0	0.0	83.0

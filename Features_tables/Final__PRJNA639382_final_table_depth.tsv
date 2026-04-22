@@ -1,0 +1,10 @@
+# Constructed from biom file
+#OTU ID	SRR12011188	SRR12011190	SRR12011193	SRR12011194	SRR12011197	SRR12011198	SRR12011201	SRR12011202	SRR12011211	SRR12011213	SRR12011214	SRR12011215	SRR12011216	SRR12011217	SRR12011218	SRR12011220	SRR12011221
+d__Bacteria;p__Firmicutes;c__Bacilli;__;__;__	12697.0	23832.0	638.0	29875.0	19620.0	55569.0	26055.0	28529.0	24860.0	15433.0	10201.0	837.0	8009.0	17446.0	12227.0	14848.0	26135.0
+d__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Burkholderiales;f__Neisseriaceae;g__uncultured	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	4324.0	0.0	1845.0	0.0	0.0
+d__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Burkholderiales;__;__	2428.0	0.0	9549.0	0.0	0.0	0.0	0.0	3468.0	0.0	714.0	0.0	0.0	656.0	0.0	354.0	3276.0	0.0
+d__Bacteria;p__Proteobacteria;__;__;__;__	0.0	0.0	0.0	0.0	0.0	15002.0	0.0	0.0	0.0	0.0	0.0	43077.0	0.0	0.0	0.0	0.0	0.0
+d__Bacteria;p__Firmicutes;c__Bacilli;o__Staphylococcales;f__Staphylococcaceae;g__Staphylococcus	0.0	351.0	0.0	0.0	5994.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+d__Bacteria;p__Bacteroidota;c__Bacteroidia;__;__;__	1839.0	0.0	0.0	0.0	926.0	0.0	0.0	0.0	0.0	139.0	0.0	0.0	0.0	0.0	0.0	0.0	1390.0
+d__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rhodobacterales;f__Rhodobacteraceae;__	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	144.0	0.0	0.0	1443.0	0.0	0.0	0.0	0.0
+d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Bacteroidales;__;__	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	143.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
