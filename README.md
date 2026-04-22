@@ -1,4 +1,4 @@
-# NMWI: Microbiome-Based Disease Classification Model
+# NMWI: Nasal Microbiome Wellness Index (NMWI) Enables Standardized, Reproducible Nasal Microbiome Health Scoring
 
 ## Overview
 
