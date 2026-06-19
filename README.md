@@ -1,4 +1,4 @@
-# NMWI: Nasal Microbiome Wellness Index (NMWI) Enables Standardized, Reproducible Nasal Microbiome Health Scoring
+# A Disease-Agnostic Nasal Microbiome Wellness Index for Standardized Assessment of Upper-Airway Respiratory Health
 
 ## Overview
 
@@ -22,7 +22,11 @@ NMWI/
 │   ├── Auxiliary_files/
 │   │   ├── Generate_data_index.py      # Training data preparation
 │   │   ├── Generate_data_val.py        # Validation data preparation
-│   │   └── NMWI.py                     # Model training and evaluation
+│   │   ├── Generate_data_rarefied.py   # Training-rarefied data preparation
+│   │   ├── LOSO.py                     # Leave-one-study-out cross validation
+│   │   ├── NMWI.py                     # Full training of NMWI L1-logistic regression
+│   │   ├── PCOA_analysis.R             # PCoA analysis of the training data
+│   │   └── Diff_abundance_testing.R    # Differential abundance training for genera and family levels
 │   └── Notebooks/                      # Jupyter notebooks for figures
 │       ├── Figure1.ipynb
 │       ├── Figure2.ipynb
@@ -60,16 +64,11 @@ The project uses microbiome sequencing data from the NCBI Sequence Read Archive 
 
 Run the notebooks sequentially to generate the figures and the corresponding data visualization.
 
-Run the Jupyter notebooks in `Codes/Notebooks/` to create visualizations:
-- Figure1.ipynb: Dataset visualization and summary statistics
-- Figure2.ipynb: Model performance metrics
-- Figure3-5.ipynb: Additional analyses and results
-
 ## Model Details
 
 - **Algorithm**: Logistic Regression with L1 penalty
 - **Hyperparameters**:
-  - C = 0.795 (regularization strength)
+  - C = 0.973 (regularization strength)
   - class_weight = "balanced"
   - solver = "liblinear"
   - max_iter = 2000
