@@ -68,7 +68,7 @@ Run the notebooks sequentially to generate the figures and the corresponding dat
 
 - **Algorithm**: Logistic Regression with L1 penalty
 - **Hyperparameters**:
-  - C = 0.973 (regularization strength)
+  - C = 0.9375 (regularization strength)
   - class_weight = "balanced"
   - solver = "liblinear"
   - max_iter = 2000
