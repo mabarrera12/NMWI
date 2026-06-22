@@ -176,6 +176,6 @@ print("\nSample_id per Category:")
 print(samples_per_category.to_string(index=False))
 
 # rawcounts subset
-raw_counts = ra_raw.loc[:, ra_raw.columns.isin(X.index.get_level_values(1).to_list())].reset_index()
-raw_counts_T = raw_counts.set_index('OTU ID').T
-raw_counts_T.rename_axis('Sample_id').merge(sra_data, on = 'Sample_id').to_csv('raw_counts.tsv', sep = '\t', index = False)
+# raw_counts = ra_raw.loc[:, ra_raw.columns.isin(X.index.get_level_values(1).to_list())].reset_index()
+# raw_counts_T = raw_counts.set_index('OTU ID').T
+# raw_counts_T.rename_axis('Sample_id').merge(sra_data, on = 'Sample_id').to_csv('raw_counts.tsv', sep = '\t', index = False)

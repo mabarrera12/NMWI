@@ -1,8 +1,15 @@
-# This code is saved into a script. 
-
-# --------------------------------------------------
-# PER-FOLD LOSO PERFORMANCE USING BEST C
-# --------------------------------------------------
+# -----------------------------------------------------------------------------
+# LOSO.py
+#
+# Function:
+#   - Perform Leave-One-Study-Out (LOSO) cross-validation.
+#
+# Auxiliary code fragment executed from Jupyter notebooks using:
+#     %run -i Codes/Auxiliary_files/LOSO.py
+#
+# This file is not intended to be run as a standalone Python script. It relies on variables, imports, and model parameters already defined in the notebook environment, which are made available via the -i option.
+#
+# -----------------------------------------------------------------------------
 
 fold_bas = []
 loso_loop = []

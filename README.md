@@ -3,9 +3,9 @@ Barrera-Suarez, M.A., _et al_, manuscript under review
 
 ## Overview
 
-NMWI (Nasal Microbiome Wellness Index) is a machine learning model developed for classifying microbiome samples into non-healthy and healthy groups using genus-level taxonomic abundance data. The model utilizes Logistic Regression with L1 regularization to identify microbial signatures associated with disease states.
-
-This project implements a comprehensive pipeline for microbiome data analysis, including data preprocessing, model training, validation, and visualization of results.
+**NMWI (Nasal Microbiome Wellness Index)** is a machine learning model that produces a single, continuous, disease-agnostic score of nasal microbiome health from 16S rRNA gene taxonomic abundance data. Rather than counting taxa or summarizing diversity, it learns which taxa—and in what balance—characterize a healthy nose, and returns the predicted log-odds that a profile resembles a healthy state. The model is built on LASSO-penalized (L1-regularized) logistic regression, which selects a parsimonious signature of 24 taxa whose weighted relative abundances determine the score. Positive scores indicate resemblance to healthy configurations and negative scores a shift toward non-healthy states, with the magnitude reflecting confidence; binary classification is an optional downstream step obtained by thresholding, not the model's primary output.
+    
+This repository implements the full pipeline behind the index: standardized 16S rRNA gene sequence processing, taxonomic annotation, model training and hyperparameter tuning, multi-framework validation (leave-one-study-out, leave-one-disease-out, and external cohorts), and visualization. The index was trained on 1,654 nasal microbiome samples (589 healthy, 1,065 non-healthy) pooled from 27 publicly available studies spanning seven chronic disease conditions across four continents, and is computed directly from existing 16S rRNA gene data without any new sequencing.
 
 ## Features
 
