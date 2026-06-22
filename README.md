@@ -1,4 +1,5 @@
-# A Disease-Agnostic Nasal Microbiome Wellness Index for Standardized Assessment of Upper-Airway Respiratory Health
+# A Disease-Agnostic Nasal Microbiome Wellness Index for Standardized Assessment of Upper-Airway Respiratory Health. 
+Barrera-Suarez, M.A., _et al_, manuscript under review
 
 ## Overview
 
