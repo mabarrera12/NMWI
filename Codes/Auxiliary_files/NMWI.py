@@ -41,23 +41,3 @@ num_pos  = (sorted_coefficients["Coefficient"] > 0).sum()
 num_neg  = (sorted_coefficients["Coefficient"] < 0).sum()
 num_zero = (sorted_coefficients["Coefficient"] == 0).sum()
 num_coef = len(sorted_coefficients)
-
-# 10 x 10 CV
-y_arr = y.values.ravel()
-model_10x10 = LogisticRegression(**final_params)
-
-cv = RepeatedStratifiedKFold(n_splits=10, n_repeats=10, random_state=42) 
-
-cv_splits = []
-cv_splits = list(cv.split(X_new, y_arr))
-
-scores = cross_val_score(
-    estimator=model_10x10,
-    X=X_new,
-    y=y.values,
-    cv=cv,
-    scoring='balanced_accuracy',
-    n_jobs=-1
-)
-
-print('NMWI fitted; 10x10cv')

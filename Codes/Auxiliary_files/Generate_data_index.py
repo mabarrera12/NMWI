@@ -3,12 +3,27 @@ import numpy as np
 import glob, os
 from pathlib import Path
 
-# Load metadata
+# -------------------------------------------------------------------------
+# METADATA / FEATURE-TABLE CONSISTENCY
+#
+# Sample identifiers and BioProject assignments were extensively curated and
+# validated upstream when constructing Supplementary_table1.xlsx and the final
+# feature tables. The code therefore assumes:
+#   1. Sample_id is unique in SRA_info_index;
+#   2. each Sample_id listed in SRA_info_index is present in the merged feature
+#      table;
+#   3. BioProject.Number mappings are internally consistent.
+#
+# These are treated as properties of the curated input dataset rather than
+# re-validated at this preprocessing step.
+
 file_path = 'Data/Supplementary_table1.xlsx'
 df = pd.read_excel(file_path, sheet_name='Index')
 
 sra_data = pd.read_excel(file_path, sheet_name='SRA_info_index')
 sra_data = sra_data[['Sample_id', 'BioProject.Number', 'Category', 'Disease']]
+# -------------------------------------------------------------------------
+
 
 # Filtering cut-offs
 rich_cutoff     = 5 # richness cutoff per sample
@@ -111,7 +126,15 @@ merged = merged[["OTU ID", *sra_data["Sample_id"]]].copy()
 ra_sub = merged.set_index('OTU ID').copy() 
 ra_sub_initial = ra_sub.copy() # raw abundance
 
-# prevalence. pf: 5%; filtering
+# -------------------------------------------------------------------------
+# INITIAL SPARSITY FILTERING
+#
+# Prevalence filtering is intentionally performed before final cohort/study
+# eligibility filtering. At this stage the objective is to remove extremely
+# sparse taxa from the harmonized genus table. The final analytical cohort
+# is defined subsequently using sample- and study-level inclusion criteria.
+# -------------------------------------------------------------------------
+
 prevalence = (ra_sub > 0).sum(axis=1) / ra_sub.shape[1]
 keep_taxa = prevalence[prevalence >= pf].index
 ra_sub = ra_sub.loc[keep_taxa]
@@ -129,8 +152,16 @@ ra_sub = ra_sub.div(col_sums, axis=1).fillna(0.0)
 # Keep only metadata rows for samples present in ra_sub
 meta = sra_data[sra_data['Sample_id'].isin(keep_samples)].copy()
 
-# FILTERING
-# Drop project-category combos with < 10 samples ----------
+# -------------------------------------------------------------------------
+# FINAL COHORT DEFINITION
+#
+# After sparsity- and sample-level filtering, define the analytical cohort by
+# retaining BioProject x Category groups containing >=10 samples.
+# This filtering is intentionally performed after the initial prevalence and
+# richness filters because cohort eligibility is based on the samples remaining
+# after microbiome quality/sparsity filtering.
+# -------------------------------------------------------------------------
+
 meta['proj_cat_count'] = meta.groupby(['BioProject.Number', 'Category'])['Sample_id'].transform('count')
 meta_filtered = meta[meta['proj_cat_count'] >= 10].copy()
 
@@ -175,7 +206,3 @@ samples_per_category = (
 print("\nSample_id per Category:")
 print(samples_per_category.to_string(index=False))
 
-# rawcounts subset
-# raw_counts = ra_raw.loc[:, ra_raw.columns.isin(X.index.get_level_values(1).to_list())].reset_index()
-# raw_counts_T = raw_counts.set_index('OTU ID').T
-# raw_counts_T.rename_axis('Sample_id').merge(sra_data, on = 'Sample_id').to_csv('raw_counts.tsv', sep = '\t', index = False)
