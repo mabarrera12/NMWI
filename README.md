@@ -12,7 +12,7 @@ The NMWI was developed from multi-study 16S rRNA gene amplicon data using **L1-r
 
 A score of zero is the model-derived decision boundary, not a universal biological or clinical cutoff.
 
-> **Repository scope:** this repository contains the processed taxonomic feature tables, curated metadata, derived analysis data, model-analysis code, and notebooks used for the NMWI study. 
+> **Repository scope:** this repository contains the processed taxonomic feature tables, curated metadata, derived analysis data, model-analysis code, and Manuscript-figures used for the NMWI study. 
 
 ---
 
@@ -27,7 +27,7 @@ The NMWI development cohort contains:
 - **7 chronic disease categories**
 - **184 retained taxonomic features** after filtering
 
-The independent validation cohort contains **350 samples from 11 studies** and is processed in `Codes/Notebook/Figure5.ipynb`.
+The independent validation cohort contains **350 samples from 11 studies** and is processed in `Codes/Manuscript-figures/Figure5.ipynb`.
 
 The final NMWI model retains **24 non-zero taxonomic coefficients** from the 184-feature input space.
 
@@ -47,7 +47,7 @@ NMWI/
 │   │   ├── NMWI.py
 │   │   └── PCOA_analysis.R
 │   │
-│   └── Notebook/
+│   └── Manuscript-figures/
 │       ├── Figure1.ipynb
 │       ├── Figure2.ipynb
 │       ├── Figure3.ipynb
@@ -131,7 +131,7 @@ install.packages(c("vegan", "ade4", "ggplot2"))
 ---
 
 ### Notes:
-The notebooks contain setup cells that change the working directory to the repository root. These cells assume the initial working directory corresponds to the notebook's own directory; if your Jupyter/IDE configuration behaves differently, set the working directory to the repository root before running data-loading cells.
+The Manuscript-figures contain setup cells that change the working directory to the repository root. These cells assume the initial working directory corresponds to the Manuscript-figure's own directory; if your Jupyter/IDE configuration behaves differently, set the working directory to the repository root before running data-loading cells.
 
 ---
 
