@@ -199,6 +199,9 @@ print(f"Number of samples: {n_t}, and number of taxa: {len(taxa_cols)}")
 print(f"Number of unique studies: {merged_meta['BioProject Number'].nunique()}")
 
 training_set = merged_meta.set_index(['BioProject Number', 'Sample ID']) # multi indexed table
+# Save training set for downstream R analysis
+training_set.reset_index().to_csv("Data/training_set.tsv", sep="\t", index=False)
+
 X = training_set[[c for c in training_set.columns if c.startswith("d__")]]
 y = training_set["Category"].map({'case': False, 'control': True})
 
