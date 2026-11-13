@@ -1,0 +1,55 @@
+cff-version: 1.2.0
+message: "If you use the NMWI code or data, please cite the associated manuscript below."
+
+title: "NMWI: Nasal Microbiome Wellness Index"
+type: software
+
+authors:
+  - family-names: "Barrera-Suarez"
+    given-names: "Maria A."
+
+repository-code: "https://github.com/mabarrera12/NMWI"
+license: MIT
+
+abstract: >
+  Code and processed data supporting the development and validation of the
+  Nasal Microbiome Wellness Index (NMWI), a continuous health-referenced
+  score derived from multi-study 16S rRNA gene sequencing data.
+
+keywords:
+  - nasal microbiome
+  - microbiome
+  - NMWI
+  - 16S rRNA
+  - machine learning
+  - LASSO
+  - logistic regression
+
+preferred-citation:
+  type: article
+  title: "A Health-Referenced Nasal Microbiome Wellness Index Derived from Multi-Study 16S rRNA Data"
+  authors:
+    - family-names: "Barrera-Suarez"
+      given-names: "Maria A."
+    - family-names: "Gupta"
+      given-names: "Vinod K."
+    - family-names: "Zhao"
+      given-names: "Xiaowei"
+    - family-names: "Koller"
+      given-names: "Adam L."
+    - family-names: "Zhao"
+      given-names: "Conan Y."
+    - family-names: "Suh"
+      given-names: "Gina A."
+    - family-names: "Karnatovskaia"
+      given-names: "Lioudmila V."
+    - family-names: "O'Brien"
+      given-names: "Erin K."
+    - family-names: "Kronzer"
+      given-names: "Vanessa L."
+    - family-names: "Sung"
+      given-names: "Jaeyun"
+
+  doi: "10.xxxx/xxxxxxxx"
+  journal: ""
+  year: ""
