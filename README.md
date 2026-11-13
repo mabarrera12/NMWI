@@ -101,11 +101,7 @@ LogisticRegression(
 )
 ```
 
-The model is fit to the **184 relative-abundance features without additional transformation or standardization**.
-
-The NMWI score for a sample is obtained using the model's `decision_function`, corresponding to the fitted log-odds of the healthy/control class.
-
-`Codes/Auxiliary_files/NMWI.py` contains the final-model implementation and is executed from the manuscript notebooks using `%run -i`.
+The model is fit to the **184 relative-abundance features without additional transformation or standardization**.The NMWI score for a sample is obtained using the model's `decision_function`, corresponding to the fitted log-odds of the healthy/control class.
 
 ---
 
@@ -190,8 +186,6 @@ To reduce runtime, the notebooks read these precomputed CSV/TSV files rather tha
 ```text
 Codes/Auxiliary_files/
 ```
-
-The R PCoA/PERMANOVA analysis for Figure 1g is provided in `Codes/Auxiliary_files/PCoA_analysis_.R`.
 ---
 
 ## Data and outputs
@@ -205,9 +199,9 @@ The R PCoA/PERMANOVA analysis for Figure 1g is provided in `Codes/Auxiliary_file
 
 Contains derived results used by manuscript notebooks, including:
 
-- nested LOSO held-out predictions and model coefficients;
-- repeated 10×10 CV predictions and cutoff analyses; and
-- final NMWI model coefficients.
+- Nested LOSO held-out predictions and model coefficients
+- Repeated 10×10 CV predictions and cutoff analyses
+- Final NMWI model coefficients.
 
 ---
 
