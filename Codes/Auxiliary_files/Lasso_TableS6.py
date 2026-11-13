@@ -45,7 +45,7 @@ def metrics(y_true, y_pred, scores=None):
     pre = div(tp, tp + fp)
     f1 = div(2 * tp, 2 * tp + fp + fn)
 
-    traditional_ba = balanced_accuracy_score(y_true, y_pred)
+    accuracy = balanced_accuracy_score(y_true, y_pred)
     strict_ba = np.nan if np.isnan(sen) or np.isnan(spe) else (sen + spe) / 2
 
     auc = np.nan
@@ -53,7 +53,7 @@ def metrics(y_true, y_pred, scores=None):
         auc = roc_auc_score((y_true == pos_label).astype(int), scores)
 
     return {
-        "Traditional BA": traditional_ba,
+        "Accuracy": accuracy,
         "Strict_BA": strict_ba,
         "AUROC": auc,
         "Sensitivity": sen,
@@ -114,7 +114,7 @@ for tr, te in outer.split(X_new, y_arr, groups):
 results = pd.DataFrame(rows)
 
 metric_cols = [
-    "Traditional BA", "Strict_BA", "AUROC",
+    "Accuracy", "Strict_BA", "AUROC",
     "Sensitivity", "Specificity", "Precision", "F1"
 ]
 

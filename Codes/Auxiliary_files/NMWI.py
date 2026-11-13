@@ -9,6 +9,11 @@
 # This file is not intended to be run as a standalone Python script. It relies on variables and imports already defined in the notebook
 # environment which are made available through the interactive namespace via the -i option.
 
+import pandas as pd
+from sklearn.linear_model import LogisticRegression
+from sklearn.metrics import balanced_accuracy_score
+
+
 C = 0.9375 # Best regularization parameters for relative abundance
 
 # Model parameters
@@ -49,6 +54,3 @@ final_coef = sorted_coefficients[(sorted_coefficients['Coefficient']>0) | (sorte
 print(f'Positive coefs: {final_coef.gt(0).sum().item()}')
 print(f'Negative coefs: {final_coef.lt(0).sum().item()}')
 print(f'zero coefs: {sorted_coefficients.eq(0).sum().item()}')
-
-print(f'Resubstitution estimate: {train_bal_acc:.3f}')
-print(f'LOSO accuracy: 0.7301')

@@ -1,0 +1,15 @@
+name: nmwi
+
+channels:
+  - conda-forge
+
+dependencies:
+  - python=3.12.2
+  - pandas=2.3.2
+  - numpy=2.2.6
+  - scipy=1.16.2
+  - scikit-learn=1.7.2
+  - matplotlib=3.10.6
+  - seaborn=0.13.2
+  - openpyxl=3.1.5
+  - jupyter=1.1.1

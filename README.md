@@ -27,7 +27,7 @@ The NMWI development cohort contains:
 - **7 chronic disease categories**
 - **184 retained taxonomic features** after filtering
 
-The independent validation cohort contains **350 samples from 11 studies** and is processed in `Codes/Manuscript-figures/Figure5.ipynb`.
+The independent validation cohort contains **350 samples from 11 studies** and is processed in `Codes/Manuscript-Figures/Figure5.ipynb`.
 
 The final NMWI model retains **24 non-zero taxonomic coefficients** from the 184-feature input space.
 
@@ -47,7 +47,7 @@ NMWI/
 │   │   ├── NMWI.py
 │   │   └── PCOA_analysis.R
 │   │
-│   └── Manuscript-figures/
+│   └── Manuscript-Figures/
 │       ├── Figure1.ipynb
 │       ├── Figure2.ipynb
 │       ├── Figure3.ipynb
@@ -99,33 +99,39 @@ The final model contains:
 ```
 ---
 
-## Software requirements
+## Environment and software requirements
+The Python analyses in this repository were developed and tested using the versions specified in environment.yml. Using the provided environment is recommended to ensure reproducibility of the manuscript analyses and figures.
 
-The manuscript reports that downstream analyses were performed in:
+The environment includes:
 
 ```text
-Python 3.12.2
-scikit-learn 1.7.2
+Python: 3.12.2
+pandas: 2.3.2
+numpy: 2.2.6
+scipy: 1.16.2
+scikit-learn: 1.7.2
+matplotlib: 3.10.6
+seaborn: 0.13.2
+openpyxl: 3.1.5
+jupyter: 1.1.1
 ```
 
-Python packages imported by the current repository include:
+**Create the Conda environment**
+
+From the repository root, run and activate the conda environment:
 
 ```text
-pandas
-numpy
-scipy
-scikit-learn
-matplotlib
-seaborn
-openpyxl
-joblib
-jupyter
+conda env create -f environment.yml
+conda activate nmwi
+jupyter notebook
 ```
 
 For the R analysis:
 
 ```r
-install.packages(c("vegan", "ade4", "ggplot2"))
+remotes::install_version("vegan", version = "2.7.1")
+remotes::install_version("ade4", version = "1.7.23")
+remotes::install_version("ggplot2", version = "3.5.2")
 ```
 
 ---

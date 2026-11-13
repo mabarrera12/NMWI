@@ -18,7 +18,7 @@ import glob
 # These are treated as properties of the curated input dataset rather than
 # re-validated at this preprocessing step.
 
-file_path = 'Data//Additional file 1.xlsx'
+file_path = 'Data/Input/Additional file 1.xlsx'
 df = pd.read_excel(file_path, sheet_name='Table S1', skiprows=1)
 df = df[df["Set"] == "Training"] # Unique studies = 27
 df["Citation"] = df["Author"].astype(str) + " et al., " + df["Publication Year"].astype(str)
@@ -150,7 +150,7 @@ richness = (ra_sub > 0).sum(axis=0)
 keep_samples = richness[richness >= rich_cutoff].index
 ra_sub = ra_sub[keep_samples]
 ra_raw = ra_sub.copy()
-ra_raw.to_csv('Data/Genus_level_raw_count_featureTable.tsv', sep = '\t')
+ra_raw.to_csv('Data/Output/Genus_level_raw_count_featureTable.tsv', sep = '\t')
 
 # Convert to relative abundance using the 184 taxa
 col_sums = ra_sub.sum(axis=0)
@@ -200,7 +200,7 @@ print(f"Number of unique studies: {merged_meta['BioProject Number'].nunique()}")
 
 training_set = merged_meta.set_index(['BioProject Number', 'Sample ID']) # multi indexed table
 # Save training set for downstream R analysis
-training_set.reset_index().to_csv("Data/training_set.tsv", sep="\t", index=False)
+training_set.reset_index().to_csv("Data/Output/training_set.tsv", sep="\t", index=False)
 
 X = training_set[[c for c in training_set.columns if c.startswith("d__")]]
 y = training_set["Category"].map({'case': False, 'control': True})
