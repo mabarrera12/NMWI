@@ -25,7 +25,7 @@ df["Citation"] = df["Author"].astype(str) + " et al., " + df["Publication Year"]
 
 sra_data = pd.read_excel(file_path, sheet_name='Table S2', skiprows=1)
 sra_data = sra_data[sra_data["Set"]=="Training"] # samples 1654
-sra_data = sra_data[['Sample ID', 'BioProject Number', 'Category', 'Disease']]
+sra_data = sra_data[['Sample ID', 'BioProject Number', 'Category', 'Disease', 'Sex', 'Age', 'Set', 'Sampling Location', '16S Region']]
 # -------------------------------------------------------------------------
 
 

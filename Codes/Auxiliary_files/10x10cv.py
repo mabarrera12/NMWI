@@ -130,7 +130,7 @@ repeat_summary = pd.DataFrame({
 
 
 # ---------------- Export ----------------
-OUTDIR = Path("Data")
+OUTDIR = Path("Data/Output")
 OUTDIR.mkdir(exist_ok=True)
 
 full_10x10_df.to_csv(

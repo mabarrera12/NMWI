@@ -1,0 +1,160 @@
+library(openxlsx)
+library(dplyr)
+library(broom)
+library(lme4)
+library(lmerTest)
+
+setwd("NMWI")
+# ---------------- Clean variables for both analysis ----------------
+
+data <- read.csv("Data/Output/NMWI_sample_scores.csv")
+data$Category <- tolower(trimws(as.character(data$Category)))
+data$Sex <- tolower(trimws(as.character(data$Sex)))
+data$Sex[data$Sex==""] <- NA
+data$Age <- suppressWarnings(as.numeric(data$Age))
+
+## ------------------------------------------------------------------
+cc <- data %>%
+  filter(
+    Set=="Training",
+    Category %in% c("control","case"),
+    complete.cases(NMWI,Age,Sex,Sampling.Location)
+  ) %>%
+  mutate(
+    Healthy=ifelse(Category=="control",1,0),
+    Sex=relevel(factor(Sex),ref="female"),
+    Sampling.Location=factor(Sampling.Location),
+    NMWI_z=as.numeric(scale(NMWI)),
+    Age_z=as.numeric(scale(Age)),
+    Age10 = Age/10
+  )
+
+# Confirm complete cases
+cc %>% summarise(
+  n=n(),
+  studies=n_distinct(BioProject.Number),
+  healthy=sum(Healthy==1),
+  nonhealthy=sum(Healthy==0)
+)
+
+eligible_sites <- cc %>%
+  group_by(Sampling.Location) %>%
+  summarise(n_groups=n_distinct(Category),.groups="drop") %>%
+  filter(n_groups==2) %>%
+  pull(Sampling.Location) %>%
+  as.character()
+
+cc_overlap <- cc %>%
+  filter(as.character(Sampling.Location) %in% eligible_sites) %>%
+  droplevels() %>%
+  mutate(Sampling.Location=relevel(Sampling.Location,ref="Anterior nares"))
+
+#The code loads the sample-level NMWI scores, cleans key variables, and restricts the dataset to training samples with complete NMWI, age, sex, and sampling-location information. It then creates analysis-ready variables, including a binary healthy indicator, standardized NMWI and age measures, and categorical sex and sampling-location variables. Finally, it keeps only sampling locations represented in both healthy and non-healthy groups and sets “Anterior nares” as the reference site for subsequent regression analyses.
+
+print(paste("There are", nrow(cc_overlap), "complete cases"))
+cc_overlap %>%
+  count(Sampling.Location,Category)
+
+
+# Adjusted model
+fit_nmwi <- glm(
+  Healthy ~ NMWI_z + Age10 + Sex + Sampling.Location,
+  data=cc_overlap,
+  family=binomial
+)
+
+summary(fit_nmwi)
+results <- tidy(fit_nmwi, exponentiate=TRUE, conf.int=TRUE)
+print(results)
+
+# Unadjusted model: NMWI only
+fit_unadj <- glm(
+  Healthy ~ NMWI_z,
+  data = cc_overlap,
+  family = binomial
+)
+summary(fit_unadj)
+results_unadj <- tidy(fit_unadj, exponentiate=TRUE, conf.int=TRUE)
+print(results_unadj)
+
+# Covariate only model
+fit_cov <- glm(
+  Healthy ~ Age10 + Sex + Sampling.Location,
+  data = cc_overlap,
+  family = binomial
+)
+
+lrt_nmwi <- anova(fit_cov,fit_nmwi,test = "LRT")
+print(lrt_nmwi)
+
+# ============================================================
+# HVR / STUDY SENSITIVITY ANALYSIS OF NMWI
+# ============================================================
+sens <- data %>%
+  filter(
+    Set=="Training",
+    Category %in% c("control","case"),
+    complete.cases(NMWI,Category,X16S.Region,BioProject.Number)
+  ) %>%
+  mutate(
+    Category=factor(Category,levels=c("control","case")),
+    HVR=trimws(as.character(`X16S.Region`)),
+    HVR=gsub("–","-",HVR,fixed=TRUE),
+    HVR=gsub("—","-",HVR,fixed=TRUE),
+    HVR=factor(HVR),
+    Study=factor(BioProject.Number)
+  ) %>%
+  droplevels()
+
+# Likelihood-ratio test: does adding HVR improve model fit?
+# Model without HVR
+m0_all <- lmer( NMWI ~ Category + (1|Study), data=sens,REML=FALSE)
+# Add HVR as fixed effect
+m1_all <- lmer(NMWI ~ Category + HVR + (1|Study),data=sens,REML=FALSE)
+
+lrt_hvr <- anova(m0_all, m1_all)
+print(lrt_hvr)
+
+# Extract study and residual variance from both models
+vc0 <- as.data.frame(VarCorr(m0_all))
+vc1 <- as.data.frame(VarCorr(m1_all))
+
+study_var_m0 <- vc0$vcov[vc0$grp == "Study"]
+study_var_m1 <- vc1$vcov[vc1$grp == "Study"]
+
+resid_var_m0 <- vc0$vcov[vc0$grp == "Residual"]
+resid_var_m1 <- vc1$vcov[vc1$grp == "Residual"]
+
+# Calculate ICC for each model
+icc_m0 <- study_var_m0 / (study_var_m0 + resid_var_m0)
+icc_m1 <- study_var_m1 / (study_var_m1 + resid_var_m1)
+
+# Calculate percent reduction in between-study variance
+study_variance_reduction <-
+  100 * (study_var_m0 - study_var_m1) / study_var_m0
+
+# Calculate percent change in residual variance
+residual_variance_change <-
+  100 * (resid_var_m1 - resid_var_m0) / resid_var_m0
+
+variance_comparison <- data.frame(
+  Model = c(
+    "Health status + Study",
+    "Health status + HVR + Study" ),
+  Study_variance = c(  study_var_m0, study_var_m1 ),
+  Residual_variance = c( resid_var_m0, resid_var_m1 ),
+  ICC_percent = c( 100 * icc_m0, 100 * icc_m1 )
+)
+
+print(variance_comparison)
+
+cat("\nBaseline ICC:",round(100 * icc_m0, 1), "%\n")
+cat("ICC after adding HVR:",round(100 * icc_m1, 1), "%\n")
+cat(  "Reduction in between-study variance:",
+  round(study_variance_reduction, 1), "%\n"
+)
+
+cat("Change in residual variance:", round(residual_variance_change, 1), "%\n")
+
+cat(  "Likelihood-ratio test: chi-square(",  lrt_hvr$Df[2],  ") = ",  round(lrt_hvr$Chisq[2], 2),  ", P = ",  round(lrt_hvr$`Pr(>Chisq)`[2], 3),   "\n",sep= "")
+

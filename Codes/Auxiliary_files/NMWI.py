@@ -55,7 +55,6 @@ num_coef = len(sorted_coefficients)
 
 NMWI_preds = X_new.reset_index()[['BioProject Number', 'Sample ID']]
 NMWI_preds['NMWI'] = scores_all.tolist()
-NMWI_preds.merge(sra_data[['Sample ID', 'Category', 'Disease']], on = 'Sample ID', how = 'left')
 
 final_coef = sorted_coefficients[(sorted_coefficients['Coefficient']>0) | (sorted_coefficients['Coefficient']<0)]
 print(f'Positive coefs: {final_coef.gt(0).sum().item()}')

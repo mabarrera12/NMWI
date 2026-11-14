@@ -1,0 +1,1655 @@
+BioProject Number,Sample ID,NMWI,Category,Disease,Sex,Age,Sampling Location,16S Region,Set
+PRJNA907202,SRR22477636,0.80016799215874,control,Healthy,female,25.0,Middle meatus,V3–V4,Training
+PRJNA907202,SRR22477610,-0.4116626763403906,control,Healthy,female,31.0,Middle meatus,V3–V4,Training
+PRJNA907202,SRR22477608,-0.07991281145878337,control,Healthy,female,31.0,Middle meatus,V3–V4,Training
+PRJNA907202,SRR22477587,-0.5043064124214724,control,Healthy,male,28.0,Middle meatus,V3–V4,Training
+PRJNA907202,SRR22477510,-0.018623829429355476,control,Healthy,male,25.0,Middle meatus,V3–V4,Training
+PRJNA907202,SRR22477509,-0.7594057632010456,control,Healthy,male,25.0,Middle meatus,V3–V4,Training
+PRJNA907202,SRR22477487,-0.5056907340327695,control,Healthy,female,29.0,Middle meatus,V3–V4,Training
+PRJNA907202,SRR22477485,-0.8502812044769852,control,Healthy,female,29.0,Middle meatus,V3–V4,Training
+PRJNA907202,SRR22477397,-0.030602115936727348,control,Healthy,male,27.0,Middle meatus,V3–V4,Training
+PRJNA907202,SRR22477396,0.3168159938490337,control,Healthy,male,27.0,Middle meatus,V3–V4,Training
+PRJNA907202,SRR22477301,0.08262824711736472,control,Healthy,female,23.0,Middle meatus,V3–V4,Training
+PRJNA1058141,SRR27370631,-0.7203822901949217,control,Healthy,,,Middle meatus,V3–V4,Training
+PRJNA1058141,SRR27370632,0.6444920685960059,control,Healthy,,,Middle meatus,V3–V4,Training
+PRJNA1058141,SRR27370633,-0.8247024644420043,control,Healthy,,,Middle meatus,V3–V4,Training
+PRJNA1058141,SRR27370635,0.6033531755737868,control,Healthy,,,Middle meatus,V3–V4,Training
+PRJNA1058141,SRR27370636,0.7502409359013315,control,Healthy,,,Middle meatus,V3–V4,Training
+PRJNA1058141,SRR27370637,-0.3403785110962445,control,Healthy,,,Middle meatus,V3–V4,Training
+PRJNA1058141,SRR27370638,-0.07485375902819613,control,Healthy,,,Middle meatus,V3–V4,Training
+PRJNA1058141,SRR27370639,0.30247016767269475,control,Healthy,,,Middle meatus,V3–V4,Training
+PRJNA1058141,SRR27370640,0.24524441112091677,control,Healthy,,,Middle meatus,V3–V4,Training
+PRJNA1058141,SRR27370641,0.17465503368938695,control,Healthy,,,Middle meatus,V3–V4,Training
+PRJNA1058141,SRR27370642,-0.1835352809854468,control,Healthy,,,Middle meatus,V3–V4,Training
+PRJNA1058141,SRR27370643,0.7051429955140937,control,Healthy,,,Middle meatus,V3–V4,Training
+PRJNA1058141,SRR27370644,0.01457659311968229,control,Healthy,,,Middle meatus,V3–V4,Training
+PRJNA1058141,SRR27370646,0.39940532905116,control,Healthy,,,Middle meatus,V3–V4,Training
+PRJNA1058141,SRR27370647,0.48508739408185975,control,Healthy,,,Middle meatus,V3–V4,Training
+PRJNA1058141,SRR27370648,-0.2591204939438584,control,Healthy,,,Middle meatus,V3–V4,Training
+PRJNA1058141,SRR27370649,0.3189677680740509,control,Healthy,,,Middle meatus,V3–V4,Training
+PRJEB38610,ERR4183959,0.6090430700249062,control,Healthy,female,19.0,Anterior nares,V4,Training
+PRJEB38610,ERR4183899,0.5473551223694978,control,Healthy,female,19.0,Anterior nares,V4,Training
+PRJEB38610,ERR4183965,0.5557709311697369,control,Healthy,female,23.0,Anterior nares,V4,Training
+PRJEB38610,ERR4183788,-0.12619605495692487,control,Healthy,female,23.0,Anterior nares,V4,Training
+PRJEB38610,ERR4183765,0.8583879359003433,control,Healthy,female,23.0,Anterior nares,V4,Training
+PRJEB38610,ERR4183940,0.8283710677736508,control,Healthy,female,30.0,Anterior nares,V4,Training
+PRJEB38610,ERR4183852,1.2011771784410565,control,Healthy,female,30.0,Anterior nares,V4,Training
+PRJEB38610,ERR4183953,0.4005351107539544,control,Healthy,female,40.0,Anterior nares,V4,Training
+PRJEB38610,ERR4183951,0.5500485695847411,control,Healthy,female,45.0,Anterior nares,V4,Training
+PRJEB38610,ERR4183824,0.7272467956116363,control,Healthy,female,51.0,Anterior nares,V4,Training
+PRJEB38610,ERR4183917,0.937594576938395,control,Healthy,male,25.0,Anterior nares,V4,Training
+PRJEB38610,ERR4183843,0.7656208309785187,control,Healthy,male,30.0,Anterior nares,V4,Training
+PRJEB30316,ERR2174431,0.2942097155200508,control,Healthy,,,Anterior nares,V4,Training
+PRJEB30316,ERR2174434,0.5603204948531139,control,Healthy,,,Anterior nares,V4,Training
+PRJEB30316,ERR2174437,0.4489117110302855,control,Healthy,,,Anterior nares,V4,Training
+PRJEB30316,ERR2174439,0.43152971680393193,control,Healthy,,,Anterior nares,V4,Training
+PRJEB30316,ERR2174441,-0.4223920757602327,control,Healthy,,,Anterior nares,V4,Training
+PRJEB30316,ERR2174445,-0.015641725021429354,control,Healthy,,,Anterior nares,V4,Training
+PRJEB30316,ERR2174447,0.3082558286800253,control,Healthy,,,Anterior nares,V4,Training
+PRJEB30316,ERR2174449,0.11051011509470021,control,Healthy,,,Anterior nares,V4,Training
+PRJEB30316,ERR2174452,-0.10196268235552075,control,Healthy,,,Anterior nares,V4,Training
+PRJEB30316,ERR2174454,-0.3387630590117868,control,Healthy,,,Anterior nares,V4,Training
+PRJEB30316,ERR2174456,0.11752691833774098,control,Healthy,,,Anterior nares,V4,Training
+PRJEB30316,ERR2174460,-0.1330781116193992,control,Healthy,,,Anterior nares,V4,Training
+PRJEB30316,ERR2174464,0.740367681250573,control,Healthy,,,Anterior nares,V4,Training
+PRJEB30316,ERR2174472,0.47377654345360753,control,Healthy,,,Anterior nares,V4,Training
+PRJEB30316,ERR2174474,0.09547041901987252,control,Healthy,,,Anterior nares,V4,Training
+PRJEB30316,ERR2174477,0.16938369372850492,control,Healthy,,,Anterior nares,V4,Training
+PRJEB30316,ERR2174479,0.6998532417391888,control,Healthy,,,Anterior nares,V4,Training
+PRJEB30316,ERR2174481,0.044293383032587674,control,Healthy,,,Anterior nares,V4,Training
+PRJEB30316,ERR2174485,0.3883756161374622,control,Healthy,,,Anterior nares,V4,Training
+PRJEB30316,ERR2174487,0.5758805674212802,control,Healthy,,,Anterior nares,V4,Training
+PRJEB30316,ERR2174490,0.07488254359969748,control,Healthy,,,Anterior nares,V4,Training
+PRJEB30316,ERR2174492,-0.2779707488531793,control,Healthy,,,Anterior nares,V4,Training
+PRJEB30316,ERR2174494,-0.29751707096727986,control,Healthy,,,Anterior nares,V4,Training
+PRJEB30316,ERR2174496,-0.22683234448154566,control,Healthy,,,Anterior nares,V4,Training
+PRJEB30316,ERR2174500,-0.7236405307811792,control,Healthy,,,Anterior nares,V4,Training
+PRJEB30316,ERR2174502,0.01124219368194379,control,Healthy,,,Anterior nares,V4,Training
+PRJEB30316,ERR2174504,0.6445914994528271,control,Healthy,,,Anterior nares,V4,Training
+PRJEB30316,ERR2174506,-0.22107749362064333,control,Healthy,,,Anterior nares,V4,Training
+PRJEB30316,ERR2174508,0.5400109744153344,control,Healthy,,,Anterior nares,V4,Training
+PRJEB30316,ERR2174513,0.5786658890859383,control,Healthy,,,Anterior nares,V4,Training
+PRJEB30316,ERR2174515,0.3156066589413554,control,Healthy,,,Anterior nares,V4,Training
+PRJEB30316,ERR2174517,0.14600790016818332,control,Healthy,,,Anterior nares,V4,Training
+PRJEB30316,ERR2174519,-0.14182826400771542,control,Healthy,,,Anterior nares,V4,Training
+PRJEB30316,ERR2174521,0.3652548805332382,control,Healthy,,,Anterior nares,V4,Training
+PRJEB30316,ERR2174522,0.5262695489021342,control,Healthy,,,Anterior nares,V4,Training
+PRJEB30316,ERR2174524,-0.08375195938096303,control,Healthy,,,Anterior nares,V4,Training
+PRJEB30316,ERR2174531,0.5095843826845253,control,Healthy,,,Anterior nares,V4,Training
+PRJEB30316,ERR2174533,0.5840488504181697,control,Healthy,,,Anterior nares,V4,Training
+PRJEB30316,ERR2174535,0.2858089857137224,control,Healthy,,,Anterior nares,V4,Training
+PRJEB30316,ERR2174537,0.8248789950915788,control,Healthy,,,Anterior nares,V4,Training
+PRJEB30316,ERR2174539,-0.18156420394429418,control,Healthy,,,Anterior nares,V4,Training
+PRJEB30316,ERR2174541,0.5569218602366256,control,Healthy,,,Anterior nares,V4,Training
+PRJEB30316,ERR2174543,-0.43357646004354994,control,Healthy,,,Anterior nares,V4,Training
+PRJEB30316,ERR2174545,0.07223692748272781,control,Healthy,,,Anterior nares,V4,Training
+PRJEB30316,ERR2174547,0.4763642893785597,control,Healthy,,,Anterior nares,V4,Training
+PRJEB30316,ERR2174549,0.5789182944270744,control,Healthy,,,Anterior nares,V4,Training
+PRJEB30316,ERR2174552,-0.2035675263044333,control,Healthy,,,Anterior nares,V4,Training
+PRJEB30316,ERR2174556,0.4394512146273445,control,Healthy,,,Anterior nares,V4,Training
+PRJEB30316,ERR2174559,0.1842578990932865,control,Healthy,,,Anterior nares,V4,Training
+PRJEB30316,ERR2174561,0.019328619007306314,control,Healthy,,,Anterior nares,V4,Training
+PRJEB30316,ERR2174563,0.45935114790144926,control,Healthy,,,Anterior nares,V4,Training
+PRJEB30316,ERR2174565,-0.08834432356029998,control,Healthy,,,Anterior nares,V4,Training
+PRJEB30316,ERR2174569,-0.17001815056672764,control,Healthy,,,Anterior nares,V4,Training
+PRJEB30316,ERR2174572,-0.07338463940406725,control,Healthy,,,Anterior nares,V4,Training
+PRJEB30316,ERR2174575,0.5653765261552094,control,Healthy,,,Anterior nares,V4,Training
+PRJEB30316,ERR2174577,0.382255058291035,control,Healthy,,,Anterior nares,V4,Training
+PRJEB30316,ERR2174579,0.4495154929906574,control,Healthy,,,Anterior nares,V4,Training
+PRJEB30316,ERR2174581,0.04798165928902831,control,Healthy,,,Anterior nares,V4,Training
+PRJEB30316,ERR2174583,-0.24653764152828117,control,Healthy,,,Anterior nares,V4,Training
+PRJEB30316,ERR2174585,0.4357627085961592,control,Healthy,,,Anterior nares,V4,Training
+PRJEB30316,ERR2174587,0.7895006735494593,control,Healthy,,,Anterior nares,V4,Training
+PRJEB30316,ERR2174592,-0.2080699587757362,control,Healthy,,,Anterior nares,V4,Training
+PRJEB30316,ERR2174594,-0.2769582247335285,control,Healthy,,,Anterior nares,V4,Training
+PRJEB30316,ERR2174596,-0.036239500878246456,control,Healthy,,,Anterior nares,V4,Training
+PRJEB30316,ERR2174598,-0.25348104271982075,control,Healthy,,,Anterior nares,V4,Training
+PRJEB30316,ERR2174600,0.38183415828517175,control,Healthy,,,Anterior nares,V4,Training
+PRJEB30316,ERR2174604,0.19033006891126947,control,Healthy,,,Anterior nares,V4,Training
+PRJEB30316,ERR2174606,0.30262825009108296,control,Healthy,,,Anterior nares,V4,Training
+PRJEB30316,ERR2174610,-0.6057655617040923,control,Healthy,,,Anterior nares,V4,Training
+PRJEB22676,ERR1662647,-2.0781388448454234,control,Healthy,,,Nasal cavity (unspecified),V4,Training
+PRJEB22676,ERR1662649,-0.806271321080147,control,Healthy,,,Nasal cavity (unspecified),V4,Training
+PRJEB22676,ERR1662655,-0.7507436168694852,control,Healthy,,,Nasal cavity (unspecified),V4,Training
+PRJEB22676,ERR1662656,-0.9358580868534261,control,Healthy,,,Nasal cavity (unspecified),V4,Training
+PRJEB22676,ERR1662663,-0.8345885696030731,control,Healthy,,,Nasal cavity (unspecified),V4,Training
+PRJEB22676,ERR1662665,-0.9048537595599058,control,Healthy,,,Nasal cavity (unspecified),V4,Training
+PRJEB22676,ERR1662678,-0.730872262293075,control,Healthy,,,Nasal cavity (unspecified),V4,Training
+PRJEB22676,ERR1662679,-0.9140614973046656,control,Healthy,,,Nasal cavity (unspecified),V4,Training
+PRJEB22676,ERR1662689,-0.8391657019293801,control,Healthy,,,Nasal cavity (unspecified),V4,Training
+PRJEB22676,ERR1662690,-0.722257575859028,control,Healthy,,,Nasal cavity (unspecified),V4,Training
+PRJEB22676,ERR1662732,-0.8043014381684449,control,Healthy,,,Nasal cavity (unspecified),V4,Training
+PRJEB22676,ERR1662735,-0.8774994417486002,control,Healthy,,,Nasal cavity (unspecified),V4,Training
+PRJEB22676,ERR1662741,-0.8726969863623318,control,Healthy,,,Nasal cavity (unspecified),V4,Training
+PRJNA493980,SRR7944696,-0.739411262073251,control,Healthy,,,Middle meatus,V3–V4,Training
+PRJNA493980,SRR7944695,-0.5611810469280308,control,Healthy,,,Middle meatus,V3–V4,Training
+PRJNA493980,SRR7944693,-0.30159628678989564,control,Healthy,,,Middle meatus,V3–V4,Training
+PRJNA493980,SRR7944692,0.16153451714430234,control,Healthy,,,Middle meatus,V3–V4,Training
+PRJNA493980,SRR7944691,-0.5385402048084453,control,Healthy,,,Middle meatus,V3–V4,Training
+PRJNA493980,SRR7944690,-2.820742709659278,control,Healthy,,,Middle meatus,V3–V4,Training
+PRJNA493980,SRR7944689,-1.3861450148137553,control,Healthy,,,Middle meatus,V3–V4,Training
+PRJNA493980,SRR7944652,1.7145567100596346,control,Healthy,,,Middle meatus,V3–V4,Training
+PRJNA493980,SRR7944651,0.6662630448677122,control,Healthy,,,Middle meatus,V3–V4,Training
+PRJNA493980,SRR7944649,0.8469092655304743,control,Healthy,,,Middle meatus,V3–V4,Training
+PRJNA493980,SRR7944624,-0.16320689720838377,control,Healthy,,,Middle meatus,V3–V4,Training
+PRJNA493980,SRR7944623,1.0449566902244598,control,Healthy,,,Middle meatus,V3–V4,Training
+PRJNA493980,SRR7944622,-0.19322632681202512,control,Healthy,,,Middle meatus,V3–V4,Training
+PRJNA493980,SRR7944621,-0.8796463539023021,control,Healthy,,,Middle meatus,V3–V4,Training
+PRJNA493980,SRR7944620,-1.4816106627400543,control,Healthy,,,Middle meatus,V3–V4,Training
+PRJNA493980,SRR7944619,0.19033617966371785,control,Healthy,,,Middle meatus,V3–V4,Training
+PRJNA493980,SRR7944618,0.5849331075242553,control,Healthy,,,Middle meatus,V3–V4,Training
+PRJNA493980,SRR7944617,0.6995412619340516,control,Healthy,,,Middle meatus,V3–V4,Training
+PRJNA493980,SRR7944616,-1.0285456300873035,control,Healthy,,,Middle meatus,V3–V4,Training
+PRJNA493980,SRR7944615,-1.03038708598339,control,Healthy,,,Middle meatus,V3–V4,Training
+PRJNA493980,SRR7944614,-1.5299284822672017,control,Healthy,,,Middle meatus,V3–V4,Training
+PRJNA493980,SRR7944593,-0.598002349182595,control,Healthy,,,Middle meatus,V3–V4,Training
+PRJNA493980,SRR7944589,0.7089047968689487,control,Healthy,,,Middle meatus,V3–V4,Training
+PRJNA493980,SRR7944587,0.7690581174921557,control,Healthy,,,Middle meatus,V3–V4,Training
+PRJNA493980,SRR7944586,0.4236912389511006,control,Healthy,,,Middle meatus,V3–V4,Training
+PRJNA493980,SRR7944585,1.0259533908290823,control,Healthy,,,Middle meatus,V3–V4,Training
+PRJNA493980,SRR7944584,0.819376452946364,control,Healthy,,,Middle meatus,V3–V4,Training
+PRJNA338893,SRR4738268,0.6061705290677567,control,Healthy,female,19.0,Middle meatus,V3–V4,Training
+PRJNA338893,SRR4738263,0.8014351020688463,control,Healthy,female,19.0,Middle meatus,V3–V4,Training
+PRJNA338893,SRR4738608,-0.32433172079607286,control,Healthy,female,23.0,Middle meatus,V3–V4,Training
+PRJNA338893,SRR4738713,0.8266782119771855,control,Healthy,female,29.0,Middle meatus,V3–V4,Training
+PRJNA338893,SRR4738703,0.6225947427357349,control,Healthy,female,40.0,Middle meatus,V3–V4,Training
+PRJNA338893,SRR4738257,0.019019466231678606,control,Healthy,female,45.0,Middle meatus,V3–V4,Training
+PRJNA338893,SRR4738252,0.0736438799067789,control,Healthy,female,45.0,Middle meatus,V3–V4,Training
+PRJNA338893,SRR4738042,-0.2748487536711479,control,Healthy,female,46.0,Middle meatus,V3–V4,Training
+PRJNA338893,SRR4738069,0.7637538971195869,control,Healthy,female,48.0,Middle meatus,V3–V4,Training
+PRJNA338893,SRR4738324,-0.02591032274072058,control,Healthy,female,52.0,Middle meatus,V3–V4,Training
+PRJNA338893,SRR4737595,0.03414330310370728,control,Healthy,female,52.0,Middle meatus,V3–V4,Training
+PRJNA338893,SRR4738226,0.4255442212859414,control,Healthy,female,57.0,Middle meatus,V3–V4,Training
+PRJNA338893,SRR4738216,0.21771435799124472,control,Healthy,female,57.0,Middle meatus,V3–V4,Training
+PRJNA338893,SRR4738246,0.6849129521773231,control,Healthy,female,59.0,Middle meatus,V3–V4,Training
+PRJNA338893,SRR4738243,0.5508070708233609,control,Healthy,female,59.0,Middle meatus,V3–V4,Training
+PRJNA338893,SRR4738941,-0.3115635787523258,control,Healthy,female,61.0,Middle meatus,V3–V4,Training
+PRJNA338893,SRR4738350,0.12004097555099047,control,Healthy,female,68.0,Middle meatus,V3–V4,Training
+PRJNA338893,SRR4738469,-0.43217147728907374,control,Healthy,female,78.0,Middle meatus,V3–V4,Training
+PRJNA338893,SRR4738459,-0.43442484019411426,control,Healthy,female,78.0,Middle meatus,V3–V4,Training
+PRJNA338893,SRR4737926,0.1550687119661479,control,Healthy,female,84.0,Middle meatus,V3–V4,Training
+PRJNA338893,SRR4737922,0.1875725722785978,control,Healthy,female,84.0,Middle meatus,V3–V4,Training
+PRJNA338893,SRR4738826,0.5241740094963935,control,Healthy,male,22.0,Middle meatus,V3–V4,Training
+PRJNA338893,SRR4738823,0.4499385393575467,control,Healthy,male,22.0,Middle meatus,V3–V4,Training
+PRJNA338893,SRR4738753,0.3204434180012202,control,Healthy,male,31.0,Middle meatus,V3–V4,Training
+PRJNA338893,SRR4738743,0.5696706001238222,control,Healthy,male,31.0,Middle meatus,V3–V4,Training
+PRJNA338893,SRR4737994,0.8930541379601181,control,Healthy,male,36.0,Middle meatus,V3–V4,Training
+PRJNA338893,SRR4737889,0.64306693451839,control,Healthy,male,53.0,Middle meatus,V3–V4,Training
+PRJNA338893,SRR4737886,0.759467146670869,control,Healthy,male,80.0,Middle meatus,V3–V4,Training
+PRJNA338893,SRR4737870,-1.1579563747329646,control,Healthy,male,80.0,Middle meatus,V3–V4,Training
+PRJEB20526,ERR1952059,0.950153470771261,control,Healthy,,,Olfactory cleft,V4,Training
+PRJEB20526,ERR1952060,1.667854967703919,control,Healthy,,,Olfactory cleft,V4,Training
+PRJEB20526,ERR1952062,3.6833374967403447,control,Healthy,,,Olfactory cleft,V4,Training
+PRJEB20526,ERR1952063,0.21400666098318788,control,Healthy,,,Olfactory cleft,V4,Training
+PRJEB20526,ERR1952067,0.7532660109338708,control,Healthy,,,Olfactory cleft,V4,Training
+PRJEB20526,ERR1952068,4.069560862753854,control,Healthy,,,Olfactory cleft,V4,Training
+PRJEB20526,ERR1952069,1.0061283183341416,control,Healthy,,,Olfactory cleft,V4,Training
+PRJEB20526,ERR1952071,1.989490590458431,control,Healthy,,,Olfactory cleft,V4,Training
+PRJEB20526,ERR1952073,0.8136203463976915,control,Healthy,,,Olfactory cleft,V4,Training
+PRJEB20526,ERR1952074,2.8787473021125125,control,Healthy,,,Olfactory cleft,V4,Training
+PRJEB20526,ERR1952075,3.545469964036868,control,Healthy,,,Olfactory cleft,V4,Training
+PRJEB20526,ERR1952076,2.7808910940136387,control,Healthy,,,Olfactory cleft,V4,Training
+PRJEB20526,ERR1952077,0.03812507424911438,control,Healthy,,,Olfactory cleft,V4,Training
+PRJEB20526,ERR1952078,0.9265942116939802,control,Healthy,,,Olfactory cleft,V4,Training
+PRJEB20526,ERR1952079,2.1313320171629164,control,Healthy,,,Olfactory cleft,V4,Training
+PRJEB20526,ERR1952080,0.8155229679075994,control,Healthy,,,Olfactory cleft,V4,Training
+PRJEB20526,ERR1952081,1.2525963130451916,control,Healthy,,,Olfactory cleft,V4,Training
+PRJEB20526,ERR1952082,1.2930235398087202,control,Healthy,,,Olfactory cleft,V4,Training
+PRJEB20526,ERR1952083,1.6155053472792864,control,Healthy,,,Olfactory cleft,V4,Training
+PRJEB20526,ERR1952084,1.857257542359465,control,Healthy,,,Olfactory cleft,V4,Training
+PRJEB20526,ERR1952085,-0.6696946592571644,control,Healthy,,,Olfactory cleft,V4,Training
+PRJEB20526,ERR1952086,1.005150584557855,control,Healthy,,,Olfactory cleft,V4,Training
+PRJEB20526,ERR1952087,-0.40246434447968904,control,Healthy,,,Olfactory cleft,V4,Training
+PRJEB20526,ERR1952088,1.6851070242758657,control,Healthy,,,Olfactory cleft,V4,Training
+PRJEB20526,ERR1952089,1.6724613250302198,control,Healthy,,,Olfactory cleft,V4,Training
+PRJEB20526,ERR1952090,-0.3229318442899133,control,Healthy,,,Olfactory cleft,V4,Training
+PRJEB20526,ERR1952091,1.7075302277181996,control,Healthy,,,Olfactory cleft,V4,Training
+PRJEB20526,ERR1952092,3.1024233212602788,control,Healthy,,,Olfactory cleft,V4,Training
+PRJEB20526,ERR1952093,2.6208878007511043,control,Healthy,,,Olfactory cleft,V4,Training
+PRJEB20526,ERR1952094,2.253895152156368,control,Healthy,,,Olfactory cleft,V4,Training
+PRJEB20526,ERR1952095,2.2924140769050587,control,Healthy,,,Olfactory cleft,V4,Training
+PRJEB20526,ERR1952096,1.2150783895614725,control,Healthy,,,Olfactory cleft,V4,Training
+PRJEB20526,ERR1952097,2.7923797436806286,control,Healthy,,,Olfactory cleft,V4,Training
+PRJEB20526,ERR1952098,0.7653489305330993,control,Healthy,,,Olfactory cleft,V4,Training
+PRJEB20526,ERR1952099,4.008226045382211,control,Healthy,,,Olfactory cleft,V4,Training
+PRJEB20526,ERR1952100,1.4483277585131655,control,Healthy,,,Olfactory cleft,V4,Training
+PRJEB20526,ERR1952101,2.692938628994758,control,Healthy,,,Olfactory cleft,V4,Training
+PRJEB20526,ERR1952102,0.9104783333261165,control,Healthy,,,Olfactory cleft,V4,Training
+PRJEB20526,ERR1952103,-1.6369332439834705,control,Healthy,,,Olfactory cleft,V4,Training
+PRJEB20526,ERR1952104,0.7541316001439046,control,Healthy,,,Olfactory cleft,V4,Training
+PRJEB20526,ERR1952105,1.9325623511588308,control,Healthy,,,Olfactory cleft,V4,Training
+PRJEB20526,ERR1952106,3.446961779088447,control,Healthy,,,Olfactory cleft,V4,Training
+PRJEB20526,ERR1952107,1.3848337380454914,control,Healthy,,,Olfactory cleft,V4,Training
+PRJEB20526,ERR1952108,0.6331906494653917,control,Healthy,,,Olfactory cleft,V4,Training
+PRJEB20526,ERR1952109,1.1828484396814152,control,Healthy,,,Olfactory cleft,V4,Training
+PRJEB20526,ERR1952110,-0.3840443715806651,control,Healthy,,,Olfactory cleft,V4,Training
+PRJEB20526,ERR1952111,3.6902296802403987,control,Healthy,,,Olfactory cleft,V4,Training
+PRJEB20526,ERR1952113,0.5906513922942763,control,Healthy,,,Olfactory cleft,V4,Training
+PRJEB20526,ERR1952114,-0.19236332425848435,control,Healthy,,,Olfactory cleft,V4,Training
+PRJEB20526,ERR1952115,1.015332440971481,control,Healthy,,,Olfactory cleft,V4,Training
+PRJEB20526,ERR1952116,0.7506772787828223,control,Healthy,,,Olfactory cleft,V4,Training
+PRJEB20526,ERR1952117,1.763185064899504,control,Healthy,,,Olfactory cleft,V4,Training
+PRJNA494384,SRR7949610,1.048104243598897,control,Healthy,,,Nasal cavity (unspecified),V3–V4,Training
+PRJNA494384,SRR7949604,0.7675850087364814,control,Healthy,,,Nasal cavity (unspecified),V3–V4,Training
+PRJNA494384,SRR7949607,-0.08171430259488033,control,Healthy,,,Nasal cavity (unspecified),V3–V4,Training
+PRJNA494384,SRR7949615,-0.13884186731371262,control,Healthy,,,Nasal cavity (unspecified),V3–V4,Training
+PRJNA494384,SRR7949623,-0.37516756328975603,control,Healthy,,,Nasal cavity (unspecified),V3–V4,Training
+PRJNA494384,SRR7949626,-0.2651122369938836,control,Healthy,,,Nasal cavity (unspecified),V3–V4,Training
+PRJNA494384,SRR7949629,0.13887713785506028,control,Healthy,,,Nasal cavity (unspecified),V3–V4,Training
+PRJNA494384,SRR7949647,0.1144480693685378,control,Healthy,,,Nasal cavity (unspecified),V3–V4,Training
+PRJNA494384,SRR7949609,0.5405685744797911,control,Healthy,,,Nasal cavity (unspecified),V3–V4,Training
+PRJNA494384,SRR7949614,-0.15585148172484697,control,Healthy,,,Nasal cavity (unspecified),V3–V4,Training
+PRJNA494384,SRR7949628,0.7937662996963645,control,Healthy,,,Nasal cavity (unspecified),V3–V4,Training
+PRJNA1028156,SRR26387006,0.2902508546741235,control,Healthy,female,19.0,Middle meatus,V3–V4,Training
+PRJNA1028156,SRR26386926,0.32253325932722976,control,Healthy,female,25.0,Middle meatus,V3–V4,Training
+PRJNA1028156,SRR26386955,0.8237976765397942,control,Healthy,female,27.0,Middle meatus,V3–V4,Training
+PRJNA1028156,SRR26386961,1.1672235435274776,control,Healthy,female,29.0,Middle meatus,V3–V4,Training
+PRJNA1028156,SRR26386956,0.9038385661720961,control,Healthy,female,32.0,Middle meatus,V3–V4,Training
+PRJNA1028156,SRR26386951,0.8906821027224386,control,Healthy,female,34.0,Middle meatus,V3–V4,Training
+PRJNA1028156,SRR26386944,0.829662306703517,control,Healthy,female,34.0,Middle meatus,V3–V4,Training
+PRJNA1028156,SRR26386950,0.7122776769041629,control,Healthy,female,42.0,Middle meatus,V3–V4,Training
+PRJNA1028156,SRR26386948,0.8380746645090403,control,Healthy,female,44.0,Middle meatus,V3–V4,Training
+PRJNA1028156,SRR26386962,-0.2480608083471667,control,Healthy,female,53.0,Middle meatus,V3–V4,Training
+PRJNA1028156,SRR26386936,-0.20749630043255263,control,Healthy,female,54.0,Middle meatus,V3–V4,Training
+PRJNA1028156,SRR26386930,0.7436445611078067,control,Healthy,female,54.0,Middle meatus,V3–V4,Training
+PRJNA1028156,SRR26386929,0.36371886986701363,control,Healthy,female,57.0,Middle meatus,V3–V4,Training
+PRJNA1028156,SRR26386927,0.4774910855024953,control,Healthy,female,58.0,Middle meatus,V3–V4,Training
+PRJNA1028156,SRR26386967,0.23637457211554735,control,Healthy,female,60.0,Middle meatus,V3–V4,Training
+PRJNA1028156,SRR26386968,0.534959633474083,control,Healthy,female,64.0,Middle meatus,V3–V4,Training
+PRJNA1028156,SRR26386953,-0.20810371522127746,control,Healthy,male,35.0,Middle meatus,V3–V4,Training
+PRJNA1028156,SRR26386946,1.323239330380661,control,Healthy,male,35.0,Middle meatus,V3–V4,Training
+PRJNA1028156,SRR26386934,0.7301440376727238,control,Healthy,male,39.0,Middle meatus,V3–V4,Training
+PRJNA1028156,SRR26386964,0.7079021495268353,control,Healthy,male,41.0,Middle meatus,V3–V4,Training
+PRJNA1028156,SRR26386963,0.5315678290897782,control,Healthy,male,41.0,Middle meatus,V3–V4,Training
+PRJNA1028156,SRR26387007,0.6803237711023603,control,Healthy,male,43.0,Middle meatus,V3–V4,Training
+PRJNA1028156,SRR26387009,0.6976311136689287,control,Healthy,male,49.0,Middle meatus,V3–V4,Training
+PRJNA1028156,SRR26386937,1.0437724897276301,control,Healthy,male,50.0,Middle meatus,V3–V4,Training
+PRJNA1028156,SRR26386935,0.58704949097888,control,Healthy,male,50.0,Middle meatus,V3–V4,Training
+PRJNA1028156,SRR26386933,0.34999897113103373,control,Healthy,male,54.0,Middle meatus,V3–V4,Training
+PRJNA1028156,SRR26386952,0.7845817737570487,control,Healthy,male,56.0,Middle meatus,V3–V4,Training
+PRJNA1028156,SRR26386949,0.7199986973171214,control,Healthy,male,57.0,Middle meatus,V3–V4,Training
+PRJNA1028156,SRR26386947,0.7427371138364364,control,Healthy,male,58.0,Middle meatus,V3–V4,Training
+PRJNA1028156,SRR26386939,0.884805381418131,control,Healthy,male,58.0,Middle meatus,V3–V4,Training
+PRJNA1028156,SRR26386938,0.6174129900987265,control,Healthy,male,59.0,Middle meatus,V3–V4,Training
+PRJNA1028156,SRR26386966,0.20801900299556264,control,Healthy,male,60.0,Middle meatus,V3–V4,Training
+PRJNA1028156,SRR26386957,0.7516969187369341,control,Healthy,male,60.0,Middle meatus,V3–V4,Training
+PRJNA1028156,SRR26387011,0.5450209251897599,control,Healthy,male,62.0,Middle meatus,V3–V4,Training
+PRJNA1028156,SRR26386958,0.6227551742803775,control,Healthy,male,63.0,Middle meatus,V3–V4,Training
+PRJNA1028156,SRR26386945,0.9780793330278746,control,Healthy,male,64.0,Middle meatus,V3–V4,Training
+PRJNA1028156,SRR26386941,0.3953917235651051,control,Healthy,male,64.0,Middle meatus,V3–V4,Training
+PRJNA1028156,SRR26386940,-0.16296996360583405,control,Healthy,male,64.0,Middle meatus,V3–V4,Training
+PRJNA1028156,SRR26386942,0.6756948450777996,control,Healthy,male,66.0,Middle meatus,V3–V4,Training
+PRJNA1028156,SRR26387010,-0.2223076147688413,control,Healthy,male,67.0,Middle meatus,V3–V4,Training
+PRJNA1028156,SRR26386960,0.7493940496489969,control,Healthy,male,68.0,Middle meatus,V3–V4,Training
+PRJNA1028156,SRR26386959,0.7332318123806109,control,Healthy,male,69.0,Middle meatus,V3–V4,Training
+PRJNA1028156,SRR26386928,0.2309602877360002,control,Healthy,male,74.0,Middle meatus,V3–V4,Training
+PRJNA785109,SRR17082972,0.6505344086770256,control,Healthy,female,24.0,Middle meatus,V3–V4,Training
+PRJNA785109,SRR17083028,-0.15901931420540394,control,Healthy,female,26.0,Middle meatus,V3–V4,Training
+PRJNA785109,SRR17082958,0.577635843594494,control,Healthy,female,26.0,Middle meatus,V3–V4,Training
+PRJNA785109,SRR17082977,2.737070223779545,control,Healthy,female,31.0,Middle meatus,V3–V4,Training
+PRJNA785109,SRR17083024,0.7257258914719419,control,Healthy,female,32.0,Middle meatus,V3–V4,Training
+PRJNA785109,SRR17082944,1.3224170040369976,control,Healthy,female,35.0,Middle meatus,V3–V4,Training
+PRJNA785109,SRR17082943,-0.13479503996457765,control,Healthy,female,37.0,Middle meatus,V3–V4,Training
+PRJNA785109,SRR17082937,0.7159099151358698,control,Healthy,female,40.0,Middle meatus,V3–V4,Training
+PRJNA785109,SRR17082973,0.5323125650341153,control,Healthy,female,41.0,Middle meatus,V3–V4,Training
+PRJNA785109,SRR17082970,0.8649824803912848,control,Healthy,female,41.0,Middle meatus,V3–V4,Training
+PRJNA785109,SRR17082940,1.9572062604387677,control,Healthy,female,46.0,Middle meatus,V3–V4,Training
+PRJNA785109,SRR17082979,0.6968910999428831,control,Healthy,female,49.0,Middle meatus,V3–V4,Training
+PRJNA785109,SRR17083020,0.9612426253933234,control,Healthy,female,50.0,Middle meatus,V3–V4,Training
+PRJNA785109,SRR17083019,0.5826198865652997,control,Healthy,female,50.0,Middle meatus,V3–V4,Training
+PRJNA785109,SRR17082955,2.0466657381815665,control,Healthy,female,51.0,Middle meatus,V3–V4,Training
+PRJNA785109,SRR17082962,1.015979274783815,control,Healthy,female,56.0,Middle meatus,V3–V4,Training
+PRJNA785109,SRR17082948,0.7201232685571869,control,Healthy,female,57.0,Middle meatus,V3–V4,Training
+PRJNA785109,SRR17082946,0.7415918658858353,control,Healthy,female,58.0,Middle meatus,V3–V4,Training
+PRJNA785109,SRR17083026,0.6174428815012319,control,Healthy,female,59.0,Middle meatus,V3–V4,Training
+PRJNA785109,SRR17082961,0.7534749910132558,control,Healthy,female,60.0,Middle meatus,V3–V4,Training
+PRJNA785109,SRR17082982,0.6049413804441545,control,Healthy,female,62.0,Middle meatus,V3–V4,Training
+PRJNA785109,SRR17082964,0.6170033819180342,control,Healthy,female,63.0,Middle meatus,V3–V4,Training
+PRJNA785109,SRR17082954,0.6195695271034757,control,Healthy,female,63.0,Middle meatus,V3–V4,Training
+PRJNA785109,SRR17083022,-0.23570968764857547,control,Healthy,female,64.0,Middle meatus,V3–V4,Training
+PRJNA785109,SRR17082942,0.9768156711367434,control,Healthy,female,64.0,Middle meatus,V3–V4,Training
+PRJNA785109,SRR17082938,0.39605738589544603,control,Healthy,female,64.0,Middle meatus,V3–V4,Training
+PRJNA785109,SRR17082939,0.6749647134843998,control,Healthy,female,66.0,Middle meatus,V3–V4,Training
+PRJNA785109,SRR17082981,-0.22213395675172276,control,Healthy,female,67.0,Middle meatus,V3–V4,Training
+PRJNA785109,SRR17082968,0.7503208537120302,control,Healthy,female,68.0,Middle meatus,V3–V4,Training
+PRJNA785109,SRR17082966,0.7336918678160987,control,Healthy,female,69.0,Middle meatus,V3–V4,Training
+PRJNA785109,SRR17083030,-0.2770870824674945,control,Healthy,female,75.0,Middle meatus,V3–V4,Training
+PRJNA785109,SRR17082965,0.26979018283068534,control,Healthy,female,79.0,Middle meatus,V3–V4,Training
+PRJNA785109,SRR17082949,-0.13478470968920286,control,Healthy,male,18.0,Middle meatus,V3–V4,Training
+PRJNA785109,SRR17082941,-0.17484752244018598,control,Healthy,male,19.0,Middle meatus,V3–V4,Training
+PRJNA785109,SRR17083025,1.17419850310369,control,Healthy,male,26.0,Middle meatus,V3–V4,Training
+PRJNA785109,SRR17082957,0.7004449025145042,control,Healthy,male,26.0,Middle meatus,V3–V4,Training
+PRJNA785109,SRR17082953,0.823965582953979,control,Healthy,male,27.0,Middle meatus,V3–V4,Training
+PRJNA785109,SRR17082975,0.7468302075912968,control,Healthy,male,31.0,Middle meatus,V3–V4,Training
+PRJNA785109,SRR17082980,0.4079060345174289,control,Healthy,male,35.0,Middle meatus,V3–V4,Training
+PRJNA785109,SRR17082976,0.5182824330947512,control,Healthy,male,37.0,Middle meatus,V3–V4,Training
+PRJNA785109,SRR17083029,0.1622910501685465,control,Healthy,male,42.0,Middle meatus,V3–V4,Training
+PRJNA785109,SRR17082950,0.7120389531578059,control,Healthy,male,42.0,Middle meatus,V3–V4,Training
+PRJNA785109,SRR17082974,-0.037604160666591,control,Healthy,male,43.0,Middle meatus,V3–V4,Training
+PRJNA785109,SRR17082984,-0.7281940258599743,control,Healthy,male,50.0,Middle meatus,V3–V4,Training
+PRJNA785109,SRR17083027,-1.1582167535078844,control,Healthy,male,51.0,Middle meatus,V3–V4,Training
+PRJNA785109,SRR17082947,-0.2159426453492902,control,Healthy,male,51.0,Middle meatus,V3–V4,Training
+PRJNA785109,SRR17082951,-0.09593226797114918,control,Healthy,male,52.0,Middle meatus,V3–V4,Training
+PRJNA785109,SRR17082971,-0.16812384788599566,control,Healthy,male,53.0,Middle meatus,V3–V4,Training
+PRJNA785109,SRR17083023,-0.20665175911340983,control,Healthy,male,54.0,Middle meatus,V3–V4,Training
+PRJNA785109,SRR17082960,2.0688182382118243,control,Healthy,male,55.0,Middle meatus,V3–V4,Training
+PRJNA785109,SRR17082963,0.7916164982723825,control,Healthy,male,57.0,Middle meatus,V3–V4,Training
+PRJNA785109,SRR17082952,-0.2867337867671171,control,Healthy,male,62.0,Middle meatus,V3–V4,Training
+PRJNA785109,SRR17082983,0.5829169400471109,control,Healthy,male,67.0,Middle meatus,V3–V4,Training
+PRJNA646474,SRR12228691,-0.052712984536985585,control,Healthy,,,Nasal cavity (unspecified),V3–V4,Training
+PRJNA646474,SRR12228680,0.8751489038084982,control,Healthy,,,Nasal cavity (unspecified),V3–V4,Training
+PRJNA646474,SRR12228673,0.6355665164852625,control,Healthy,,,Nasal cavity (unspecified),V3–V4,Training
+PRJNA646474,SRR12228709,0.06182800522700593,control,Healthy,,,Nasal cavity (unspecified),V3–V4,Training
+PRJNA646474,SRR12228705,0.31205133969392473,control,Healthy,,,Nasal cavity (unspecified),V3–V4,Training
+PRJNA646474,SRR12228704,-0.16648975759981677,control,Healthy,,,Nasal cavity (unspecified),V3–V4,Training
+PRJNA646474,SRR12228703,0.5518998274929373,control,Healthy,,,Nasal cavity (unspecified),V3–V4,Training
+PRJNA646474,SRR12228700,0.35504604928568606,control,Healthy,,,Nasal cavity (unspecified),V3–V4,Training
+PRJNA646474,SRR12228698,0.3103474514070016,control,Healthy,,,Nasal cavity (unspecified),V3–V4,Training
+PRJNA646474,SRR12228696,-0.18587837860440382,control,Healthy,,,Nasal cavity (unspecified),V3–V4,Training
+PRJNA646474,SRR12228694,-0.23266878138448166,control,Healthy,,,Nasal cavity (unspecified),V3–V4,Training
+PRJNA646474,SRR12228693,0.028111333049786413,control,Healthy,,,Nasal cavity (unspecified),V3–V4,Training
+PRJNA646474,SRR12228690,0.1239552464785234,control,Healthy,,,Nasal cavity (unspecified),V3–V4,Training
+PRJNA646474,SRR12228688,0.5030268260407992,control,Healthy,,,Nasal cavity (unspecified),V3–V4,Training
+PRJNA646474,SRR12228687,0.1686993465103872,control,Healthy,,,Nasal cavity (unspecified),V3–V4,Training
+PRJNA646474,SRR12228685,0.5396849920157435,control,Healthy,,,Nasal cavity (unspecified),V3–V4,Training
+PRJNA646474,SRR12228683,0.5210693158370351,control,Healthy,,,Nasal cavity (unspecified),V3–V4,Training
+PRJNA646474,SRR12228682,0.7096905817662628,control,Healthy,,,Nasal cavity (unspecified),V3–V4,Training
+PRJNA646474,SRR12228681,0.22346446779719642,control,Healthy,,,Nasal cavity (unspecified),V3–V4,Training
+PRJNA646474,SRR12228679,0.14317168692366122,control,Healthy,,,Nasal cavity (unspecified),V3–V4,Training
+PRJNA646474,SRR12228678,-0.0027803770067755806,control,Healthy,,,Nasal cavity (unspecified),V3–V4,Training
+PRJNA646474,SRR12228677,0.4404445172311636,control,Healthy,,,Nasal cavity (unspecified),V3–V4,Training
+PRJNA473785,SRR7234867,1.0993238665222713,control,Healthy,,,Middle meatus,V1–V2,Training
+PRJNA473785,SRR7234863,0.8032701043846336,control,Healthy,,,Middle meatus,V1–V2,Training
+PRJNA473785,SRR7234865,1.047130298478831,control,Healthy,,,Middle meatus,V1–V2,Training
+PRJNA473785,SRR7234847,1.241678229301542,control,Healthy,,,Middle meatus,V1–V2,Training
+PRJNA473785,SRR7234848,0.8579458911524668,control,Healthy,,,Middle meatus,V1–V2,Training
+PRJNA473785,SRR7234830,0.6869636675138734,control,Healthy,,,Middle meatus,V1–V2,Training
+PRJNA473785,SRR7234829,-0.13510799701722898,control,Healthy,,,Middle meatus,V1–V2,Training
+PRJNA473785,SRR7234827,1.684962673349864,control,Healthy,,,Middle meatus,V1–V2,Training
+PRJNA473785,SRR7234874,0.05426779602526277,control,Healthy,,,Middle meatus,V1–V2,Training
+PRJNA473785,SRR7234879,2.146766850388605,control,Healthy,,,Middle meatus,V1–V2,Training
+PRJNA473785,SRR7234762,1.906277517549623,control,Healthy,,,Middle meatus,V1–V2,Training
+PRJNA473785,SRR7234761,0.4031280075694802,control,Healthy,,,Middle meatus,V1–V2,Training
+PRJNA473785,SRR7234767,0.6901919971619307,control,Healthy,,,Middle meatus,V1–V2,Training
+PRJNA473785,SRR7234764,0.7825079889920997,control,Healthy,,,Middle meatus,V1–V2,Training
+PRJNA473785,SRR7234763,1.3651607427433903,control,Healthy,,,Middle meatus,V1–V2,Training
+PRJNA473785,SRR7234780,1.1356735741119297,control,Healthy,,,Middle meatus,V1–V2,Training
+PRJNA473785,SRR7234777,2.4478106605300174,control,Healthy,,,Middle meatus,V1–V2,Training
+PRJNA473785,SRR7234792,0.8296070769619374,control,Healthy,,,Middle meatus,V1–V2,Training
+PRJNA473785,SRR7234791,0.24986625538082452,control,Healthy,,,Middle meatus,V1–V2,Training
+PRJNA473785,SRR7234793,3.0355888001737634,control,Healthy,,,Middle meatus,V1–V2,Training
+PRJNA473785,SRR7234798,2.124686187626901,control,Healthy,,,Middle meatus,V1–V2,Training
+PRJNA473785,SRR7234797,-0.14597474932242616,control,Healthy,,,Middle meatus,V1–V2,Training
+PRJNA473785,SRR7234809,3.474391814637875,control,Healthy,,,Middle meatus,V1–V2,Training
+PRJNA473785,SRR7234806,0.7537952832297224,control,Healthy,,,Middle meatus,V1–V2,Training
+PRJNA473785,SRR7234807,1.4026771942167144,control,Healthy,,,Middle meatus,V1–V2,Training
+PRJNA473785,SRR7234802,0.4329303505144336,control,Healthy,,,Middle meatus,V1–V2,Training
+PRJNA473785,SRR7234804,0.8169922653542995,control,Healthy,,,Middle meatus,V1–V2,Training
+PRJNA473785,SRR7234816,0.8584453136355611,control,Healthy,,,Middle meatus,V1–V2,Training
+PRJNA473785,SRR7234864,0.8620532570580907,control,Healthy,,,Middle meatus,V1–V2,Training
+PRJNA473785,SRR7234841,0.17205192114243062,control,Healthy,,,Middle meatus,V1–V2,Training
+PRJNA473785,SRR7234844,0.9307310211034897,control,Healthy,,,Middle meatus,V1–V2,Training
+PRJNA473785,SRR7234826,0.8165062435950844,control,Healthy,,,Middle meatus,V1–V2,Training
+PRJNA473785,SRR7234759,0.5906905608018455,control,Healthy,,,Middle meatus,V1–V2,Training
+PRJNA473785,SRR7234877,0.6111160872299065,control,Healthy,,,Middle meatus,V1–V2,Training
+PRJNA473785,SRR7234880,2.9153849932748837,control,Healthy,,,Middle meatus,V1–V2,Training
+PRJNA473785,SRR7234773,3.5289904618829393,control,Healthy,,,Middle meatus,V1–V2,Training
+PRJNA473785,SRR7234775,1.7567881534766432,control,Healthy,,,Middle meatus,V1–V2,Training
+PRJNA473785,SRR7234800,0.6219287669177721,control,Healthy,,,Middle meatus,V1–V2,Training
+PRJNA473785,SRR7234796,1.1960376680490716,control,Healthy,,,Middle meatus,V1–V2,Training
+PRJNA473785,SRR7234810,1.1264576620733537,control,Healthy,,,Middle meatus,V1–V2,Training
+PRJNA473785,SRR7234819,0.4498900927663646,control,Healthy,,,Middle meatus,V1–V2,Training
+PRJNA733573,SRR14705930,0.4093484622678677,control,Healthy,,,Anterior nares,V4,Training
+PRJNA733573,SRR14705928,0.7796995256731415,control,Healthy,,,Anterior nares,V4,Training
+PRJNA733573,SRR14705927,1.099022710655103,control,Healthy,,,Anterior nares,V4,Training
+PRJNA733573,SRR14705924,0.8055584434952542,control,Healthy,,,Anterior nares,V4,Training
+PRJNA733573,SRR14705923,0.8294919993736681,control,Healthy,,,Anterior nares,V4,Training
+PRJNA733573,SRR14705922,0.4557961719550526,control,Healthy,,,Anterior nares,V4,Training
+PRJNA733573,SRR14705921,0.3107299510206908,control,Healthy,,,Anterior nares,V4,Training
+PRJNA733573,SRR14705919,0.2668716870617788,control,Healthy,,,Anterior nares,V4,Training
+PRJNA733573,SRR14705918,-0.778318356468518,control,Healthy,,,Anterior nares,V4,Training
+PRJNA733573,SRR14705916,0.24937851911827547,control,Healthy,,,Anterior nares,V4,Training
+PRJNA733573,SRR14705915,0.10692752985205967,control,Healthy,,,Anterior nares,V4,Training
+PRJNA733573,SRR14705913,0.6839270633497835,control,Healthy,,,Anterior nares,V4,Training
+PRJNA733573,SRR14705910,0.7879758606940245,control,Healthy,,,Anterior nares,V4,Training
+PRJNA733573,SRR14705909,0.7837138602647552,control,Healthy,,,Anterior nares,V4,Training
+PRJNA733573,SRR14705908,0.19534351889518087,control,Healthy,,,Anterior nares,V4,Training
+PRJNA733573,SRR14705907,0.09296065604919512,control,Healthy,,,Anterior nares,V4,Training
+PRJNA733573,SRR14705906,0.8572418741841284,control,Healthy,,,Anterior nares,V4,Training
+PRJNA733573,SRR14705905,1.4236840097779027,control,Healthy,,,Anterior nares,V4,Training
+PRJNA923578,SRR23073003,1.0540136585079138,control,Healthy,female,21.0,Anterior nares,V1–V3,Training
+PRJNA923578,SRR23073013,1.5091058006124358,control,Healthy,female,21.0,Anterior nares,V1–V3,Training
+PRJNA923578,SRR23073094,0.7467821533819569,control,Healthy,female,21.0,Anterior nares,V1–V3,Training
+PRJNA923578,SRR23072992,0.8349082961529942,control,Healthy,female,22.0,Anterior nares,V1–V3,Training
+PRJNA923578,SRR23072986,0.3651248637276937,control,Healthy,female,22.0,Anterior nares,V1–V3,Training
+PRJNA923578,SRR23073063,2.751224297409503,control,Healthy,female,22.0,Anterior nares,V1–V3,Training
+PRJNA923578,SRR23073000,0.590710560967118,control,Healthy,female,22.0,Anterior nares,V1–V3,Training
+PRJNA923578,SRR23073010,0.6429988932963785,control,Healthy,female,22.0,Anterior nares,V1–V3,Training
+PRJNA923578,SRR23073005,3.10653036497379,control,Healthy,female,23.0,Anterior nares,V1–V3,Training
+PRJNA923578,SRR23073015,1.2296294988934444,control,Healthy,female,23.0,Anterior nares,V1–V3,Training
+PRJNA923578,SRR23073096,1.2610808412321104,control,Healthy,female,23.0,Anterior nares,V1–V3,Training
+PRJNA923578,SRR23073089,1.0807504773267453,control,Healthy,male,25.0,Anterior nares,V1–V3,Training
+PRJNA923578,SRR23072983,0.04227092428978696,control,Healthy,male,25.0,Anterior nares,V1–V3,Training
+PRJNA923578,SRR23073060,0.8320359263741884,control,Healthy,male,25.0,Anterior nares,V1–V3,Training
+PRJNA923578,SRR23072991,0.9032137670634856,control,Healthy,male,26.0,Anterior nares,V1–V3,Training
+PRJNA923578,SRR23072985,0.43051331436777296,control,Healthy,male,26.0,Anterior nares,V1–V3,Training
+PRJNA923578,SRR23073062,0.5849961730528354,control,Healthy,male,26.0,Anterior nares,V1–V3,Training
+PRJNA923578,SRR23073081,2.1548873066724936,control,Healthy,male,27.0,Anterior nares,V1–V3,Training
+PRJNA923578,SRR23073036,1.944849515852841,control,Healthy,male,27.0,Anterior nares,V1–V3,Training
+PRJNA923578,SRR23072993,1.5605644886212433,control,Healthy,female,27.0,Anterior nares,V1–V3,Training
+PRJNA923578,SRR23072987,0.27737840292135607,control,Healthy,female,27.0,Anterior nares,V1–V3,Training
+PRJNA923578,SRR23073064,1.1708950253339783,control,Healthy,female,27.0,Anterior nares,V1–V3,Training
+PRJNA923578,SRR23073025,2.954163881544116,control,Healthy,female,27.0,Anterior nares,V1–V3,Training
+PRJNA923578,SRR23073074,1.0726536607130015,control,Healthy,female,27.0,Anterior nares,V1–V3,Training
+PRJNA923578,SRR23073070,-0.01034283308150652,control,Healthy,female,27.0,Anterior nares,V1–V3,Training
+PRJNA923578,SRR23073120,0.9314398629634678,control,Healthy,female,27.0,Anterior nares,V1–V3,Training
+PRJNA923578,SRR23073071,2.353169980159413,control,Healthy,female,27.0,Anterior nares,V1–V3,Training
+PRJNA923578,SRR23072994,0.9597202676765096,control,Healthy,female,28.0,Anterior nares,V1–V3,Training
+PRJNA923578,SRR23072988,0.5796507279519679,control,Healthy,female,28.0,Anterior nares,V1–V3,Training
+PRJNA923578,SRR23073065,0.612111333935149,control,Healthy,female,28.0,Anterior nares,V1–V3,Training
+PRJNA923578,SRR23073002,0.46062444265949243,control,Healthy,female,28.0,Anterior nares,V1–V3,Training
+PRJNA923578,SRR23073012,1.6850907117747211,control,Healthy,female,28.0,Anterior nares,V1–V3,Training
+PRJNA923578,SRR23073093,1.7105853322547238,control,Healthy,female,28.0,Anterior nares,V1–V3,Training
+PRJNA923578,SRR23073004,2.3421147582074657,control,Healthy,female,28.0,Anterior nares,V1–V3,Training
+PRJNA923578,SRR23073014,0.11080041110915773,control,Healthy,female,28.0,Anterior nares,V1–V3,Training
+PRJNA923578,SRR23073087,0.7429326979041738,control,Healthy,female,28.0,Anterior nares,V1–V3,Training
+PRJNA923578,SRR23073052,0.43951490835793583,control,Healthy,female,28.0,Anterior nares,V1–V3,Training
+PRJNA923578,SRR23072990,1.405233342200665,control,Healthy,female,29.0,Anterior nares,V1–V3,Training
+PRJNA923578,SRR23072984,0.27701874899079104,control,Healthy,female,29.0,Anterior nares,V1–V3,Training
+PRJNA923578,SRR23073006,-0.03025163824942123,control,Healthy,male,29.0,Anterior nares,V1–V3,Training
+PRJNA923578,SRR23073068,0.9425581809124471,control,Healthy,male,29.0,Anterior nares,V1–V3,Training
+PRJNA923578,SRR23073001,2.281678715931802,control,Healthy,female,29.0,Anterior nares,V1–V3,Training
+PRJNA923578,SRR23073011,1.995260994753533,control,Healthy,female,29.0,Anterior nares,V1–V3,Training
+PRJNA923578,SRR23073092,0.2804406405243324,control,Healthy,female,29.0,Anterior nares,V1–V3,Training
+PRJNA923578,SRR23073119,0.330471170261195,control,Healthy,female,29.0,Anterior nares,V1–V3,Training
+PRJNA923578,SRR23073046,-0.1364639764327008,control,Healthy,female,29.0,Anterior nares,V1–V3,Training
+PRJNA923578,SRR23073111,-0.2155906819736677,control,Healthy,female,29.0,Anterior nares,V1–V3,Training
+PRJNA923578,SRR23073121,0.600148695702209,control,Healthy,male,29.0,Anterior nares,V1–V3,Training
+PRJNA923578,SRR23073077,0.20941324979765263,control,Healthy,male,29.0,Anterior nares,V1–V3,Training
+PRJNA923578,SRR23073022,2.1405759191323286,control,Healthy,female,30.0,Anterior nares,V1–V3,Training
+PRJNA923578,SRR23073016,2.31218441695156,control,Healthy,female,30.0,Anterior nares,V1–V3,Training
+PRJNA923578,SRR23073098,0.9209792779385552,control,Healthy,female,30.0,Anterior nares,V1–V3,Training
+PRJNA923578,SRR23073026,0.7534978695268405,control,Healthy,female,30.0,Anterior nares,V1–V3,Training
+PRJNA923578,SRR23073101,1.224860253848873,control,Healthy,female,30.0,Anterior nares,V1–V3,Training
+PRJNA923578,SRR23072998,1.1612042356307701,control,Healthy,male,30.0,Anterior nares,V1–V3,Training
+PRJNA923578,SRR23073053,1.0947732953105649,control,Healthy,male,30.0,Anterior nares,V1–V3,Training
+PRJNA923578,SRR23073085,0.612721281112412,control,Healthy,male,31.0,Anterior nares,V1–V3,Training
+PRJNA923578,SRR23072979,0.34569742249358726,control,Healthy,male,31.0,Anterior nares,V1–V3,Training
+PRJNA923578,SRR23073057,1.0638949999224616,control,Healthy,male,31.0,Anterior nares,V1–V3,Training
+PRJNA923578,SRR23073082,1.1678385817980894,control,Healthy,female,32.0,Anterior nares,V1–V3,Training
+PRJNA923578,SRR23072976,1.0232209268822374,control,Healthy,female,32.0,Anterior nares,V1–V3,Training
+PRJNA923578,SRR23073037,1.8772000493851109,control,Healthy,female,32.0,Anterior nares,V1–V3,Training
+PRJNA923578,SRR23073086,1.2527999002818673,control,Healthy,female,32.0,Anterior nares,V1–V3,Training
+PRJNA923578,SRR23072981,0.9835881662481724,control,Healthy,female,32.0,Anterior nares,V1–V3,Training
+PRJNA923578,SRR23073058,0.4541820560155202,control,Healthy,female,32.0,Anterior nares,V1–V3,Training
+PRJNA923578,SRR23073055,0.7106227536511559,control,Healthy,male,32.0,Anterior nares,V1–V3,Training
+PRJNA923578,SRR23073027,0.6409027737286769,control,Healthy,male,33.0,Anterior nares,V1–V3,Training
+PRJNA923578,SRR23073021,-1.588813084910481,control,Healthy,male,33.0,Anterior nares,V1–V3,Training
+PRJNA923578,SRR23073102,0.7070516052972416,control,Healthy,male,33.0,Anterior nares,V1–V3,Training
+PRJNA923578,SRR23072997,1.0468715359432355,control,Healthy,female,34.0,Anterior nares,V1–V3,Training
+PRJNA923578,SRR23073008,2.319941613892859,control,Healthy,female,34.0,Anterior nares,V1–V3,Training
+PRJNA923578,SRR23073069,0.8828961344530203,control,Healthy,female,34.0,Anterior nares,V1–V3,Training
+PRJNA923578,SRR23072995,0.8567317262494462,control,Healthy,male,37.0,Anterior nares,V1–V3,Training
+PRJNA923578,SRR23072989,1.0249024046058417,control,Healthy,male,37.0,Anterior nares,V1–V3,Training
+PRJNA923578,SRR23073067,0.7037596511098826,control,Healthy,male,37.0,Anterior nares,V1–V3,Training
+PRJNA923578,SRR23072980,0.7188017944942015,control,Healthy,female,37.0,Anterior nares,V1–V3,Training
+PRJNA923578,SRR23073112,0.1523685069751265,control,Healthy,female,37.0,Anterior nares,V1–V3,Training
+PRJNA923578,SRR23073080,1.0285850455683039,control,Healthy,male,38.0,Anterior nares,V1–V3,Training
+PRJNA923578,SRR23072974,1.0937659548268264,control,Healthy,male,38.0,Anterior nares,V1–V3,Training
+PRJNA923578,SRR23073035,1.7607689817825505,control,Healthy,male,38.0,Anterior nares,V1–V3,Training
+PRJNA923578,SRR23073030,2.264860053857266,control,Healthy,female,42.0,Anterior nares,V1–V3,Training
+PRJNA923578,SRR23073040,1.7634893922361532,control,Healthy,female,42.0,Anterior nares,V1–V3,Training
+PRJNA923578,SRR23073105,-0.28161758444128865,control,Healthy,female,42.0,Anterior nares,V1–V3,Training
+PRJNA923578,SRR23073024,2.902980248613276,control,Healthy,female,44.0,Anterior nares,V1–V3,Training
+PRJNA923578,SRR23073100,-0.34986962350275524,control,Healthy,female,44.0,Anterior nares,V1–V3,Training
+PRJNA923578,SRR23073023,0.4953780955670718,control,Healthy,male,45.0,Anterior nares,V1–V3,Training
+PRJNA923578,SRR23073017,0.32078121117445646,control,Healthy,male,45.0,Anterior nares,V1–V3,Training
+PRJNA923578,SRR23073007,0.6058690515540871,control,Healthy,female,46.0,Anterior nares,V1–V3,Training
+PRJNA923578,SRR23073048,-0.2550702508325666,control,Healthy,female,46.0,Anterior nares,V1–V3,Training
+PRJNA923578,SRR23073113,1.0020354004768537,control,Healthy,female,46.0,Anterior nares,V1–V3,Training
+PRJNA923578,SRR23073009,1.4861391142982892,control,Healthy,female,47.0,Anterior nares,V1–V3,Training
+PRJNA923578,SRR23073090,0.5432023515420045,control,Healthy,female,47.0,Anterior nares,V1–V3,Training
+PRJNA923578,SRR23073097,-0.03998150823255453,control,Healthy,female,49.0,Anterior nares,V1–V3,Training
+PRJNA923578,SRR23073109,-0.11958499312318693,control,Healthy,female,49.0,Anterior nares,V1–V3,Training
+PRJNA923578,SRR23073018,0.586959600298972,control,Healthy,female,49.0,Anterior nares,V1–V3,Training
+PRJNA923578,SRR23073049,0.008362840204900635,control,Healthy,female,49.0,Anterior nares,V1–V3,Training
+PRJNA923578,SRR23073114,0.07580314383277986,control,Healthy,female,49.0,Anterior nares,V1–V3,Training
+PRJNA923578,SRR23073108,1.3652903307104842,control,Healthy,female,51.0,Anterior nares,V1–V3,Training
+PRJNA923578,SRR23073044,0.3846861077881284,control,Healthy,female,51.0,Anterior nares,V1–V3,Training
+PRJNA923578,SRR23073066,1.2440829121256503,control,Healthy,male,52.0,Anterior nares,V1–V3,Training
+PRJNA923578,SRR23073107,0.3976965985951423,control,Healthy,male,52.0,Anterior nares,V1–V3,Training
+PRJNA923578,SRR23073028,0.23297741763355584,control,Healthy,female,53.0,Anterior nares,V1–V3,Training
+PRJNA923578,SRR23073038,0.13411910904288382,control,Healthy,female,53.0,Anterior nares,V1–V3,Training
+PRJNA923578,SRR23073088,1.2204078863541974,control,Healthy,female,54.0,Anterior nares,V1–V3,Training
+PRJNA923578,SRR23072982,0.8300724921207469,control,Healthy,female,54.0,Anterior nares,V1–V3,Training
+PRJNA923578,SRR23073059,-0.2532348856463823,control,Healthy,female,54.0,Anterior nares,V1–V3,Training
+PRJNA923578,SRR23073029,0.9437207048495012,control,Healthy,male,55.0,Anterior nares,V1–V3,Training
+PRJNA923578,SRR23073039,0.7283517768814011,control,Healthy,male,55.0,Anterior nares,V1–V3,Training
+PRJNA923578,SRR23073078,0.6027663594853078,control,Healthy,female,57.0,Anterior nares,V1–V3,Training
+PRJNA923578,SRR23073073,2.250335662892818,control,Healthy,female,57.0,Anterior nares,V1–V3,Training
+PRJNA923578,SRR23073034,1.2608227459487362,control,Healthy,female,57.0,Anterior nares,V1–V3,Training
+PRJNA923578,SRR23073083,0.8412687660364221,control,Healthy,male,57.0,Anterior nares,V1–V3,Training
+PRJNA923578,SRR23072977,1.4864240002212208,control,Healthy,male,57.0,Anterior nares,V1–V3,Training
+PRJNA923578,SRR23073054,0.8101107157141542,control,Healthy,male,57.0,Anterior nares,V1–V3,Training
+PRJNA923578,SRR23073084,1.210702612420231,control,Healthy,female,57.0,Anterior nares,V1–V3,Training
+PRJNA923578,SRR23072978,2.1237802922049767,control,Healthy,female,57.0,Anterior nares,V1–V3,Training
+PRJNA923578,SRR23073045,1.2713158988613062,control,Healthy,male,58.0,Anterior nares,V1–V3,Training
+PRJNA923578,SRR23073050,0.7805271401486432,control,Healthy,male,58.0,Anterior nares,V1–V3,Training
+PRJNA923578,SRR23073115,0.3520350432390177,control,Healthy,male,58.0,Anterior nares,V1–V3,Training
+PRJNA923578,SRR23073076,3.208780354248986,control,Healthy,female,61.0,Anterior nares,V1–V3,Training
+PRJNA923578,SRR23073116,1.217140987066899,control,Healthy,female,61.0,Anterior nares,V1–V3,Training
+PRJNA923578,SRR23073079,0.48808460005387244,control,Healthy,,,Anterior nares,V1–V3,Training
+PRJNA512906,SRR12313687,1.2897842134214446,control,Healthy,female,32.0,Middle meatus,V3–V4,Training
+PRJNA512906,SRR12313686,0.08667456811745644,control,Healthy,female,44.0,Middle meatus,V3–V4,Training
+PRJNA512906,SRR12313680,3.325110931296286,control,Healthy,female,51.0,Middle meatus,V3–V4,Training
+PRJNA512906,SRR12313674,3.758144677606297,control,Healthy,female,46.0,Middle meatus,V3–V4,Training
+PRJNA512906,SRR12313669,3.6669033534629554,control,Healthy,female,47.0,Middle meatus,V3–V4,Training
+PRJNA512906,SRR12313666,2.9575942593458246,control,Healthy,female,31.0,Middle meatus,V3–V4,Training
+PRJNA512906,SRR12313665,1.3491243028628461,control,Healthy,male,30.0,Middle meatus,V3–V4,Training
+PRJNA512906,SRR12313664,4.432093681499541,control,Healthy,male,27.0,Middle meatus,V3–V4,Training
+PRJNA512906,SRR12313663,3.657977312534328,control,Healthy,male,57.0,Middle meatus,V3–V4,Training
+PRJNA512906,SRR12313662,4.357390629438785,control,Healthy,female,27.0,Middle meatus,V3–V4,Training
+PRJNA512906,SRR12313660,2.8241357485138345,control,Healthy,female,24.0,Middle meatus,V3–V4,Training
+PRJNA512906,SRR12313659,3.5668461264865936,control,Healthy,male,24.0,Middle meatus,V3–V4,Training
+PRJNA512906,SRR12313658,4.7951921069214,control,Healthy,male,29.0,Middle meatus,V3–V4,Training
+PRJNA512906,SRR12313657,1.657215036413361,control,Healthy,male,21.0,Middle meatus,V3–V4,Training
+PRJNA512906,SRR12313656,3.0253702791682393,control,Healthy,male,24.0,Middle meatus,V3–V4,Training
+PRJNA512906,SRR12313655,2.940636528515854,control,Healthy,male,22.0,Middle meatus,V3–V4,Training
+PRJNA512906,SRR12313654,1.3525818266224339,control,Healthy,female,23.0,Middle meatus,V3–V4,Training
+PRJNA512906,SRR12313652,3.6233363345910012,control,Healthy,male,21.0,Middle meatus,V3–V4,Training
+PRJNA512906,SRR12313651,3.7298381894864248,control,Healthy,male,25.0,Middle meatus,V3–V4,Training
+PRJNA512906,SRR12313648,4.664134439451958,control,Healthy,female,21.0,Middle meatus,V3–V4,Training
+PRJNA512906,SRR12313647,1.8201829164633114,control,Healthy,female,26.0,Middle meatus,V3–V4,Training
+PRJNA512906,SRR12313646,4.648720607984577,control,Healthy,female,26.0,Middle meatus,V3–V4,Training
+PRJNA512906,SRR12313645,3.2918786380970806,control,Healthy,female,22.0,Middle meatus,V3–V4,Training
+PRJNA512906,SRR12313644,4.136612720069997,control,Healthy,male,53.0,Middle meatus,V3–V4,Training
+PRJNA899122,SRR23111913,1.3166165252691218,control,Healthy,,,Inferior turbinate,V3–V4,Training
+PRJNA899122,SRR23111914,0.7094280088685135,control,Healthy,,,Inferior turbinate,V3–V4,Training
+PRJNA899122,SRR23111915,3.5716665974506157,control,Healthy,,,Inferior turbinate,V3–V4,Training
+PRJNA899122,SRR23111916,2.531067187522595,control,Healthy,,,Inferior turbinate,V3–V4,Training
+PRJNA899122,SRR23111917,1.1715129439209835,control,Healthy,,,Inferior turbinate,V3–V4,Training
+PRJNA899122,SRR23111918,1.358649437152391,control,Healthy,,,Inferior turbinate,V3–V4,Training
+PRJNA899122,SRR23111919,1.7147142166419895,control,Healthy,,,Inferior turbinate,V3–V4,Training
+PRJNA899122,SRR23111868,3.3439541248048226,control,Healthy,,,Inferior turbinate,V3–V4,Training
+PRJNA899122,SRR23111869,3.479493661007945,control,Healthy,,,Inferior turbinate,V3–V4,Training
+PRJNA899122,SRR23111870,-0.5920842222525926,control,Healthy,,,Inferior turbinate,V3–V4,Training
+PRJNA899122,SRR23111871,3.2377767231644,control,Healthy,,,Inferior turbinate,V3–V4,Training
+PRJNA899122,SRR23111872,-0.5413215944926462,control,Healthy,,,Inferior turbinate,V3–V4,Training
+PRJNA899122,SRR23111873,2.270294192835272,control,Healthy,,,Inferior turbinate,V3–V4,Training
+PRJNA899122,SRR23111874,0.45978934339215105,control,Healthy,,,Inferior turbinate,V3–V4,Training
+PRJNA899122,SRR23111875,1.553581563825296,control,Healthy,,,Inferior turbinate,V3–V4,Training
+PRJNA899122,SRR23111877,2.9269596642580282,control,Healthy,,,Inferior turbinate,V3–V4,Training
+PRJNA899122,SRR23111920,2.4311452695777387,control,Healthy,,,Inferior turbinate,V3–V4,Training
+PRJNA899122,SRR23111878,-0.23683181472816395,control,Healthy,,,Inferior turbinate,V3–V4,Training
+PRJNA899122,SRR23111879,0.8942389297484398,control,Healthy,,,Inferior turbinate,V3–V4,Training
+PRJNA899122,SRR23111880,0.43189157761622876,control,Healthy,,,Inferior turbinate,V3–V4,Training
+PRJNA899122,SRR23111907,2.4009017058388458,control,Healthy,,,Inferior turbinate,V3–V4,Training
+PRJNA899122,SRR23111908,3.3539886552539766,control,Healthy,,,Inferior turbinate,V3–V4,Training
+PRJNA899122,SRR23111909,0.10567924762970116,control,Healthy,,,Inferior turbinate,V3–V4,Training
+PRJNA899122,SRR23111910,3.4924002537506516,control,Healthy,,,Inferior turbinate,V3–V4,Training
+PRJNA899122,SRR23111912,2.635562370412073,control,Healthy,,,Inferior turbinate,V3–V4,Training
+PRJNA1081394,SRR29054506,-0.29571170270230146,case,CF,,,Maxillary sinus,V4,Training
+PRJNA1081394,SRR29054498,-0.284730092937723,case,CF,,,Maxillary sinus,V4,Training
+PRJNA1081394,SRR29054440,-0.34331180085113533,case,CF,,,Maxillary sinus,V4,Training
+PRJNA1081394,SRR29054426,-0.4093203295067534,case,CF,,,Maxillary sinus,V4,Training
+PRJNA1081394,SRR29054487,-1.87992234346392,case,CF,,,Maxillary sinus,V4,Training
+PRJNA1081394,SRR29054479,-4.064196610944066,case,CF,,,Maxillary sinus,V4,Training
+PRJNA1081394,SRR29054457,-0.2853433183310216,case,CF,,,Maxillary sinus,V4,Training
+PRJNA1081394,SRR29054451,-0.6876877043267503,case,CF,,,Maxillary sinus,V4,Training
+PRJNA1081394,SRR29054551,-0.2899927509864008,case,CF,,,Maxillary sinus,V4,Training
+PRJNA1081394,SRR29054547,-3.579802013786985,case,CF,,,Maxillary sinus,V4,Training
+PRJNA1081394,SRR29054569,-0.28848298708709125,case,CF,,,Maxillary sinus,V4,Training
+PRJNA1081394,SRR29054568,-4.219478200314041,case,CF,,,Maxillary sinus,V4,Training
+PRJNA1081394,SRR29054564,-4.346117095122884,case,CF,,,Maxillary sinus,V4,Training
+PRJNA1081394,SRR29054557,-1.3140886434015615,case,CF,,,Maxillary sinus,V4,Training
+PRJNA1081394,SRR29054514,-3.1793863845021044,case,CF,,,Maxillary sinus,V4,Training
+PRJNA1081394,SRR29054511,-4.058476989497125,case,CF,,,Maxillary sinus,V4,Training
+PRJNA907202,SRR22477476,0.5608909538787655,case,CRS,female,21.0,Middle meatus,V3–V4,Training
+PRJNA907202,SRR22477280,-1.8062054098389044,case,CRS,male,67.0,Middle meatus,V3–V4,Training
+PRJNA907202,SRR22477279,-2.0745727216049703,case,CRS,male,67.0,Middle meatus,V3–V4,Training
+PRJNA907202,SRR22477278,-0.1435523522304183,case,CRS,male,67.0,Middle meatus,V3–V4,Training
+PRJNA907202,SRR22477277,-1.6392897887852538,case,CRS,male,67.0,Middle meatus,V3–V4,Training
+PRJNA907202,SRR22477275,-0.8087545386652435,case,CRS,male,45.0,Middle meatus,V3–V4,Training
+PRJNA907202,SRR22477274,-1.673636995246149,case,CRS,male,45.0,Middle meatus,V3–V4,Training
+PRJNA907202,SRR22477273,-1.0101349814159946,case,CRS,male,45.0,Middle meatus,V3–V4,Training
+PRJNA907202,SRR22477567,-0.9959327969608831,case,CRS,male,23.0,Middle meatus,V3–V4,Training
+PRJNA907202,SRR22477565,-0.5880591083485874,case,CRS,male,23.0,Middle meatus,V3–V4,Training
+PRJNA907202,SRR22477502,0.6965492125435303,case,CRS,female,36.0,Middle meatus,V3–V4,Training
+PRJNA907202,SRR22477501,-0.5034176442784677,case,CRS,female,36.0,Middle meatus,V3–V4,Training
+PRJNA907202,SRR22477499,0.22985860341022635,case,CRS,female,36.0,Middle meatus,V3–V4,Training
+PRJNA907202,SRR22477498,-0.6898057193465834,case,CRS,female,36.0,Middle meatus,V3–V4,Training
+PRJNA907202,SRR22477451,1.5010621114595608,case,CRS,male,37.0,Middle meatus,V3–V4,Training
+PRJNA907202,SRR22477449,0.5345597887991248,case,CRS,male,37.0,Middle meatus,V3–V4,Training
+PRJNA907202,SRR22477376,-0.5548113809078339,case,CRS,male,26.0,Middle meatus,V3–V4,Training
+PRJNA907202,SRR22477271,-2.718411690752138,case,CRS,male,52.0,Middle meatus,V3–V4,Training
+PRJNA907202,SRR22477269,0.7447625660965035,case,CRS,male,52.0,Middle meatus,V3–V4,Training
+PRJNA907202,SRR22477261,0.3881662531964122,case,CRS,male,26.0,Middle meatus,V3–V4,Training
+PRJNA1058141,SRR27370650,-0.4589221029524199,case,RA,,,Middle meatus,V3–V4,Training
+PRJNA1058141,SRR27370651,0.14007138084224013,case,RA,,,Middle meatus,V3–V4,Training
+PRJNA1058141,SRR27370652,-0.3870988107164388,case,RA,,,Middle meatus,V3–V4,Training
+PRJNA1058141,SRR27370653,0.24958501400452804,case,RA,,,Middle meatus,V3–V4,Training
+PRJNA1058141,SRR27370654,0.5856818920953165,case,RA,,,Middle meatus,V3–V4,Training
+PRJNA1058141,SRR27370655,0.3197424510472039,case,RA,,,Middle meatus,V3–V4,Training
+PRJNA1058141,SRR27370657,-0.6485893629054327,case,RA,,,Middle meatus,V3–V4,Training
+PRJNA1058141,SRR27370658,-0.27754542420615125,case,RA,,,Middle meatus,V3–V4,Training
+PRJNA1058141,SRR27370659,0.24640961487426327,case,RA,,,Middle meatus,V3–V4,Training
+PRJNA1058141,SRR27370660,0.7600391736607653,case,RA,,,Middle meatus,V3–V4,Training
+PRJNA1058141,SRR27370661,-0.10616110669272594,case,RA,,,Middle meatus,V3–V4,Training
+PRJNA390854,SRR8146376,0.6942095860668783,case,CRS,,,Middle meatus,V3–V4,Training
+PRJNA390854,SRR8146375,-0.46647128502340296,case,CRS,,,Middle meatus,V3–V4,Training
+PRJNA390854,SRR8146374,-0.4671757302316264,case,CRS,,,Middle meatus,V3–V4,Training
+PRJNA390854,SRR8146372,-3.199698324133964,case,CRS,,,Middle meatus,V3–V4,Training
+PRJNA390854,SRR8146366,-1.5858817660748585,case,CRS,,,Middle meatus,V3–V4,Training
+PRJNA390854,SRR8146362,0.4551027058123106,case,CRS,,,Middle meatus,V3–V4,Training
+PRJNA390854,SRR8146359,-0.11319094265215224,case,CRS,,,Middle meatus,V3–V4,Training
+PRJNA390854,SRR8146358,0.2175575081672978,case,CRS,,,Middle meatus,V3–V4,Training
+PRJNA390854,SRR8146371,-0.5524927558615162,case,CRS,,,Middle meatus,V3–V4,Training
+PRJNA390854,SRR8146370,0.42643633556971106,case,CRS,,,Middle meatus,V3–V4,Training
+PRJNA390854,SRR8146369,0.7171065605641916,case,CRS,,,Middle meatus,V3–V4,Training
+PRJNA390854,SRR8146365,-0.9944786036393706,case,CRS,,,Middle meatus,V3–V4,Training
+PRJNA390854,SRR8146364,-0.6747324545733941,case,CRS,,,Middle meatus,V3–V4,Training
+PRJNA793600,SRR17407084,-0.5940944297194082,case,Asthma,female,20.0,Nasal cavity (unspecified),V3–V4,Training
+PRJNA793600,SRR17407184,-2.935520293915489,case,Asthma,female,20.0,Nasal cavity (unspecified),V3–V4,Training
+PRJNA793600,SRR17407075,-0.345267341085501,case,Asthma,female,24.0,Nasal cavity (unspecified),V3–V4,Training
+PRJNA793600,SRR17407104,-1.7082095079344501,case,AR,female,24.0,Nasal cavity (unspecified),V3–V4,Training
+PRJNA793600,SRR17407119,-1.3321871488411834,case,AR,female,25.0,Nasal cavity (unspecified),V3–V4,Training
+PRJNA793600,SRR17407095,-2.145868444723417,case,AR,female,26.0,Nasal cavity (unspecified),V3–V4,Training
+PRJNA793600,SRR17407139,-5.156490834086935,case,Asthma,female,27.0,Nasal cavity (unspecified),V3–V4,Training
+PRJNA793600,SRR17407147,-1.5665934480012034,case,Asthma,female,27.0,Nasal cavity (unspecified),V3–V4,Training
+PRJNA793600,SRR17407134,-0.8795386947458071,case,Asthma,female,28.0,Nasal cavity (unspecified),V3–V4,Training
+PRJNA793600,SRR17407091,-0.9487580472595011,case,Asthma,female,30.0,Nasal cavity (unspecified),V3–V4,Training
+PRJNA793600,SRR17407250,-0.8100682719809025,case,Asthma,female,30.0,Nasal cavity (unspecified),V3–V4,Training
+PRJNA793600,SRR17407115,-2.6011811627186283,case,AR,female,30.0,Nasal cavity (unspecified),V3–V4,Training
+PRJNA793600,SRR17407214,-1.1486315401444511,case,Asthma,female,31.0,Nasal cavity (unspecified),V3–V4,Training
+PRJNA793600,SRR17407093,-0.5185413864200663,case,Asthma,female,31.0,Nasal cavity (unspecified),V3–V4,Training
+PRJNA793600,SRR17407182,-0.9260001098599827,case,Asthma,female,31.0,Nasal cavity (unspecified),V3–V4,Training
+PRJNA793600,SRR17407108,-3.2345371804078984,case,AR,female,31.0,Nasal cavity (unspecified),V3–V4,Training
+PRJNA793600,SRR17407089,0.060862148472412,case,Asthma,female,32.0,Nasal cavity (unspecified),V3–V4,Training
+PRJNA793600,SRR17407218,-1.6934177880741905,case,Asthma,female,33.0,Nasal cavity (unspecified),V3–V4,Training
+PRJNA793600,SRR17407145,-4.35641680951075,case,Asthma,female,33.0,Nasal cavity (unspecified),V3–V4,Training
+PRJNA793600,SRR17407162,-0.36335815205936106,case,AR,female,33.0,Nasal cavity (unspecified),V3–V4,Training
+PRJNA793600,SRR17407245,-0.4878842472401676,case,Asthma,female,35.0,Nasal cavity (unspecified),V3–V4,Training
+PRJNA793600,SRR17407227,-0.46320974330591597,case,Asthma,female,38.0,Nasal cavity (unspecified),V3–V4,Training
+PRJNA793600,SRR17407151,-2.624144064477896,case,AR,female,38.0,Nasal cavity (unspecified),V3–V4,Training
+PRJNA793600,SRR17407121,0.5656204395798131,case,AR,female,38.0,Nasal cavity (unspecified),V3–V4,Training
+PRJNA793600,SRR17407067,-0.6116227801072901,case,Asthma,female,39.0,Nasal cavity (unspecified),V3–V4,Training
+PRJNA793600,SRR17407106,0.01485903939358979,case,AR,female,39.0,Nasal cavity (unspecified),V3–V4,Training
+PRJNA793600,SRR17407080,-0.9705485670506633,case,Asthma,female,41.0,Nasal cavity (unspecified),V3–V4,Training
+PRJNA793600,SRR17407051,-0.87750105725922,case,AR,female,42.0,Nasal cavity (unspecified),V3–V4,Training
+PRJNA793600,SRR17407097,-2.068291768970524,case,AR,female,42.0,Nasal cavity (unspecified),V3–V4,Training
+PRJNA793600,SRR17407110,-3.37216019496603,case,AR,female,44.0,Nasal cavity (unspecified),V3–V4,Training
+PRJNA793600,SRR17407128,-0.6050877715188376,case,Asthma,female,45.0,Nasal cavity (unspecified),V3–V4,Training
+PRJNA793600,SRR17407154,-2.7816554430647087,case,AR,female,46.0,Nasal cavity (unspecified),V3–V4,Training
+PRJNA793600,SRR17407229,-0.679921060808399,case,Asthma,female,50.0,Nasal cavity (unspecified),V3–V4,Training
+PRJNA793600,SRR17407256,-0.06937906405703342,case,Asthma,female,50.0,Nasal cavity (unspecified),V3–V4,Training
+PRJNA793600,SRR17407150,-1.3985872570753526,case,Asthma,female,50.0,Nasal cavity (unspecified),V3–V4,Training
+PRJNA793600,SRR17407082,-0.7205316173213197,case,Asthma,female,52.0,Nasal cavity (unspecified),V3–V4,Training
+PRJNA793600,SRR17407049,-3.60616842996716,case,AR,female,53.0,Nasal cavity (unspecified),V3–V4,Training
+PRJNA793600,SRR17407086,-0.7644635405677055,case,Asthma,female,55.0,Nasal cavity (unspecified),V3–V4,Training
+PRJNA793600,SRR17407069,-0.6496760482191959,case,Asthma,female,55.0,Nasal cavity (unspecified),V3–V4,Training
+PRJNA793600,SRR17407231,-0.7715076160934918,case,Asthma,female,56.0,Nasal cavity (unspecified),V3–V4,Training
+PRJNA793600,SRR17407202,-0.6365518419785634,case,Asthma,female,56.0,Nasal cavity (unspecified),V3–V4,Training
+PRJNA793600,SRR17407158,-0.8505624976455955,case,AR,female,56.0,Nasal cavity (unspecified),V3–V4,Training
+PRJNA793600,SRR17407206,-0.7850521696093593,case,Asthma,female,59.0,Nasal cavity (unspecified),V3–V4,Training
+PRJNA793600,SRR17407191,-0.7137084537590893,case,Asthma,female,59.0,Nasal cavity (unspecified),V3–V4,Training
+PRJNA793600,SRR17407186,-0.7417053608206889,case,Asthma,female,59.0,Nasal cavity (unspecified),V3–V4,Training
+PRJNA793600,SRR17407043,-2.7090933377120128,case,AR,female,59.0,Nasal cavity (unspecified),V3–V4,Training
+PRJNA793600,SRR17407204,-0.689733833790509,case,Asthma,female,60.0,Nasal cavity (unspecified),V3–V4,Training
+PRJNA793600,SRR17407073,-0.7207260629479701,case,Asthma,male,21.0,Nasal cavity (unspecified),V3–V4,Training
+PRJNA793600,SRR17407243,-0.7348523524401493,case,Asthma,male,23.0,Nasal cavity (unspecified),V3–V4,Training
+PRJNA793600,SRR17407212,-1.2551143310454351,case,Asthma,male,24.0,Nasal cavity (unspecified),V3–V4,Training
+PRJNA793600,SRR17407078,-1.2752781483468003,case,Asthma,male,24.0,Nasal cavity (unspecified),V3–V4,Training
+PRJNA793600,SRR17407143,-1.0045808932603526,case,Asthma,male,24.0,Nasal cavity (unspecified),V3–V4,Training
+PRJNA793600,SRR17407141,-1.1863473735414463,case,Asthma,male,24.0,Nasal cavity (unspecified),V3–V4,Training
+PRJNA793600,SRR17407220,-2.528187028244674,case,Asthma,male,27.0,Nasal cavity (unspecified),V3–V4,Training
+PRJNA793600,SRR17407236,0.43430463579566114,case,Asthma,male,27.0,Nasal cavity (unspecified),V3–V4,Training
+PRJNA793600,SRR17407160,-2.8997913332149925,case,AR,male,27.0,Nasal cavity (unspecified),V3–V4,Training
+PRJNA793600,SRR17407058,-2.287351215084286,case,AR,male,28.0,Nasal cavity (unspecified),V3–V4,Training
+PRJNA793600,SRR17407101,-1.8204761662087319,case,AR,male,30.0,Nasal cavity (unspecified),V3–V4,Training
+PRJNA793600,SRR17407065,-2.0705011069317596,case,AR,male,30.0,Nasal cavity (unspecified),V3–V4,Training
+PRJNA793600,SRR17407197,-0.7301372889043678,case,Asthma,male,31.0,Nasal cavity (unspecified),V3–V4,Training
+PRJNA793600,SRR17407117,-2.2863737042987324,case,AR,male,31.0,Nasal cavity (unspecified),V3–V4,Training
+PRJNA793600,SRR17407123,-0.6887985382947956,case,Asthma,male,32.0,Nasal cavity (unspecified),V3–V4,Training
+PRJNA793600,SRR17407112,-1.4186715061202224,case,AR,male,32.0,Nasal cavity (unspecified),V3–V4,Training
+PRJNA793600,SRR17407247,-0.3324481666195653,case,Asthma,male,33.0,Nasal cavity (unspecified),V3–V4,Training
+PRJNA793600,SRR17407241,-0.5747657315078887,case,Asthma,male,33.0,Nasal cavity (unspecified),V3–V4,Training
+PRJNA793600,SRR17407193,-0.641316724354553,case,Asthma,male,33.0,Nasal cavity (unspecified),V3–V4,Training
+PRJNA793600,SRR17407047,-4.019853183107969,case,AR,male,34.0,Nasal cavity (unspecified),V3–V4,Training
+PRJNA793600,SRR17407223,0.38531665515554525,case,Asthma,male,36.0,Nasal cavity (unspecified),V3–V4,Training
+PRJNA793600,SRR17407216,-0.4896863779169397,case,Asthma,male,37.0,Nasal cavity (unspecified),V3–V4,Training
+PRJNA793600,SRR17407156,-2.393226609999846,case,AR,male,37.0,Nasal cavity (unspecified),V3–V4,Training
+PRJNA793600,SRR17407056,-2.8126066627833843,case,AR,male,41.0,Nasal cavity (unspecified),V3–V4,Training
+PRJNA793600,SRR17407132,-0.5751669108528197,case,Asthma,male,42.0,Nasal cavity (unspecified),V3–V4,Training
+PRJNA793600,SRR17407180,-0.7285654473028935,case,Asthma,male,43.0,Nasal cavity (unspecified),V3–V4,Training
+PRJNA793600,SRR17407252,-0.8152096228445395,case,Asthma,male,45.0,Nasal cavity (unspecified),V3–V4,Training
+PRJNA793600,SRR17407189,-1.4659550066643363,case,Asthma,male,45.0,Nasal cavity (unspecified),V3–V4,Training
+PRJNA793600,SRR17407136,-2.9198981771974473,case,Asthma,male,47.0,Nasal cavity (unspecified),V3–V4,Training
+PRJNA793600,SRR17407054,-0.32944440260339514,case,AR,male,49.0,Nasal cavity (unspecified),V3–V4,Training
+PRJNA793600,SRR17407125,0.07109850741047363,case,Asthma,male,51.0,Nasal cavity (unspecified),V3–V4,Training
+PRJNA793600,SRR17407200,-0.3663400801513479,case,Asthma,male,52.0,Nasal cavity (unspecified),V3–V4,Training
+PRJNA793600,SRR17407225,-0.7641459115962081,case,Asthma,male,53.0,Nasal cavity (unspecified),V3–V4,Training
+PRJNA793600,SRR17407195,0.6096177450160128,case,Asthma,male,54.0,Nasal cavity (unspecified),V3–V4,Training
+PRJNA793600,SRR17407130,-0.23641221800603518,case,Asthma,male,55.0,Nasal cavity (unspecified),V3–V4,Training
+PRJNA793600,SRR17407258,0.0692434681377756,case,Asthma,male,56.0,Nasal cavity (unspecified),V3–V4,Training
+PRJNA793600,SRR17407071,-0.8751037412475805,case,Asthma,male,57.0,Nasal cavity (unspecified),V3–V4,Training
+PRJNA793600,SRR17407239,-0.3190664167838198,case,Asthma,male,58.0,Nasal cavity (unspecified),V3–V4,Training
+PRJNA793600,SRR17407254,-0.6767211239813704,case,Asthma,male,60.0,Nasal cavity (unspecified),V3–V4,Training
+PRJNA793600,SRR17407045,-1.3574100677158576,case,AR,male,67.0,Nasal cavity (unspecified),V3–V4,Training
+PRJEB20232,ERR1939181,-2.979218124394876,case,CRS,,18.0,Sinus (unspecified),V4,Training
+PRJEB20232,ERR1939185,-3.1947700249826676,case,CRS,,18.0,Sinus (unspecified),V4,Training
+PRJEB20232,ERR1939209,-0.6440474467218101,case,CRS,,19.0,Sinus (unspecified),V4,Training
+PRJEB20232,ERR1939180,-2.5042853056080205,case,CRS,,23.0,Sinus (unspecified),V4,Training
+PRJEB20232,ERR1939189,-2.3408380545835366,case,CRS,,26.0,Sinus (unspecified),V4,Training
+PRJEB20232,ERR1939190,-2.0785454315093963,case,CRS,,33.0,Sinus (unspecified),V4,Training
+PRJEB20232,ERR1939192,-2.0255874487816077,case,CRS,,33.0,Sinus (unspecified),V4,Training
+PRJEB20232,ERR1939179,-1.466414126618321,case,CRS,,36.0,Sinus (unspecified),V4,Training
+PRJEB20232,ERR1939182,-3.464632422772798,case,CRS,,37.0,Sinus (unspecified),V4,Training
+PRJEB20232,ERR1939188,-1.8720189326368577,case,CRS,,37.0,Sinus (unspecified),V4,Training
+PRJEB20232,ERR1939205,-1.469779171145197,case,CRS,,41.0,Sinus (unspecified),V4,Training
+PRJEB20232,ERR1939187,-2.7254596008865577,case,CRS,,48.0,Sinus (unspecified),V4,Training
+PRJEB20232,ERR1939200,-3.147815242029894,case,CRS,,48.0,Sinus (unspecified),V4,Training
+PRJEB20232,ERR1939203,-0.378969329517905,case,CRS,,51.0,Sinus (unspecified),V4,Training
+PRJEB20232,ERR1939186,-1.0641179656234092,case,CRS,,59.0,Sinus (unspecified),V4,Training
+PRJEB20232,ERR1939201,-0.7521386367172105,case,CRS,,61.0,Sinus (unspecified),V4,Training
+PRJEB20232,ERR1939177,-0.29115352398147304,case,CRS,,62.0,Sinus (unspecified),V4,Training
+PRJEB30316,ERR2991771,0.4667021296089774,case,CRS,female,21.0,Anterior nares,V4,Training
+PRJEB30316,ERR2991689,-0.05170894672688908,case,CRS,female,23.0,Anterior nares,V4,Training
+PRJEB30316,ERR2991616,-0.5365291818155908,case,CRS,female,24.0,Anterior nares,V4,Training
+PRJEB30316,ERR2992044,-0.4703898527811991,case,CRS-AS,female,25.0,Anterior nares,V4,Training
+PRJEB30316,ERR2991826,-0.28257194042125466,case,CRS,female,25.0,Anterior nares,V4,Training
+PRJEB30316,ERR2991871,0.6199473996352173,case,CRS,female,26.0,Anterior nares,V4,Training
+PRJEB30316,ERR2991993,-0.7329014849396973,case,CRS,female,26.0,Anterior nares,V4,Training
+PRJEB30316,ERR2991906,-0.3802198840936113,case,CRS,female,32.0,Anterior nares,V4,Training
+PRJEB30316,ERR2992009,0.22252283799378214,case,CRS,female,32.0,Anterior nares,V4,Training
+PRJEB30316,ERR2991506,-0.9012675838087556,case,CRS,female,34.0,Anterior nares,V4,Training
+PRJEB30316,ERR2992139,-0.2725637174542191,case,CRS,female,34.0,Anterior nares,V4,Training
+PRJEB30316,ERR2992028,-0.5011541511310016,case,CRS,female,36.0,Anterior nares,V4,Training
+PRJEB30316,ERR2991849,-0.06711827257344227,case,CRS-AS,female,37.0,Anterior nares,V4,Training
+PRJEB30316,ERR2991651,0.3844713090630262,case,CRS,female,37.0,Anterior nares,V4,Training
+PRJEB30316,ERR2991763,0.026428399202696018,case,CRS,female,37.0,Anterior nares,V4,Training
+PRJEB30316,ERR2991603,-0.35659323696902384,case,CRS,female,38.0,Anterior nares,V4,Training
+PRJEB30316,ERR2992109,0.2773356003199673,case,CRS,female,39.0,Anterior nares,V4,Training
+PRJEB30316,ERR2991518,-0.2507648554576217,case,CRS,female,40.0,Anterior nares,V4,Training
+PRJEB30316,ERR2991631,0.7254037485860224,case,CRS,female,41.0,Anterior nares,V4,Training
+PRJEB30316,ERR2992125,-0.633048273854851,case,CRS,female,41.0,Anterior nares,V4,Training
+PRJEB30316,ERR2991626,-0.2538961284616251,case,CRS,female,43.0,Anterior nares,V4,Training
+PRJEB30316,ERR2991787,-0.21716655044002786,case,CRS-AS,female,45.0,Anterior nares,V4,Training
+PRJEB30316,ERR2992024,-0.24823506402783757,case,CRS,female,45.0,Anterior nares,V4,Training
+PRJEB30316,ERR2991741,-0.6891898134687747,case,CRS,female,46.0,Anterior nares,V4,Training
+PRJEB30316,ERR2991939,-0.48181665889319136,case,CRS,female,46.0,Anterior nares,V4,Training
+PRJEB30316,ERR2992101,-0.1729866078850354,case,CRS-AS,female,48.0,Anterior nares,V4,Training
+PRJEB30316,ERR2991536,0.4397081977108904,case,CRS,female,49.0,Anterior nares,V4,Training
+PRJEB30316,ERR2991573,0.38209072703688085,case,CRS,female,51.0,Anterior nares,V4,Training
+PRJEB30316,ERR2991755,-0.25150143818202964,case,CRS,female,51.0,Anterior nares,V4,Training
+PRJEB30316,ERR2992013,-0.051909284182829696,case,CRS-AS,female,54.0,Anterior nares,V4,Training
+PRJEB30316,ERR2992097,0.48316680963133896,case,CRS,female,57.0,Anterior nares,V4,Training
+PRJEB30316,ERR2992105,0.6393943866128434,case,CRS,female,57.0,Anterior nares,V4,Training
+PRJEB30316,ERR2991969,-0.11131058017737039,case,CRS-AS,female,58.0,Anterior nares,V4,Training
+PRJEB30316,ERR2991530,-0.6782002332314369,case,CRS,female,60.0,Anterior nares,V4,Training
+PRJEB30316,ERR2991543,-0.3333473305243154,case,CRS,female,62.0,Anterior nares,V4,Training
+PRJEB30316,ERR2991547,-0.5825302894874644,case,CRS-AS,female,65.0,Anterior nares,V4,Training
+PRJEB30316,ERR2991947,-0.5388370409620539,case,CRS-AS,female,65.0,Anterior nares,V4,Training
+PRJEB30316,ERR2992144,-0.44142127035682593,case,CRS-AS,male,18.0,Anterior nares,V4,Training
+PRJEB30316,ERR2991588,-0.10489836045326528,case,CRS,male,18.0,Anterior nares,V4,Training
+PRJEB30316,ERR2991749,-0.7715499291368099,case,CRS,male,18.0,Anterior nares,V4,Training
+PRJEB30316,ERR2991790,0.14934582529781948,case,CRS,male,19.0,Anterior nares,V4,Training
+PRJEB30316,ERR2992089,-0.31339032567348024,case,CRS,male,19.0,Anterior nares,V4,Training
+PRJEB30316,ERR2991863,0.04870668355154262,case,CRS,male,20.0,Anterior nares,V4,Training
+PRJEB30316,ERR2991980,0.1319105014447527,case,CRS,male,21.0,Anterior nares,V4,Training
+PRJEB30316,ERR2991779,0.18952345690811034,case,CRS,male,22.0,Anterior nares,V4,Training
+PRJEB30316,ERR2991802,-0.9558299793435658,case,CRS-AS,male,23.0,Anterior nares,V4,Training
+PRJEB30316,ERR2991624,-0.34354197351653726,case,CRS,male,26.0,Anterior nares,V4,Training
+PRJEB30316,ERR2992048,-0.4779419135828675,case,CRS,male,26.0,Anterior nares,V4,Training
+PRJEB30316,ERR2992140,-0.483299608641401,case,CRS,male,26.0,Anterior nares,V4,Training
+PRJEB30316,ERR2991533,-0.5544505265034809,case,CRS,male,27.0,Anterior nares,V4,Training
+PRJEB30316,ERR2991557,-0.42078561778171725,case,CRS,male,28.0,Anterior nares,V4,Training
+PRJEB30316,ERR2991561,-0.4973621909655774,case,CRS,male,28.0,Anterior nares,V4,Training
+PRJEB30316,ERR2991830,0.7062299254948469,case,CRS,male,28.0,Anterior nares,V4,Training
+PRJEB30316,ERR2991997,-1.4379775193040527,case,CRS,male,28.0,Anterior nares,V4,Training
+PRJEB30316,ERR2991599,-0.7129948905224514,case,CRS,male,30.0,Anterior nares,V4,Training
+PRJEB30316,ERR2992056,-0.27423428239699194,case,CRS,male,30.0,Anterior nares,V4,Training
+PRJEB30316,ERR2991606,-0.5334269486682626,case,CRS,male,31.0,Anterior nares,V4,Training
+PRJEB30316,ERR2991921,0.4207352035197126,case,CRS,male,32.0,Anterior nares,V4,Training
+PRJEB30316,ERR2991935,-0.10944037867110656,case,CRS,male,34.0,Anterior nares,V4,Training
+PRJEB30316,ERR2991853,-0.7432953503938916,case,CRS-AS,male,35.0,Anterior nares,V4,Training
+PRJEB30316,ERR2992052,-0.1323931037418119,case,CRS-AS,male,35.0,Anterior nares,V4,Training
+PRJEB30316,ERR2992074,0.5731204043488248,case,CRS-AS,male,35.0,Anterior nares,V4,Training
+PRJEB30316,ERR2992118,-0.7735922574455234,case,CRS,male,36.0,Anterior nares,V4,Training
+PRJEB30316,ERR2991928,0.30248025224450503,case,CRS-AS,male,37.0,Anterior nares,V4,Training
+PRJEB30316,ERR2991794,-0.24753514216117667,case,CRS,male,37.0,Anterior nares,V4,Training
+PRJEB30316,ERR2992036,0.09323035155911152,case,CRS,male,37.0,Anterior nares,V4,Training
+PRJEB30316,ERR2991909,-0.28455458562109354,case,CRS-AS,male,38.0,Anterior nares,V4,Training
+PRJEB30316,ERR2991576,-1.2157550314778842,case,CRS,male,38.0,Anterior nares,V4,Training
+PRJEB30316,ERR2991767,-0.856224412419855,case,CRS,male,40.0,Anterior nares,V4,Training
+PRJEB30316,ERR2991842,-0.5012331544855917,case,CRS,male,40.0,Anterior nares,V4,Training
+PRJEB30316,ERR2991818,0.2840073774348243,case,CRS,male,42.0,Anterior nares,V4,Training
+PRJEB30316,ERR2991902,-0.5699222525580157,case,CRS,male,43.0,Anterior nares,V4,Training
+PRJEB30316,ERR2991856,-0.5038484573678004,case,CRS,male,45.0,Anterior nares,V4,Training
+PRJEB30316,ERR2991783,-0.08210965618083332,case,CRS-AS,male,46.0,Anterior nares,V4,Training
+PRJEB30316,ERR2991834,0.43594417651651407,case,CRS-AS,male,46.0,Anterior nares,V4,Training
+PRJEB30316,ERR2992040,-0.32891597337365863,case,CRS,male,46.0,Anterior nares,V4,Training
+PRJEB30316,ERR2992123,-0.3046941274138466,case,CRS,male,46.0,Anterior nares,V4,Training
+PRJEB30316,ERR2991591,-0.6898246138982755,case,CRS,male,47.0,Anterior nares,V4,Training
+PRJEB30316,ERR2991913,0.6618439523494549,case,CRS,male,47.0,Anterior nares,V4,Training
+PRJEB30316,ERR2992064,0.2154512141194499,case,CRS,male,47.0,Anterior nares,V4,Training
+PRJEB30316,ERR2992135,-0.3014879003712047,case,CRS,male,48.0,Anterior nares,V4,Training
+PRJEB30316,ERR2992020,0.5247425887909117,case,CRS,male,49.0,Anterior nares,V4,Training
+PRJEB30316,ERR2992085,-0.6769190806327027,case,CRS,male,49.0,Anterior nares,V4,Training
+PRJEB30316,ERR2991704,-0.3308385624959539,case,CRS,male,50.0,Anterior nares,V4,Training
+PRJEB30316,ERR2991814,0.32233549925511695,case,CRS,male,50.0,Anterior nares,V4,Training
+PRJEB30316,ERR2991965,0.5676844744059989,case,CRS,male,50.0,Anterior nares,V4,Training
+PRJEB30316,ERR2991984,-1.3243725081479867,case,CRS,male,50.0,Anterior nares,V4,Training
+PRJEB30316,ERR2991697,-0.9484445295456827,case,CRS-AS,male,51.0,Anterior nares,V4,Training
+PRJEB30316,ERR2991806,0.19107694678003806,case,CRS,male,51.0,Anterior nares,V4,Training
+PRJEB30316,ERR2991976,-0.5608781879152999,case,CRS,male,51.0,Anterior nares,V4,Training
+PRJEB30316,ERR2991685,-0.2555923574106773,case,CRS-AS,male,53.0,Anterior nares,V4,Training
+PRJEB30316,ERR2992067,-1.5618338440576514,case,CRS-AS,male,53.0,Anterior nares,V4,Training
+PRJEB30316,ERR2991759,-0.011830258706017838,case,CRS,male,53.0,Anterior nares,V4,Training
+PRJEB30316,ERR2991745,0.11733395538661318,case,CRS,male,54.0,Anterior nares,V4,Training
+PRJEB30316,ERR2991894,-0.2797529108918972,case,CRS,male,54.0,Anterior nares,V4,Training
+PRJEB30316,ERR2992154,-1.0975379988542768,case,CRS,male,54.0,Anterior nares,V4,Training
+PRJEB30316,ERR2991962,0.5273294534436522,case,CRS-AS,male,55.0,Anterior nares,V4,Training
+PRJEB30316,ERR2991798,0.10487408537168219,case,CRS,male,55.0,Anterior nares,V4,Training
+PRJEB30316,ERR2991890,0.5671326378415557,case,CRS,male,56.0,Anterior nares,V4,Training
+PRJEB30316,ERR2991867,0.5188015782520347,case,CRS-AS,male,57.0,Anterior nares,V4,Training
+PRJEB30316,ERR2991673,-0.2664858297888509,case,CRS,male,57.0,Anterior nares,V4,Training
+PRJEB30316,ERR2991810,0.7743831098026513,case,CRS,male,57.0,Anterior nares,V4,Training
+PRJEB30316,ERR2991822,0.6546334595926447,case,CRS,male,57.0,Anterior nares,V4,Training
+PRJEB30316,ERR2991985,0.5592525801830436,case,CRS,male,57.0,Anterior nares,V4,Training
+PRJEB30316,ERR2992071,0.3108320016939533,case,CRS,male,59.0,Anterior nares,V4,Training
+PRJEB30316,ERR2992114,0.15206155508241392,case,CRS,male,59.0,Anterior nares,V4,Training
+PRJEB30316,ERR2991898,0.5210350024192608,case,CRS,male,60.0,Anterior nares,V4,Training
+PRJEB30316,ERR2991510,-0.25742800650280484,case,CRS,male,61.0,Anterior nares,V4,Training
+PRJEB30316,ERR2991551,-0.12201976329376873,case,CRS,male,61.0,Anterior nares,V4,Training
+PRJEB30316,ERR2991989,-0.5689620974289459,case,CRS,male,61.0,Anterior nares,V4,Training
+PRJEB30316,ERR2991775,-0.37332629157591984,case,CRS,male,62.0,Anterior nares,V4,Training
+PRJEB30316,ERR2992032,-0.44899514699213805,case,CRS,male,62.0,Anterior nares,V4,Training
+PRJEB30316,ERR2991838,0.37134675322030974,case,CRS-AS,male,64.0,Anterior nares,V4,Training
+PRJEB30316,ERR2991555,0.0025946047775081693,case,CRS,male,64.0,Anterior nares,V4,Training
+PRJEB30316,ERR2992005,-0.4667552727359445,case,CRS,male,64.0,Anterior nares,V4,Training
+PRJEB30316,ERR2992081,0.008773442873965198,case,CRS,male,65.0,Anterior nares,V4,Training
+PRJEB22676,ERR1662646,-1.5158567706725479,case,Asthma,,,Nasal cavity (unspecified),V4,Training
+PRJEB22676,ERR1662648,-0.6812672900142837,case,Asthma,,,Nasal cavity (unspecified),V4,Training
+PRJEB22676,ERR1662651,-0.8050606645940339,case,Asthma,,,Nasal cavity (unspecified),V4,Training
+PRJEB22676,ERR1662657,-0.8057818935285601,case,Asthma,,,Nasal cavity (unspecified),V4,Training
+PRJEB22676,ERR1662659,-0.8285880521313247,case,Asthma,,,Nasal cavity (unspecified),V4,Training
+PRJEB22676,ERR1662661,-0.9407006932720549,case,Asthma,,,Nasal cavity (unspecified),V4,Training
+PRJEB22676,ERR1662664,-0.8326536126230094,case,Asthma,,,Nasal cavity (unspecified),V4,Training
+PRJEB22676,ERR1662669,-0.7154416843939563,case,Asthma,,,Nasal cavity (unspecified),V4,Training
+PRJEB22676,ERR1662672,-0.7965150613602234,case,Asthma,,,Nasal cavity (unspecified),V4,Training
+PRJEB22676,ERR1662673,-0.8974857348534127,case,Asthma,,,Nasal cavity (unspecified),V4,Training
+PRJEB22676,ERR1662675,-0.823351141497804,case,Asthma,,,Nasal cavity (unspecified),V4,Training
+PRJEB22676,ERR1662682,-0.7583844477751042,case,Asthma,,,Nasal cavity (unspecified),V4,Training
+PRJEB22676,ERR1662683,-0.8633747306062066,case,Asthma,,,Nasal cavity (unspecified),V4,Training
+PRJEB22676,ERR1662684,-0.797879144619741,case,Asthma,,,Nasal cavity (unspecified),V4,Training
+PRJEB22676,ERR1662685,-0.8710074753445658,case,Asthma,,,Nasal cavity (unspecified),V4,Training
+PRJNA493980,SRR7944727,-0.7489854568195402,case,CRS,,,Middle meatus,V3–V4,Training
+PRJNA493980,SRR7944726,-0.6980318468491634,case,CRS,,,Middle meatus,V3–V4,Training
+PRJNA493980,SRR7944725,-0.7701205422993749,case,CRS,,,Middle meatus,V3–V4,Training
+PRJNA493980,SRR7944724,-0.7846198324114103,case,CRS,,,Middle meatus,V3–V4,Training
+PRJNA493980,SRR7944723,-0.7704687315090896,case,CRS,,,Middle meatus,V3–V4,Training
+PRJNA493980,SRR7944718,-0.7209690272870002,case,CRS,,,Middle meatus,V3–V4,Training
+PRJNA493980,SRR7944716,-0.6036082301221417,case,CRS,,,Middle meatus,V3–V4,Training
+PRJNA493980,SRR7944715,1.2737333869548046,case,CRS,,,Middle meatus,V3–V4,Training
+PRJNA493980,SRR7944713,-0.7491816073936225,case,CRS,,,Middle meatus,V3–V4,Training
+PRJNA493980,SRR7944711,-0.8222670751756844,case,CRS,,,Middle meatus,V3–V4,Training
+PRJNA493980,SRR7944710,-0.25409657633688953,case,CRS,,,Middle meatus,V3–V4,Training
+PRJNA493980,SRR7944709,-0.6780407507655248,case,CRS,,,Middle meatus,V3–V4,Training
+PRJNA493980,SRR7944708,-0.7611794678927991,case,CRS,,,Middle meatus,V3–V4,Training
+PRJNA493980,SRR7944687,-0.2573392631853593,case,CRS,,,Middle meatus,V3–V4,Training
+PRJNA493980,SRR7944678,-0.9820087666363394,case,CRS,,,Middle meatus,V3–V4,Training
+PRJNA493980,SRR7944675,-0.5707049075272593,case,CRS,,,Middle meatus,V3–V4,Training
+PRJNA493980,SRR7944674,-0.7401750609415765,case,CRS,,,Middle meatus,V3–V4,Training
+PRJNA493980,SRR7944673,-0.7306507069022308,case,CRS,,,Middle meatus,V3–V4,Training
+PRJNA493980,SRR7944672,-0.9610207379802584,case,CRS,,,Middle meatus,V3–V4,Training
+PRJNA493980,SRR7944671,-3.1703593896902595,case,CRS,,,Middle meatus,V3–V4,Training
+PRJNA493980,SRR7944670,0.6398382911974291,case,CRS,,,Middle meatus,V3–V4,Training
+PRJNA493980,SRR7944669,-0.7246757071515051,case,CRS,,,Middle meatus,V3–V4,Training
+PRJNA493980,SRR7944668,-4.633640594821933,case,CRS,,,Middle meatus,V3–V4,Training
+PRJNA493980,SRR7944667,-1.0685010546830704,case,CRS,,,Middle meatus,V3–V4,Training
+PRJNA493980,SRR7944666,0.1835409651553832,case,CRS,,,Middle meatus,V3–V4,Training
+PRJNA493980,SRR7944654,0.9071537477510084,case,CRS,,,Middle meatus,V3–V4,Training
+PRJNA493980,SRR7944653,-0.8494721489083955,case,CRS,,,Middle meatus,V3–V4,Training
+PRJNA493980,SRR7944650,0.6469913444539394,case,CRS,,,Middle meatus,V3–V4,Training
+PRJNA493980,SRR7944648,-0.9400655281778875,case,CRS,,,Middle meatus,V3–V4,Training
+PRJNA493980,SRR7944646,0.7469800781364192,case,CRS,,,Middle meatus,V3–V4,Training
+PRJNA493980,SRR7944645,1.6835384723618874,case,CRS,,,Middle meatus,V3–V4,Training
+PRJNA493980,SRR7944642,-0.9213672978454381,case,CRS,,,Middle meatus,V3–V4,Training
+PRJNA493980,SRR7944641,-0.3448796143336481,case,CRS,,,Middle meatus,V3–V4,Training
+PRJNA493980,SRR7944640,0.18720153229490788,case,CRS,,,Middle meatus,V3–V4,Training
+PRJNA493980,SRR7944639,-0.9033386333765414,case,CRS,,,Middle meatus,V3–V4,Training
+PRJNA493980,SRR7944638,-2.1654351430916816,case,CRS,,,Middle meatus,V3–V4,Training
+PRJNA493980,SRR7944637,-0.982516305668008,case,CRS,,,Middle meatus,V3–V4,Training
+PRJNA493980,SRR7944636,-2.0087131084801992,case,CRS,,,Middle meatus,V3–V4,Training
+PRJNA493980,SRR7944635,-0.27108122372206306,case,CRS,,,Middle meatus,V3–V4,Training
+PRJNA493980,SRR7944613,-0.0696761527155405,case,CRS,,,Middle meatus,V3–V4,Training
+PRJNA493980,SRR7944612,-0.7997605382924535,case,CRS,,,Middle meatus,V3–V4,Training
+PRJNA493980,SRR7944611,0.742247367274745,case,CRS,,,Middle meatus,V3–V4,Training
+PRJNA493980,SRR7944610,-1.0018651411266308,case,CRS,,,Middle meatus,V3–V4,Training
+PRJNA493980,SRR7944583,-0.2691892218159223,case,CRS,,,Middle meatus,V3–V4,Training
+PRJNA493980,SRR7944582,-0.12616501628909893,case,CRS,,,Middle meatus,V3–V4,Training
+PRJNA493980,SRR7944581,-0.4246967730296997,case,CRS,,,Middle meatus,V3–V4,Training
+PRJNA493980,SRR7944580,-0.6058037498345172,case,CRS,,,Middle meatus,V3–V4,Training
+PRJNA493980,SRR7944579,-0.7247762675857197,case,CRS,,,Middle meatus,V3–V4,Training
+PRJNA493980,SRR7944578,-0.7478537413557682,case,CRS,,,Middle meatus,V3–V4,Training
+PRJNA493980,SRR7944647,-1.0080599886989854,case,AR,,,Middle meatus,V3–V4,Training
+PRJNA493980,SRR7944609,-0.5282162669108157,case,AR,,,Middle meatus,V3–V4,Training
+PRJNA493980,SRR7944608,-0.8629162857889042,case,AR,,,Middle meatus,V3–V4,Training
+PRJNA493980,SRR7944607,-0.45699138819840024,case,AR,,,Middle meatus,V3–V4,Training
+PRJNA493980,SRR7944606,0.8686949105815437,case,AR,,,Middle meatus,V3–V4,Training
+PRJNA493980,SRR7944604,-0.1407843089680485,case,AR,,,Middle meatus,V3–V4,Training
+PRJNA493980,SRR7944644,-0.9576181461620275,case,AR,,,Middle meatus,V3–V4,Training
+PRJNA493980,SRR7944603,-0.9800622362255427,case,AR,,,Middle meatus,V3–V4,Training
+PRJNA493980,SRR7944602,-0.183798355645592,case,AR,,,Middle meatus,V3–V4,Training
+PRJNA493980,SRR7944601,-0.9347649065725349,case,AR,,,Middle meatus,V3–V4,Training
+PRJNA493980,SRR7944600,-0.35658536173374744,case,AR,,,Middle meatus,V3–V4,Training
+PRJNA493980,SRR7944599,-0.9939317396350354,case,AR,,,Middle meatus,V3–V4,Training
+PRJNA493980,SRR7944598,-0.3223645090745409,case,AR,,,Middle meatus,V3–V4,Training
+PRJNA493980,SRR7944597,0.05433236850393319,case,AR,,,Middle meatus,V3–V4,Training
+PRJNA493980,SRR7944596,-0.84097213947285,case,AR,,,Middle meatus,V3–V4,Training
+PRJNA493980,SRR7944595,0.29034516872031635,case,AR,,,Middle meatus,V3–V4,Training
+PRJNA493980,SRR7944594,-0.18425024275570312,case,AR,,,Middle meatus,V3–V4,Training
+PRJNA493980,SRR7944568,-0.10458030147460873,case,AR,,,Middle meatus,V3–V4,Training
+PRJNA493980,SRR7944569,0.5605949149849768,case,AR,,,Middle meatus,V3–V4,Training
+PRJNA493980,SRR7944570,0.6569190999356497,case,AR,,,Middle meatus,V3–V4,Training
+PRJNA493980,SRR7944571,0.8194016630385791,case,AR,,,Middle meatus,V3–V4,Training
+PRJNA493980,SRR7944572,0.5231611259168948,case,AR,,,Middle meatus,V3–V4,Training
+PRJNA493980,SRR7944573,0.8714857445523224,case,AR,,,Middle meatus,V3–V4,Training
+PRJNA493980,SRR7944574,0.6130020744040773,case,AR,,,Middle meatus,V3–V4,Training
+PRJNA493980,SRR7944575,-0.18080829893923012,case,AR,,,Middle meatus,V3–V4,Training
+PRJNA493980,SRR7944576,-0.19039220222384245,case,AR,,,Middle meatus,V3–V4,Training
+PRJNA493980,SRR7944577,0.5575093254031976,case,AR,,,Middle meatus,V3–V4,Training
+PRJNA493980,SRR7944658,-3.0588726421613663,case,AR,,,Middle meatus,V3–V4,Training
+PRJNA493980,SRR7944657,0.6791989197932636,case,AR,,,Middle meatus,V3–V4,Training
+PRJNA493980,SRR7944660,0.16442665455474925,case,AR,,,Middle meatus,V3–V4,Training
+PRJNA493980,SRR7944659,-0.03591564787472379,case,AR,,,Middle meatus,V3–V4,Training
+PRJNA493980,SRR7944662,0.6352027268663502,case,AR,,,Middle meatus,V3–V4,Training
+PRJNA493980,SRR7944661,0.8799436740324821,case,AR,,,Middle meatus,V3–V4,Training
+PRJNA493980,SRR7944664,0.017449390255806274,case,AR,,,Middle meatus,V3–V4,Training
+PRJNA493980,SRR7944663,0.3253165858786785,case,AR,,,Middle meatus,V3–V4,Training
+PRJNA493980,SRR7944656,-3.086917909344512,case,AR,,,Middle meatus,V3–V4,Training
+PRJNA493980,SRR7944655,-2.8502641437346683,case,AR,,,Middle meatus,V3–V4,Training
+PRJNA338893,SRR4738624,0.12973660003141807,case,CRS,female,20.0,Middle meatus,V3–V4,Training
+PRJNA338893,SRR4738039,0.7834848907000017,case,CRS,female,20.0,Middle meatus,V3–V4,Training
+PRJNA338893,SRR4738676,-0.3505963800070298,case,CRS,female,21.0,Middle meatus,V3–V4,Training
+PRJNA338893,SRR4737847,0.4219247642197891,case,CRS,female,23.0,Middle meatus,V3–V4,Training
+PRJNA338893,SRR4738875,-0.27617146106412543,case,CRS,female,25.0,Middle meatus,V3–V4,Training
+PRJNA338893,SRR4738873,-0.2663858660332172,case,CRS,female,25.0,Middle meatus,V3–V4,Training
+PRJNA338893,SRR4738948,0.9037464548147219,case,CRS,female,25.0,Middle meatus,V3–V4,Training
+PRJNA338893,SRR4738944,0.7270275888760204,case,CRS,female,25.0,Middle meatus,V3–V4,Training
+PRJNA338893,SRR4737918,0.7629973348042957,case,CRS,female,28.0,Middle meatus,V3–V4,Training
+PRJNA338893,SRR4737906,-2.149391548390449,case,CRS,female,28.0,Middle meatus,V3–V4,Training
+PRJNA338893,SRR4737903,-2.8470938279790055,case,CRS,female,28.0,Middle meatus,V3–V4,Training
+PRJNA338893,SRR4738188,0.049047246265140454,case,CRS,female,29.0,Middle meatus,V3–V4,Training
+PRJNA338893,SRR4738184,-0.23049604241721178,case,CRS,female,29.0,Middle meatus,V3–V4,Training
+PRJNA338893,SRR4738857,-0.32328889866317906,case,CRS,female,33.0,Middle meatus,V3–V4,Training
+PRJNA338893,SRR4738799,0.10282284811766462,case,CRS,female,35.0,Middle meatus,V3–V4,Training
+PRJNA338893,SRR4738795,0.3622672399036483,case,CRS,female,35.0,Middle meatus,V3–V4,Training
+PRJNA338893,SRR4738635,-0.603381610996963,case,CRS,female,37.0,Middle meatus,V3–V4,Training
+PRJNA338893,SRR4738709,-0.9212521056674234,case,CRS,female,41.0,Middle meatus,V3–V4,Training
+PRJNA338893,SRR4737657,-0.7273298409729239,case,CRS,female,42.0,Middle meatus,V3–V4,Training
+PRJNA338893,SRR4737650,-0.6061116445272604,case,CRS,female,42.0,Middle meatus,V3–V4,Training
+PRJNA338893,SRR4738792,0.055014559461202484,case,CRS,female,43.0,Middle meatus,V3–V4,Training
+PRJNA338893,SRR4738788,-0.47634576483811447,case,CRS,female,43.0,Middle meatus,V3–V4,Training
+PRJNA338893,SRR4738208,-0.43421252570473995,case,CRS,female,45.0,Middle meatus,V3–V4,Training
+PRJNA338893,SRR4738202,-3.4887237040550536,case,CRS,female,45.0,Middle meatus,V3–V4,Training
+PRJNA338893,SRR4738933,0.9321636564033465,case,CRS,female,46.0,Middle meatus,V3–V4,Training
+PRJNA338893,SRR4738404,-0.14269222554363115,case,CRS,female,46.0,Middle meatus,V3–V4,Training
+PRJNA338893,SRR4738164,0.00021262989328763027,case,CRS,female,46.0,Middle meatus,V3–V4,Training
+PRJNA338893,SRR4738412,-0.5424036297114866,case,CRS,female,50.0,Middle meatus,V3–V4,Training
+PRJNA338893,SRR4738335,-1.2390872225285796,case,CRS,female,50.0,Middle meatus,V3–V4,Training
+PRJNA338893,SRR4738155,-0.2853174242874485,case,CRS,female,50.0,Middle meatus,V3–V4,Training
+PRJNA338893,SRR4738152,-0.2530010446947665,case,CRS,female,50.0,Middle meatus,V3–V4,Training
+PRJNA338893,SRR4738284,-0.8972066614750889,case,CRS,female,52.0,Middle meatus,V3–V4,Training
+PRJNA338893,SRR4738279,-0.8734824525408786,case,CRS,female,52.0,Middle meatus,V3–V4,Training
+PRJNA338893,SRR4738689,0.013858913681223384,case,CRS,female,52.0,Middle meatus,V3–V4,Training
+PRJNA338893,SRR4738682,-0.4333198704534055,case,CRS,female,52.0,Middle meatus,V3–V4,Training
+PRJNA338893,SRR4738769,-0.007319688816698422,case,CRS,female,54.0,Middle meatus,V3–V4,Training
+PRJNA338893,SRR4738767,0.444010977817901,case,CRS,female,54.0,Middle meatus,V3–V4,Training
+PRJNA338893,SRR4737817,-0.02178966733904153,case,CRS,female,54.0,Middle meatus,V3–V4,Training
+PRJNA338893,SRR4737808,-0.5332736515234713,case,CRS,female,54.0,Middle meatus,V3–V4,Training
+PRJNA338893,SRR4737768,-0.05463831420416343,case,CRS,female,54.0,Middle meatus,V3–V4,Training
+PRJNA338893,SRR4737755,1.1228641350875637,case,CRS,female,54.0,Middle meatus,V3–V4,Training
+PRJNA338893,SRR4738492,-5.109493247543811,case,CRS,female,56.0,Middle meatus,V3–V4,Training
+PRJNA338893,SRR4737973,0.4680313002493438,case,CRS,female,59.0,Middle meatus,V3–V4,Training
+PRJNA338893,SRR4737957,0.23549719222428056,case,CRS,female,59.0,Middle meatus,V3–V4,Training
+PRJNA338893,SRR4737932,-1.820968417483845,case,CRS,female,61.0,Middle meatus,V3–V4,Training
+PRJNA338893,SRR4737828,0.6559518058857327,case,CRS,female,63.0,Middle meatus,V3–V4,Training
+PRJNA338893,SRR4738663,0.7555909008014973,case,CRS,female,64.0,Middle meatus,V3–V4,Training
+PRJNA338893,SRR4738662,0.7954827605031801,case,CRS,female,64.0,Middle meatus,V3–V4,Training
+PRJNA338893,SRR4738778,-0.38283246997283255,case,CRS,female,66.0,Middle meatus,V3–V4,Training
+PRJNA338893,SRR4737669,-0.31838594624726674,case,CRS,female,66.0,Middle meatus,V3–V4,Training
+PRJNA338893,SRR4737661,-0.4960245023986695,case,CRS,female,66.0,Middle meatus,V3–V4,Training
+PRJNA338893,SRR4738869,-0.1332106504878836,case,CRS,female,67.0,Middle meatus,V3–V4,Training
+PRJNA338893,SRR4738866,-0.45156093533143765,case,CRS,female,67.0,Middle meatus,V3–V4,Training
+PRJNA338893,SRR4738843,0.2542929367564014,case,CRS,female,68.0,Middle meatus,V3–V4,Training
+PRJNA338893,SRR4738668,-0.21268248880916218,case,CRS,male,18.0,Middle meatus,V3–V4,Training
+PRJNA338893,SRR4738666,-0.4296259473071982,case,CRS,male,18.0,Middle meatus,V3–V4,Training
+PRJNA338893,SRR4738783,-1.622125087664893,case,CRS,male,22.0,Middle meatus,V3–V4,Training
+PRJNA338893,SRR4738772,-0.18851468167511387,case,CRS,male,23.0,Middle meatus,V3–V4,Training
+PRJNA338893,SRR4738450,-0.05728019406458318,case,CRS,male,28.0,Middle meatus,V3–V4,Training
+PRJNA338893,SRR4738442,-0.5432271943705166,case,CRS,male,28.0,Middle meatus,V3–V4,Training
+PRJNA338893,SRR4738992,-0.22382534569732637,case,CRS,male,28.0,Middle meatus,V3–V4,Training
+PRJNA338893,SRR4738376,-0.3614988685429904,case,CRS,male,32.0,Middle meatus,V3–V4,Training
+PRJNA338893,SRR4738898,-0.40667075343810827,case,CRS,male,34.0,Middle meatus,V3–V4,Training
+PRJNA338893,SRR4738896,0.07280614000149144,case,CRS,male,34.0,Middle meatus,V3–V4,Training
+PRJNA338893,SRR4738919,-0.39128545091501327,case,CRS,male,35.0,Middle meatus,V3–V4,Training
+PRJNA338893,SRR4738915,-0.49306765655547796,case,CRS,male,35.0,Middle meatus,V3–V4,Training
+PRJNA338893,SRR4738047,0.18261313939496726,case,CRS,male,37.0,Middle meatus,V3–V4,Training
+PRJNA338893,SRR4738982,-0.2445341109383221,case,CRS,male,37.0,Middle meatus,V3–V4,Training
+PRJNA338893,SRR4738979,-0.5149745175032198,case,CRS,male,37.0,Middle meatus,V3–V4,Training
+PRJNA338893,SRR4738852,0.46525581958961115,case,CRS,male,40.0,Middle meatus,V3–V4,Training
+PRJNA338893,SRR4738850,0.5046482101354938,case,CRS,male,40.0,Middle meatus,V3–V4,Training
+PRJNA338893,SRR4738368,-1.874586935958547,case,CRS,male,40.0,Middle meatus,V3–V4,Training
+PRJNA338893,SRR4737844,-0.24437314119267095,case,CRS,male,42.0,Middle meatus,V3–V4,Training
+PRJNA338893,SRR4737710,3.726267834454709,case,CRS,male,45.0,Middle meatus,V3–V4,Training
+PRJNA338893,SRR4738122,-0.2953609043997012,case,CRS,male,46.0,Middle meatus,V3–V4,Training
+PRJNA338893,SRR4738759,0.8634855466610424,case,CRS,male,48.0,Middle meatus,V3–V4,Training
+PRJNA338893,SRR4737948,-0.7451253677269378,case,CRS,male,48.0,Middle meatus,V3–V4,Training
+PRJNA338893,SRR4738524,-0.2023622294228441,case,CRS,male,48.0,Middle meatus,V3–V4,Training
+PRJNA338893,SRR4738140,-0.7530925198329438,case,CRS,male,50.0,Middle meatus,V3–V4,Training
+PRJNA338893,SRR4738135,-0.8138084823510982,case,CRS,male,50.0,Middle meatus,V3–V4,Training
+PRJNA338893,SRR4738765,-0.8668890486568064,case,CRS,male,50.0,Middle meatus,V3–V4,Training
+PRJNA338893,SRR4738012,0.8274983483174437,case,CRS,male,52.0,Middle meatus,V3–V4,Training
+PRJNA338893,SRR4737703,0.23282866273477898,case,CRS,male,53.0,Middle meatus,V3–V4,Training
+PRJNA338893,SRR4737683,0.33138104430365767,case,CRS,male,53.0,Middle meatus,V3–V4,Training
+PRJNA338893,SRR4738103,-0.3931038735366901,case,CRS,male,54.0,Middle meatus,V3–V4,Training
+PRJNA338893,SRR4738082,0.1908608813400775,case,CRS,male,54.0,Middle meatus,V3–V4,Training
+PRJNA338893,SRR4738877,0.8051818035616024,case,CRS,male,58.0,Middle meatus,V3–V4,Training
+PRJNA338893,SRR4738035,-0.39580701532995527,case,CRS,male,59.0,Middle meatus,V3–V4,Training
+PRJNA338893,SRR4738313,0.2916234945356849,case,CRS,male,60.0,Middle meatus,V3–V4,Training
+PRJNA338893,SRR4738303,0.2046510514243004,case,CRS,male,60.0,Middle meatus,V3–V4,Training
+PRJNA338893,SRR4738910,0.7404555389900621,case,CRS,male,61.0,Middle meatus,V3–V4,Training
+PRJNA338893,SRR4738907,0.5259085595775014,case,CRS,male,61.0,Middle meatus,V3–V4,Training
+PRJNA338893,SRR4738901,-3.8868306529564247,case,CRS,male,61.0,Middle meatus,V3–V4,Training
+PRJNA338893,SRR4738162,-2.958662732101941,case,CRS,male,61.0,Middle meatus,V3–V4,Training
+PRJNA338893,SRR4738927,0.3518559393522148,case,CRS,male,65.0,Middle meatus,V3–V4,Training
+PRJNA338893,SRR4738923,-0.0322474871995001,case,CRS,male,65.0,Middle meatus,V3–V4,Training
+PRJNA338893,SRR4738818,-3.4859597762670504,case,CRS,male,66.0,Middle meatus,V3–V4,Training
+PRJNA338893,SRR4738813,-1.0090926891458931,case,CRS,male,66.0,Middle meatus,V3–V4,Training
+PRJNA338893,SRR4737541,0.6668085705339456,case,CRS,male,66.0,Middle meatus,V3–V4,Training
+PRJNA338893,SRR4737533,-0.048505949645635704,case,CRS,male,66.0,Middle meatus,V3–V4,Training
+PRJNA338893,SRR4738297,-0.6712985558607499,case,CRS,male,67.0,Middle meatus,V3–V4,Training
+PRJNA338893,SRR4738289,0.18355359295474072,case,CRS,male,67.0,Middle meatus,V3–V4,Training
+PRJEB23675,ERR2206672,-0.7879375105391639,case,CRS,,,Middle meatus,V3–V4,Training
+PRJEB23675,ERR2206671,-1.5068424530196987,case,CRS,,,Middle meatus,V3–V4,Training
+PRJEB23675,ERR2206670,-0.8426332357060763,case,CRS,,,Middle meatus,V3–V4,Training
+PRJEB23675,ERR2206669,-0.7967178302982163,case,CRS,,,Middle meatus,V3–V4,Training
+PRJEB23675,ERR2206668,-1.06527226441252,case,CRS,,,Middle meatus,V3–V4,Training
+PRJEB23675,ERR2206653,-0.8494996383846942,case,CRS,,,Middle meatus,V3–V4,Training
+PRJEB23675,ERR2206652,-1.0721822659574096,case,CRS,,,Middle meatus,V3–V4,Training
+PRJEB23675,ERR2206651,-1.736002629561714,case,CRS,,,Middle meatus,V3–V4,Training
+PRJEB23675,ERR2206650,-1.6477423440212375,case,CRS,,,Middle meatus,V3–V4,Training
+PRJEB23675,ERR2206649,-1.6129651882972982,case,CRS,,,Middle meatus,V3–V4,Training
+PRJEB23675,ERR2206633,-1.6254402261980863,case,CRS,,,Middle meatus,V3–V4,Training
+PRJEB23675,ERR2206632,-1.5657881440474188,case,CRS,,,Middle meatus,V3–V4,Training
+PRJEB23675,ERR2206648,-1.7045488408269613,case,CRS,,,Middle meatus,V3–V4,Training
+PRJEB23675,ERR2206647,-1.6269503997716326,case,CRS,,,Middle meatus,V3–V4,Training
+PRJEB23675,ERR2206646,-1.5059379735202372,case,CRS,,,Middle meatus,V3–V4,Training
+PRJEB23675,ERR2206645,-1.4124898947183322,case,CRS,,,Middle meatus,V3–V4,Training
+PRJEB23675,ERR2206644,-1.6070836898901555,case,CRS,,,Middle meatus,V3–V4,Training
+PRJEB23675,ERR2206642,-1.5555072117216278,case,CRS,,,Middle meatus,V3–V4,Training
+PRJEB23675,ERR2206640,-1.5811700593477764,case,CRS,,,Middle meatus,V3–V4,Training
+PRJEB23675,ERR2206639,-1.7519540537015177,case,CRS,,,Middle meatus,V3–V4,Training
+PRJEB23675,ERR2206638,-1.7694365955751241,case,CRS,,,Middle meatus,V3–V4,Training
+PRJEB23675,ERR2206637,-1.7147361599733086,case,CRS,,,Middle meatus,V3–V4,Training
+PRJEB23675,ERR2206636,-1.654752122875633,case,CRS,,,Middle meatus,V3–V4,Training
+PRJNA494384,SRR79495901,0.42465710709420923,case,RA,,,Nasal cavity (unspecified),V3–V4,Training
+PRJNA494384,SRR79495902,-0.042759894676611676,case,RA,,,Nasal cavity (unspecified),V3–V4,Training
+PRJNA494384,SRR7949590,-0.1577215022760715,case,RA,,,Nasal cavity (unspecified),V3–V4,Training
+PRJNA494384,SRR7949617,0.7146369489330237,case,RA,,,Nasal cavity (unspecified),V3–V4,Training
+PRJNA494384,SRR7949618,0.7216904747640202,case,RA,,,Nasal cavity (unspecified),V3–V4,Training
+PRJNA494384,SRR7949619,0.24676583981883626,case,RA,,,Nasal cavity (unspecified),V3–V4,Training
+PRJNA494384,SRR7949620,0.24583452737725098,case,RA,,,Nasal cavity (unspecified),V3–V4,Training
+PRJNA494384,SRR7949621,-0.5450137201381495,case,RA,,,Nasal cavity (unspecified),V3–V4,Training
+PRJNA494384,SRR7949592,0.7715298948741461,case,RA,,,Nasal cavity (unspecified),V3–V4,Training
+PRJNA494384,SRR7949585,0.4437732965250446,case,RA,,,Nasal cavity (unspecified),V3–V4,Training
+PRJNA494384,SRR7949577,0.0980441946652787,case,GPA,,,Nasal cavity (unspecified),V3–V4,Training
+PRJNA494384,SRR7949598,-0.08394758852001871,case,GPA,,,Nasal cavity (unspecified),V3–V4,Training
+PRJNA494384,SRR7949612,-0.21949881716511,case,GPA,,,Nasal cavity (unspecified),V3–V4,Training
+PRJNA494384,SRR7949634,-0.036484982226733575,case,GPA,,,Nasal cavity (unspecified),V3–V4,Training
+PRJNA494384,SRR7949616,-0.47644141476507035,case,GPA,,,Nasal cavity (unspecified),V3–V4,Training
+PRJNA494384,SRR7949631,0.5669227028703462,case,GPA,,,Nasal cavity (unspecified),V3–V4,Training
+PRJNA494384,SRR7949635,-0.20858952632057925,case,GPA,,,Nasal cavity (unspecified),V3–V4,Training
+PRJNA494384,SRR7949582,0.03770629422915872,case,GPA,,,Nasal cavity (unspecified),V3–V4,Training
+PRJNA494384,SRR7949600,-0.14058786578035753,case,GPA,,,Nasal cavity (unspecified),V3–V4,Training
+PRJNA494384,SRR7949633,-1.7143492019908946,case,GPA,,,Nasal cavity (unspecified),V3–V4,Training
+PRJNA494384,SRR7949636,-0.22473991088401934,case,GPA,,,Nasal cavity (unspecified),V3–V4,Training
+PRJNA494384,SRR7949641,-0.507454774780656,case,GPA,,,Nasal cavity (unspecified),V3–V4,Training
+PRJNA1028156,SRR26386889,0.5204075435494898,case,CRS,female,20.0,Middle meatus,V3–V4,Training
+PRJNA1028156,SRR26387067,0.8268059244951788,case,CRS,female,22.0,Middle meatus,V3–V4,Training
+PRJNA1028156,SRR26386981,0.7970272614950878,case,CRS,female,22.0,Middle meatus,V3–V4,Training
+PRJNA1028156,SRR26387078,0.2590891240763519,case,CRS,female,23.0,Middle meatus,V3–V4,Training
+PRJNA1028156,SRR26387042,-0.3879194554543304,case,CRS,female,26.0,Middle meatus,V3–V4,Training
+PRJNA1028156,SRR26386925,0.6853301659003762,case,CRS,female,26.0,Middle meatus,V3–V4,Training
+PRJNA1028156,SRR26386918,-1.5927905590469256,case,CRS,female,28.0,Middle meatus,V3–V4,Training
+PRJNA1028156,SRR26386978,-0.38599145971364174,case,CRS,female,32.0,Middle meatus,V3–V4,Training
+PRJNA1028156,SRR26387026,-0.5407375343581323,case,CRS,female,36.0,Middle meatus,V3–V4,Training
+PRJNA1028156,SRR26386983,-0.02284279137953482,case,CRS,female,36.0,Middle meatus,V3–V4,Training
+PRJNA1028156,SRR26386917,0.4104446617310481,case,CRS,female,38.0,Middle meatus,V3–V4,Training
+PRJNA1028156,SRR26386923,0.47793561885177327,case,CRS,female,39.0,Middle meatus,V3–V4,Training
+PRJNA1028156,SRR26387048,1.0048839612210303,case,CRS,female,40.0,Middle meatus,V3–V4,Training
+PRJNA1028156,SRR26386986,-1.9058767351819235,case,CRS,female,40.0,Middle meatus,V3–V4,Training
+PRJNA1028156,SRR26386919,0.8056102436359337,case,CRS,female,40.0,Middle meatus,V3–V4,Training
+PRJNA1028156,SRR26387032,-0.23737763628845232,case,CRS,female,41.0,Middle meatus,V3–V4,Training
+PRJNA1028156,SRR26386987,1.2293199793134377,case,CRS,female,41.0,Middle meatus,V3–V4,Training
+PRJNA1028156,SRR26386984,1.5191170794649431,case,CRS,female,46.0,Middle meatus,V3–V4,Training
+PRJNA1028156,SRR26386909,0.3397584135656976,case,CRS,female,46.0,Middle meatus,V3–V4,Training
+PRJNA1028156,SRR26387052,1.5581493665251314,case,CRS,female,48.0,Middle meatus,V3–V4,Training
+PRJNA1028156,SRR26387012,-3.9491175968118126,case,CRS,female,48.0,Middle meatus,V3–V4,Training
+PRJNA1028156,SRR26387027,-0.14750361535823386,case,CRS,female,52.0,Middle meatus,V3–V4,Training
+PRJNA1028156,SRR26386915,-1.6325190876802043,case,CRS,female,53.0,Middle meatus,V3–V4,Training
+PRJNA1028156,SRR26386992,0.9212998301600638,case,CRS,female,59.0,Middle meatus,V3–V4,Training
+PRJNA1028156,SRR26386921,-0.31715173500073157,case,CRS,female,60.0,Middle meatus,V3–V4,Training
+PRJNA1028156,SRR26387044,0.5661992802149595,case,CRS,female,61.0,Middle meatus,V3–V4,Training
+PRJNA1028156,SRR26386881,-0.16498578018263654,case,CRS,female,61.0,Middle meatus,V3–V4,Training
+PRJNA1028156,SRR26386920,-1.4684691518667568,case,CRS,female,67.0,Middle meatus,V3–V4,Training
+PRJNA1028156,SRR26387075,0.6790594115468914,case,CRS,female,68.0,Middle meatus,V3–V4,Training
+PRJNA1028156,SRR26386880,-0.755826744867882,case,CRS,female,74.0,Middle meatus,V3–V4,Training
+PRJNA1028156,SRR26386896,0.3248389785302591,case,CRS,male,18.0,Middle meatus,V3–V4,Training
+PRJNA1028156,SRR26387040,-0.32709264550976846,case,CRS,male,18.0,Middle meatus,V3–V4,Training
+PRJNA1028156,SRR26386916,0.3437237455689698,case,CRS,male,19.0,Middle meatus,V3–V4,Training
+PRJNA1028156,SRR26386990,0.5759085292500413,case,CRS,male,29.0,Middle meatus,V3–V4,Training
+PRJNA1028156,SRR26387017,-1.9045487048229686,case,CRS,male,30.0,Middle meatus,V3–V4,Training
+PRJNA1028156,SRR26386998,0.26995550000951807,case,CRS,male,30.0,Middle meatus,V3–V4,Training
+PRJNA1028156,SRR26386988,-0.38242542001240243,case,CRS,male,31.0,Middle meatus,V3–V4,Training
+PRJNA1028156,SRR26386890,-0.20672067360854962,case,CRS,male,31.0,Middle meatus,V3–V4,Training
+PRJNA1028156,SRR26387071,-3.2907003361226312,case,CRS,male,32.0,Middle meatus,V3–V4,Training
+PRJNA1028156,SRR26387061,0.050636486946818215,case,CRS,male,32.0,Middle meatus,V3–V4,Training
+PRJNA1028156,SRR26387051,0.6343644841213366,case,CRS,male,32.0,Middle meatus,V3–V4,Training
+PRJNA1028156,SRR26386971,1.0607236700813467,case,CRS,male,32.0,Middle meatus,V3–V4,Training
+PRJNA1028156,SRR26386913,0.5059611796989191,case,CRS,male,32.0,Middle meatus,V3–V4,Training
+PRJNA1028156,SRR26386910,-0.5215416657038554,case,CRS,male,32.0,Middle meatus,V3–V4,Training
+PRJNA1028156,SRR26386993,-1.6648535650442007,case,CRS,male,33.0,Middle meatus,V3–V4,Training
+PRJNA1028156,SRR26386922,0.19402755926821136,case,CRS,male,33.0,Middle meatus,V3–V4,Training
+PRJNA1028156,SRR26387062,-1.9052900100584678,case,CRS,male,34.0,Middle meatus,V3–V4,Training
+PRJNA1028156,SRR26386985,-0.24547496130380997,case,CRS,male,34.0,Middle meatus,V3–V4,Training
+PRJNA1028156,SRR26387072,0.7397937689269817,case,CRS,male,35.0,Middle meatus,V3–V4,Training
+PRJNA1028156,SRR26387041,0.29760693146513273,case,CRS,male,36.0,Middle meatus,V3–V4,Training
+PRJNA1028156,SRR26387033,0.5619892763405488,case,CRS,male,36.0,Middle meatus,V3–V4,Training
+PRJNA1028156,SRR26387024,-0.15861783254159867,case,CRS,male,36.0,Middle meatus,V3–V4,Training
+PRJNA1028156,SRR26386965,0.17195298952710036,case,CRS,male,36.0,Middle meatus,V3–V4,Training
+PRJNA1028156,SRR26386932,0.2760534372953948,case,CRS,male,36.0,Middle meatus,V3–V4,Training
+PRJNA1028156,SRR26386884,0.17495149718214387,case,CRS,male,36.0,Middle meatus,V3–V4,Training
+PRJNA1028156,SRR26386979,-0.2153804757632506,case,CRS,male,37.0,Middle meatus,V3–V4,Training
+PRJNA1028156,SRR26387045,0.618331366855558,case,CRS,male,38.0,Middle meatus,V3–V4,Training
+PRJNA1028156,SRR26386972,-0.3018076110496126,case,CRS,male,38.0,Middle meatus,V3–V4,Training
+PRJNA1028156,SRR26387050,-0.17355638004155693,case,CRS,male,39.0,Middle meatus,V3–V4,Training
+PRJNA1028156,SRR26387031,0.7528114103403413,case,CRS,male,39.0,Middle meatus,V3–V4,Training
+PRJNA1028156,SRR26386893,-1.1453839609234733,case,CRS,male,39.0,Middle meatus,V3–V4,Training
+PRJNA1028156,SRR26387057,0.43756587085066256,case,CRS,male,40.0,Middle meatus,V3–V4,Training
+PRJNA1028156,SRR26386914,-0.20684587126801912,case,CRS,male,40.0,Middle meatus,V3–V4,Training
+PRJNA1028156,SRR26386892,-1.2771121324244987,case,CRS,male,40.0,Middle meatus,V3–V4,Training
+PRJNA1028156,SRR26387037,-0.5383625511168066,case,CRS,male,41.0,Middle meatus,V3–V4,Training
+PRJNA1028156,SRR26387020,0.24889083885781138,case,CRS,male,41.0,Middle meatus,V3–V4,Training
+PRJNA1028156,SRR26386908,0.4138403636124416,case,CRS,male,41.0,Middle meatus,V3–V4,Training
+PRJNA1028156,SRR26386906,0.37198721971504944,case,CRS,male,41.0,Middle meatus,V3–V4,Training
+PRJNA1028156,SRR26386905,-1.0016496122378284,case,CRS,male,41.0,Middle meatus,V3–V4,Training
+PRJNA1028156,SRR26386904,-0.9410095004834815,case,CRS,male,41.0,Middle meatus,V3–V4,Training
+PRJNA1028156,SRR26387059,0.9500839429129796,case,CRS,male,43.0,Middle meatus,V3–V4,Training
+PRJNA1028156,SRR26387074,-0.14644634711064985,case,CRS,male,44.0,Middle meatus,V3–V4,Training
+PRJNA1028156,SRR26386888,-1.0856847050741254,case,CRS,male,44.0,Middle meatus,V3–V4,Training
+PRJNA1028156,SRR26387073,-0.8138924314052906,case,CRS,male,45.0,Middle meatus,V3–V4,Training
+PRJNA1028156,SRR26387023,-0.1648334882989443,case,CRS,male,49.0,Middle meatus,V3–V4,Training
+PRJNA1028156,SRR26386907,0.6718916741598969,case,CRS,male,49.0,Middle meatus,V3–V4,Training
+PRJNA1028156,SRR26387039,-0.467256567015658,case,CRS,male,50.0,Middle meatus,V3–V4,Training
+PRJNA1028156,SRR26387038,0.8248911125150306,case,CRS,male,50.0,Middle meatus,V3–V4,Training
+PRJNA1028156,SRR26387076,-0.35035961385283476,case,CRS,male,51.0,Middle meatus,V3–V4,Training
+PRJNA1028156,SRR26386943,-1.175675752958879,case,CRS,male,51.0,Middle meatus,V3–V4,Training
+PRJNA1028156,SRR26386924,0.40968817929286494,case,CRS,male,51.0,Middle meatus,V3–V4,Training
+PRJNA1028156,SRR26386902,0.5969887546854086,case,CRS,male,51.0,Middle meatus,V3–V4,Training
+PRJNA1028156,SRR26387070,-0.08569164306746824,case,CRS,male,52.0,Middle meatus,V3–V4,Training
+PRJNA1028156,SRR26387053,0.7702938203039827,case,CRS,male,53.0,Middle meatus,V3–V4,Training
+PRJNA1028156,SRR26386970,0.8151697294772985,case,CRS,male,53.0,Middle meatus,V3–V4,Training
+PRJNA1028156,SRR26386886,-0.6609368758095965,case,CRS,male,53.0,Middle meatus,V3–V4,Training
+PRJNA1028156,SRR26386879,-1.3901391302564992,case,CRS,male,53.0,Middle meatus,V3–V4,Training
+PRJNA1028156,SRR26387058,0.39173975727873345,case,CRS,male,54.0,Middle meatus,V3–V4,Training
+PRJNA1028156,SRR26386894,0.6369488050976245,case,CRS,male,54.0,Middle meatus,V3–V4,Training
+PRJNA1028156,SRR26387034,0.20089934306895285,case,CRS,male,55.0,Middle meatus,V3–V4,Training
+PRJNA1028156,SRR26387015,0.922993130386439,case,CRS,male,55.0,Middle meatus,V3–V4,Training
+PRJNA1028156,SRR26386931,0.5836929310794398,case,CRS,male,55.0,Middle meatus,V3–V4,Training
+PRJNA1028156,SRR26387028,0.4596573787172674,case,CRS,male,57.0,Middle meatus,V3–V4,Training
+PRJNA1028156,SRR26386989,-1.310870256839612,case,CRS,male,58.0,Middle meatus,V3–V4,Training
+PRJNA1028156,SRR26386976,0.6119750274097832,case,CRS,male,58.0,Middle meatus,V3–V4,Training
+PRJNA1028156,SRR26387055,0.5696650755610385,case,CRS,male,59.0,Middle meatus,V3–V4,Training
+PRJNA1028156,SRR26386969,0.1619492229317997,case,CRS,male,59.0,Middle meatus,V3–V4,Training
+PRJNA1028156,SRR26386912,-0.9579877901838441,case,CRS,male,59.0,Middle meatus,V3–V4,Training
+PRJNA1028156,SRR26386911,-1.1270883509989706,case,CRS,male,59.0,Middle meatus,V3–V4,Training
+PRJNA1028156,SRR26386885,-0.3024368900520287,case,CRS,male,59.0,Middle meatus,V3–V4,Training
+PRJNA1028156,SRR26387035,-0.008699937096223187,case,CRS,male,60.0,Middle meatus,V3–V4,Training
+PRJNA1028156,SRR26387019,-3.834730046830745,case,CRS,male,60.0,Middle meatus,V3–V4,Training
+PRJNA1028156,SRR26386954,0.3819121609937727,case,CRS,male,60.0,Middle meatus,V3–V4,Training
+PRJNA1028156,SRR26387047,-0.6311791660226348,case,CRS,male,61.0,Middle meatus,V3–V4,Training
+PRJNA1028156,SRR26387060,0.5134838927286506,case,CRS,male,62.0,Middle meatus,V3–V4,Training
+PRJNA1028156,SRR26386977,-2.1137113426021434,case,CRS,male,62.0,Middle meatus,V3–V4,Training
+PRJNA1028156,SRR26387013,0.5719343902549175,case,CRS,male,64.0,Middle meatus,V3–V4,Training
+PRJNA1028156,SRR26386891,0.9296816690742497,case,CRS,male,64.0,Middle meatus,V3–V4,Training
+PRJNA1028156,SRR26387043,-0.7302355772049048,case,CRS,male,65.0,Middle meatus,V3–V4,Training
+PRJNA1028156,SRR26387016,0.1382119841194961,case,CRS,male,66.0,Middle meatus,V3–V4,Training
+PRJNA1028156,SRR26387049,-0.7324967780680671,case,CRS,male,67.0,Middle meatus,V3–V4,Training
+PRJNA1028156,SRR26387029,-2.363670190581602,case,CRS,male,68.0,Middle meatus,V3–V4,Training
+PRJNA1028156,SRR26387022,0.36834390538562645,case,CRS,male,68.0,Middle meatus,V3–V4,Training
+PRJNA1028156,SRR26387021,0.8283187120914236,case,CRS,male,70.0,Middle meatus,V3–V4,Training
+PRJNA1028156,SRR26386982,-0.9090369428349578,case,CRS,male,71.0,Middle meatus,V3–V4,Training
+PRJNA1028156,SRR26387025,0.5770709520796088,case,CRS,male,73.0,Middle meatus,V3–V4,Training
+PRJNA1028156,SRR26386895,-4.556139577915601,case,CRS,male,77.0,Middle meatus,V3–V4,Training
+PRJNA785109,SRR17083021,0.5204140193575587,case,CRS,female,20.0,Middle meatus,V3–V4,Training
+PRJNA785109,SRR17083041,0.6634091535381331,case,CRS,female,22.0,Middle meatus,V3–V4,Training
+PRJNA785109,SRR17083036,0.41032504233088984,case,CRS,female,26.0,Middle meatus,V3–V4,Training
+PRJNA785109,SRR17082993,-0.3857328267038134,case,CRS,female,26.0,Middle meatus,V3–V4,Training
+PRJNA785109,SRR17082932,-0.5409680841549922,case,CRS,female,38.0,Middle meatus,V3–V4,Training
+PRJNA785109,SRR17083034,0.18305677656715558,case,CRS,female,39.0,Middle meatus,V3–V4,Training
+PRJNA785109,SRR17082996,1.0003039062070904,case,CRS,female,40.0,Middle meatus,V3–V4,Training
+PRJNA785109,SRR17082994,0.08132465837872327,case,CRS,female,43.0,Middle meatus,V3–V4,Training
+PRJNA785109,SRR17082990,0.8220693596845022,case,CRS,female,50.0,Middle meatus,V3–V4,Training
+PRJNA785109,SRR17083031,0.6825703353568341,case,CRS,female,60.0,Middle meatus,V3–V4,Training
+PRJNA785109,SRR17082986,-0.013120383584042106,case,CRS,female,60.0,Middle meatus,V3–V4,Training
+PRJNA785109,SRR17082931,0.5854386862601831,case,CRS,female,73.0,Middle meatus,V3–V4,Training
+PRJNA785109,SRR17082991,-0.3246019113077478,case,CRS,male,18.0,Middle meatus,V3–V4,Training
+PRJNA785109,SRR17082945,0.3273241200675182,case,CRS,male,18.0,Middle meatus,V3–V4,Training
+PRJNA785109,SRR17083045,0.27611800415332743,case,CRS,male,19.0,Middle meatus,V3–V4,Training
+PRJNA785109,SRR17082987,0.7342567814958746,case,CRS,male,24.0,Middle meatus,V3–V4,Training
+PRJNA785109,SRR17082926,-1.9016447267971577,case,CRS,male,30.0,Middle meatus,V3–V4,Training
+PRJNA785109,SRR17083032,-0.34663153567121857,case,CRS,male,31.0,Middle meatus,V3–V4,Training
+PRJNA785109,SRR17083009,-3.291182771228284,case,CRS,male,32.0,Middle meatus,V3–V4,Training
+PRJNA785109,SRR17083007,0.0506028637857332,case,CRS,male,32.0,Middle meatus,V3–V4,Training
+PRJNA785109,SRR17082999,0.629349958388227,case,CRS,male,32.0,Middle meatus,V3–V4,Training
+PRJNA785109,SRR17083044,-1.001178674525224,case,CRS,male,33.0,Middle meatus,V3–V4,Training
+PRJNA785109,SRR17083033,-0.3129093983662244,case,CRS,male,33.0,Middle meatus,V3–V4,Training
+PRJNA785109,SRR17083008,-1.9064605640044938,case,CRS,male,34.0,Middle meatus,V3–V4,Training
+PRJNA785109,SRR17083000,-0.6608664237384334,case,CRS,male,35.0,Middle meatus,V3–V4,Training
+PRJNA785109,SRR17083017,0.17414342926082915,case,CRS,male,36.0,Middle meatus,V3–V4,Training
+PRJNA785109,SRR17082992,0.2934634969626505,case,CRS,male,36.0,Middle meatus,V3–V4,Training
+PRJNA785109,SRR17082978,-0.9856947447778882,case,CRS,male,36.0,Middle meatus,V3–V4,Training
+PRJNA785109,SRR17083042,0.5715682395051785,case,CRS,male,38.0,Middle meatus,V3–V4,Training
+PRJNA785109,SRR17083039,0.19790782622795466,case,CRS,male,38.0,Middle meatus,V3–V4,Training
+PRJNA785109,SRR17082967,-0.3021956753176193,case,CRS,male,38.0,Middle meatus,V3–V4,Training
+PRJNA785109,SRR17082998,-0.17291414686584017,case,CRS,male,39.0,Middle meatus,V3–V4,Training
+PRJNA785109,SRR17082936,0.7525960381660967,case,CRS,male,39.0,Middle meatus,V3–V4,Training
+PRJNA785109,SRR17083004,0.436659405213108,case,CRS,male,40.0,Middle meatus,V3–V4,Training
+PRJNA785109,SRR17083040,0.6160880618834094,case,CRS,male,41.0,Middle meatus,V3–V4,Training
+PRJNA785109,SRR17082988,0.286162407969928,case,CRS,male,41.0,Middle meatus,V3–V4,Training
+PRJNA785109,SRR17082929,0.24916700486486987,case,CRS,male,41.0,Middle meatus,V3–V4,Training
+PRJNA785109,SRR17083005,0.948497660199978,case,CRS,male,43.0,Middle meatus,V3–V4,Training
+PRJNA785109,SRR17083018,-1.0843232444627713,case,CRS,male,44.0,Middle meatus,V3–V4,Training
+PRJNA785109,SRR17083012,-0.1450135198880642,case,CRS,male,44.0,Middle meatus,V3–V4,Training
+PRJNA785109,SRR17083035,0.49632112166325115,case,CRS,male,51.0,Middle meatus,V3–V4,Training
+PRJNA785109,SRR17083013,-0.3505499227333143,case,CRS,male,51.0,Middle meatus,V3–V4,Training
+PRJNA785109,SRR17082989,0.5961085185976746,case,CRS,male,51.0,Middle meatus,V3–V4,Training
+PRJNA785109,SRR17083037,0.689318571490599,case,CRS,male,52.0,Middle meatus,V3–V4,Training
+PRJNA785109,SRR17082933,-0.14774653814880168,case,CRS,male,52.0,Middle meatus,V3–V4,Training
+PRJNA785109,SRR17083015,-1.3917976745059915,case,CRS,male,53.0,Middle meatus,V3–V4,Training
+PRJNA785109,SRR17083011,0.16084616818631037,case,CRS,male,53.0,Middle meatus,V3–V4,Training
+PRJNA785109,SRR17083001,0.7686965230533392,case,CRS,male,53.0,Middle meatus,V3–V4,Training
+PRJNA785109,SRR17082934,0.6412516361790587,case,CRS,male,54.0,Middle meatus,V3–V4,Training
+PRJNA785109,SRR17083038,-0.1656576410879096,case,CRS,male,55.0,Middle meatus,V3–V4,Training
+PRJNA785109,SRR17083002,-0.8181711793210039,case,CRS,male,58.0,Middle meatus,V3–V4,Training
+PRJNA785109,SRR17083003,0.5747305110671349,case,CRS,male,59.0,Middle meatus,V3–V4,Training
+PRJNA785109,SRR17082928,-3.836662808430212,case,CRS,male,60.0,Middle meatus,V3–V4,Training
+PRJNA785109,SRR17082995,-0.6325667084358948,case,CRS,male,61.0,Middle meatus,V3–V4,Training
+PRJNA785109,SRR17083006,0.5148457612004079,case,CRS,male,62.0,Middle meatus,V3–V4,Training
+PRJNA785109,SRR17083014,0.6091320804937029,case,CRS,male,63.0,Middle meatus,V3–V4,Training
+PRJNA785109,SRR17083043,0.9299635057986347,case,CRS,male,64.0,Middle meatus,V3–V4,Training
+PRJNA785109,SRR17082985,0.568258435607719,case,CRS,male,64.0,Middle meatus,V3–V4,Training
+PRJNA785109,SRR17082925,0.13876959807558098,case,CRS,male,66.0,Middle meatus,V3–V4,Training
+PRJNA785109,SRR17082997,-0.7633745960707391,case,CRS,male,67.0,Middle meatus,V3–V4,Training
+PRJNA785109,SRR17082935,-2.3580831741504844,case,CRS,male,68.0,Middle meatus,V3–V4,Training
+PRJNA785109,SRR17082930,0.8282251852551906,case,CRS,male,71.0,Middle meatus,V3–V4,Training
+PRJNA656590,SRR12431797,-0.2731990923269885,case,CRS-AS,,34.0,Maxillary sinus,V4,Training
+PRJNA656590,SRR12431788,-5.301493954389392,case,CRS-AS,,34.0,Maxillary sinus,V4,Training
+PRJNA656590,SRR12431861,-1.4540806285683554,case,CRS-AS,,41.0,Maxillary sinus,V4,Training
+PRJNA656590,SRR12431798,-5.16511425958007,case,CRS-AS,,46.0,Maxillary sinus,V4,Training
+PRJNA656590,SRR12431816,-0.29053257798723636,case,CRS-AS,,48.0,Maxillary sinus,V4,Training
+PRJNA656590,SRR12431795,-0.03978145711622105,case,CRS-AS,,48.0,Maxillary sinus,V4,Training
+PRJNA656590,SRR12431796,-0.1543601390169016,case,CRS-AS,,50.0,Maxillary sinus,V4,Training
+PRJNA656590,SRR12431735,0.21770991538953488,case,CRS-AS,,54.0,Maxillary sinus,V4,Training
+PRJNA656590,SRR12431862,-0.7610234430007384,case,CRS-AS,,55.0,Maxillary sinus,V4,Training
+PRJNA656590,SRR12431849,-1.1893759586699084,case,CRS-AS,,62.0,Maxillary sinus,V4,Training
+PRJNA656590,SRR12431793,-0.7963936943676895,case,CRS-AS,,72.0,Maxillary sinus,V4,Training
+PRJNA646474,SRR12228714,-0.13501573424405955,case,AR,,,Nasal cavity (unspecified),V3–V4,Training
+PRJNA646474,SRR12228713,-0.11398327298954769,case,AR,,,Nasal cavity (unspecified),V3–V4,Training
+PRJNA646474,SRR12228702,0.9550264843106512,case,AR,,,Nasal cavity (unspecified),V3–V4,Training
+PRJNA646474,SRR12228672,1.0967342345683746,case,AR,,,Nasal cavity (unspecified),V3–V4,Training
+PRJNA646474,SRR12228671,0.6364035707138959,case,AR,,,Nasal cavity (unspecified),V3–V4,Training
+PRJNA646474,SRR12228670,-0.3726380648271287,case,AR,,,Nasal cavity (unspecified),V3–V4,Training
+PRJNA646474,SRR12228669,-0.005263530565930652,case,AR,,,Nasal cavity (unspecified),V3–V4,Training
+PRJNA646474,SRR12228712,0.14267602850580763,case,AR,,,Nasal cavity (unspecified),V3–V4,Training
+PRJNA646474,SRR12228711,0.5146651697714114,case,AR,,,Nasal cavity (unspecified),V3–V4,Training
+PRJNA646474,SRR12228710,0.3711017697933171,case,AR,,,Nasal cavity (unspecified),V3–V4,Training
+PRJNA646474,SRR12228707,0.833104313098903,case,AR,,,Nasal cavity (unspecified),V3–V4,Training
+PRJNA646474,SRR12228706,0.16841562158824464,case,AR,,,Nasal cavity (unspecified),V3–V4,Training
+PRJNA646474,SRR12228701,0.7314880025464731,case,AR,,,Nasal cavity (unspecified),V3–V4,Training
+PRJNA646474,SRR12228699,0.6216402555087269,case,AR,,,Nasal cavity (unspecified),V3–V4,Training
+PRJNA646474,SRR12228695,-0.36417818670749263,case,AR,,,Nasal cavity (unspecified),V3–V4,Training
+PRJNA646474,SRR12228692,-0.28908882642054984,case,AR,,,Nasal cavity (unspecified),V3–V4,Training
+PRJNA646474,SRR12228689,-0.5431109362111703,case,AR,,,Nasal cavity (unspecified),V3–V4,Training
+PRJNA646474,SRR12228686,-0.11802236945713573,case,AR,,,Nasal cavity (unspecified),V3–V4,Training
+PRJNA646474,SRR12228684,0.03208870003832731,case,AR,,,Nasal cavity (unspecified),V3–V4,Training
+PRJNA646474,SRR12228675,2.0930900027181423,case,AR,,,Nasal cavity (unspecified),V3–V4,Training
+PRJNA646474,SRR12228674,-0.18112645344532274,case,AR,,,Nasal cavity (unspecified),V3–V4,Training
+PRJNA434133,SRR10501962,0.6046009972267069,case,Asthma,female,26.0,Middle meatus,V4,Training
+PRJNA434133,SRR10501803,-0.6515610337264968,case,Asthma,female,29.0,Middle meatus,V4,Training
+PRJNA434133,SRR10501930,-0.771311452660031,case,Asthma,female,30.0,Middle meatus,V4,Training
+PRJNA434133,SRR10501831,-0.24558076882886548,case,Asthma,female,39.0,Middle meatus,V4,Training
+PRJNA434133,SRR10501999,0.07935118757414128,case,Asthma,female,40.0,Middle meatus,V4,Training
+PRJNA434133,SRR10501797,-1.141547729330095,case,Asthma,female,41.0,Middle meatus,V4,Training
+PRJNA434133,SRR10501807,-0.3997918010449143,case,Asthma,female,47.0,Middle meatus,V4,Training
+PRJNA434133,SRR10501820,-0.7358955528086941,case,Asthma,female,47.0,Middle meatus,V4,Training
+PRJNA434133,SRR10501798,-0.5980648272008358,case,Asthma,female,53.0,Middle meatus,V4,Training
+PRJNA434133,SRR10501805,-0.9977632081266106,case,Asthma,female,54.0,Middle meatus,V4,Training
+PRJNA434133,SRR10501941,-0.9317009830333436,case,Asthma,female,55.0,Middle meatus,V4,Training
+PRJNA434133,SRR10501802,-0.4102246947974809,case,Asthma,female,57.0,Middle meatus,V4,Training
+PRJNA434133,SRR10501799,-0.4314098408059251,case,Asthma,female,59.0,Middle meatus,V4,Training
+PRJNA434133,SRR10501886,0.4695859247257502,case,Asthma,male,25.0,Middle meatus,V4,Training
+PRJNA434133,SRR10501875,-0.6934078649204674,case,Asthma,male,26.0,Middle meatus,V4,Training
+PRJNA434133,SRR10501801,-0.15572984007417,case,Asthma,male,41.0,Middle meatus,V4,Training
+PRJNA434133,SRR10501806,-0.7641775643802509,case,Asthma,male,43.0,Middle meatus,V4,Training
+PRJNA913468,SRR22800581,-0.9787333744325399,case,Asthma,female,18.0,Anterior nares,V4,Training
+PRJNA913468,SRR22800729,0.1350307480657561,case,Asthma,female,18.0,Anterior nares,V4,Training
+PRJNA913468,SRR22800525,-0.6929695869927541,case,Asthma,female,18.0,Anterior nares,V4,Training
+PRJNA913468,SRR22800595,-1.0306405333307178,case,Asthma,female,18.0,Anterior nares,V4,Training
+PRJNA913468,SRR22800770,-0.10239116144135063,case,Asthma,female,18.0,Anterior nares,V4,Training
+PRJNA913468,SRR22800772,-0.012328532601342701,case,Asthma,female,18.0,Anterior nares,V4,Training
+PRJNA913468,SRR22800789,-0.5465595833012431,case,Asthma,female,18.0,Anterior nares,V4,Training
+PRJNA913468,SRR22800345,0.2995128360539542,case,Asthma,female,18.0,Anterior nares,V4,Training
+PRJNA913468,SRR22800582,-0.6762634785771092,case,Asthma,female,18.0,Anterior nares,V4,Training
+PRJNA913468,SRR22800730,0.12461610990093097,case,Asthma,female,18.0,Anterior nares,V4,Training
+PRJNA913468,SRR22800570,0.3504035284968431,case,Asthma,female,18.0,Anterior nares,V4,Training
+PRJNA913468,SRR22800572,-1.114792071658278,case,Asthma,female,18.0,Anterior nares,V4,Training
+PRJNA913468,SRR22800742,0.6859843322356779,case,Asthma,female,18.0,Anterior nares,V4,Training
+PRJNA913468,SRR22800842,-0.7506337528481865,case,Asthma,female,18.0,Anterior nares,V4,Training
+PRJNA913468,SRR22800596,0.009289005799533734,case,Asthma,female,18.0,Anterior nares,V4,Training
+PRJNA913468,SRR22800767,-0.24082094823678013,case,Asthma,female,18.0,Anterior nares,V4,Training
+PRJNA913468,SRR22800276,-0.24794611564320967,case,Asthma,female,18.0,Anterior nares,V4,Training
+PRJNA913468,SRR22800794,-0.5421375362113241,case,Asthma,female,18.0,Anterior nares,V4,Training
+PRJNA913468,SRR22800335,-0.5002019846499133,case,Asthma,female,18.0,Anterior nares,V4,Training
+PRJNA913468,SRR22800571,0.06685541504847592,case,Asthma,female,18.0,Anterior nares,V4,Training
+PRJNA913468,SRR22800573,-0.7349048523393126,case,Asthma,female,18.0,Anterior nares,V4,Training
+PRJNA913468,SRR22800604,0.0053493815011410595,case,Asthma,female,19.0,Anterior nares,V4,Training
+PRJNA913468,SRR22800511,0.5152163004510605,case,Asthma,female,19.0,Anterior nares,V4,Training
+PRJNA913468,SRR22800757,0.021908350317878966,case,Asthma,male,18.0,Anterior nares,V4,Training
+PRJNA913468,SRR22800265,-0.2574867462948802,case,Asthma,male,18.0,Anterior nares,V4,Training
+PRJNA913468,SRR22800586,-0.1882868573837868,case,Asthma,male,18.0,Anterior nares,V4,Training
+PRJNA913468,SRR22800720,-0.030707862108402817,case,Asthma,male,18.0,Anterior nares,V4,Training
+PRJNA913468,SRR22800805,-0.4412133344304386,case,Asthma,male,18.0,Anterior nares,V4,Training
+PRJNA913468,SRR22800721,-0.08388810263832336,case,Asthma,male,18.0,Anterior nares,V4,Training
+PRJNA913468,SRR22800593,-0.5484292620265593,case,Asthma,male,19.0,Anterior nares,V4,Training
+PRJNA913468,SRR22800538,0.06100803195353921,case,Asthma,male,19.0,Anterior nares,V4,Training
+PRJNA473785,SRR7234842,2.1161904427855647,case,GPA,,,Middle meatus,V1–V2,Training
+PRJNA473785,SRR7234845,0.684660881997354,case,GPA,,,Middle meatus,V1–V2,Training
+PRJNA473785,SRR7234849,-0.2701503241270823,case,GPA,,,Middle meatus,V1–V2,Training
+PRJNA473785,SRR7234824,2.754962245946604,case,GPA,,,Middle meatus,V1–V2,Training
+PRJNA473785,SRR7234821,-0.27718682284436286,case,GPA,,,Middle meatus,V1–V2,Training
+PRJNA473785,SRR7234757,0.16503893190579377,case,GPA,,,Middle meatus,V1–V2,Training
+PRJNA473785,SRR7234862,0.20303413956568228,case,GPA,,,Middle meatus,V1–V2,Training
+PRJNA473785,SRR7234756,1.821621232417213,case,GPA,,,Middle meatus,V1–V2,Training
+PRJNA473785,SRR7234868,0.5674022149834893,case,GPA,,,Middle meatus,V1–V2,Training
+PRJNA473785,SRR7234869,1.2966295126929914,case,GPA,,,Middle meatus,V1–V2,Training
+PRJNA473785,SRR7234859,0.10525267097713131,case,GPA,,,Middle meatus,V1–V2,Training
+PRJNA473785,SRR7234856,-0.4901492168319795,case,GPA,,,Middle meatus,V1–V2,Training
+PRJNA473785,SRR7234855,0.6676948531589325,case,GPA,,,Middle meatus,V1–V2,Training
+PRJNA473785,SRR7234857,0.826592101721971,case,GPA,,,Middle meatus,V1–V2,Training
+PRJNA473785,SRR7234852,2.7475222187134603,case,GPA,,,Middle meatus,V1–V2,Training
+PRJNA473785,SRR7234851,2.403869431741098,case,GPA,,,Middle meatus,V1–V2,Training
+PRJNA473785,SRR7234854,0.896817903060429,case,GPA,,,Middle meatus,V1–V2,Training
+PRJNA473785,SRR7234871,0.28083615409049456,case,GPA,,,Middle meatus,V1–V2,Training
+PRJNA473785,SRR7234872,0.7494452822663199,case,GPA,,,Middle meatus,V1–V2,Training
+PRJNA473785,SRR7234873,-0.00046468594879212066,case,GPA,,,Middle meatus,V1–V2,Training
+PRJNA473785,SRR7234875,0.4687395856412223,case,GPA,,,Middle meatus,V1–V2,Training
+PRJNA473785,SRR7234878,1.200066728588069,case,GPA,,,Middle meatus,V1–V2,Training
+PRJNA473785,SRR7234770,0.4032557893411387,case,GPA,,,Middle meatus,V1–V2,Training
+PRJNA473785,SRR7234768,0.7828119437123428,case,GPA,,,Middle meatus,V1–V2,Training
+PRJNA473785,SRR7234766,-0.5943979086111513,case,GPA,,,Middle meatus,V1–V2,Training
+PRJNA473785,SRR7234771,0.5899965802790589,case,GPA,,,Middle meatus,V1–V2,Training
+PRJNA473785,SRR7234778,0.5942992591295032,case,GPA,,,Middle meatus,V1–V2,Training
+PRJNA473785,SRR7234776,0.6115682465252631,case,GPA,,,Middle meatus,V1–V2,Training
+PRJNA473785,SRR7234799,0.9596524741659894,case,GPA,,,Middle meatus,V1–V2,Training
+PRJNA473785,SRR7234795,-0.20184457002460476,case,GPA,,,Middle meatus,V1–V2,Training
+PRJNA473785,SRR7234805,2.1165601840882196,case,GPA,,,Middle meatus,V1–V2,Training
+PRJNA473785,SRR7234801,2.093987866400377,case,GPA,,,Middle meatus,V1–V2,Training
+PRJNA473785,SRR7234803,0.9885606244601689,case,GPA,,,Middle meatus,V1–V2,Training
+PRJNA473785,SRR7234812,-0.0067243008334618715,case,GPA,,,Middle meatus,V1–V2,Training
+PRJNA473785,SRR7234811,0.5043746373200145,case,GPA,,,Middle meatus,V1–V2,Training
+PRJNA473785,SRR7234814,0.9108615445912543,case,GPA,,,Middle meatus,V1–V2,Training
+PRJNA473785,SRR7234813,1.4668106880484406,case,GPA,,,Middle meatus,V1–V2,Training
+PRJNA473785,SRR7234820,0.8183776101734316,case,GPA,,,Middle meatus,V1–V2,Training
+PRJNA473785,SRR7234818,-0.22866795878171386,case,GPA,,,Middle meatus,V1–V2,Training
+PRJNA473785,SRR7234817,0.9796213934659167,case,GPA,,,Middle meatus,V1–V2,Training
+PRJNA473785,SRR7234831,-0.07529170349743619,case,GPA,,,Middle meatus,V1–V2,Training
+PRJNA473785,SRR7234832,0.7041713051678574,case,GPA,,,Middle meatus,V1–V2,Training
+PRJNA473785,SRR7234840,0.670293864101411,case,GPA,,,Middle meatus,V1–V2,Training
+PRJNA473785,SRR7234837,0.7629498436769374,case,GPA,,,Middle meatus,V1–V2,Training
+PRJNA473785,SRR7234838,0.11199929013968113,case,GPA,,,Middle meatus,V1–V2,Training
+PRJNA473785,SRR7234835,1.170812861565278,case,GPA,,,Middle meatus,V1–V2,Training
+PRJNA473785,SRR7234833,-0.016311832034969997,case,GPA,,,Middle meatus,V1–V2,Training
+PRJNA473785,SRR7234834,-0.27811572515808053,case,GPA,,,Middle meatus,V1–V2,Training
+PRJNA473785,SRR7234781,3.3373791134466027,case,GPA,,,Middle meatus,V1–V2,Training
+PRJNA473785,SRR7234782,-0.039882919737147304,case,GPA,,,Middle meatus,V1–V2,Training
+PRJNA473785,SRR7234787,-0.4608965138997189,case,GPA,,,Middle meatus,V1–V2,Training
+PRJNA473785,SRR7234788,-0.375551405582916,case,GPA,,,Middle meatus,V1–V2,Training
+PRJNA473785,SRR7234789,0.6633203841013354,case,GPA,,,Middle meatus,V1–V2,Training
+PRJNA473785,SRR7234790,0.8636333756146205,case,GPA,,,Middle meatus,V1–V2,Training
+PRJNA473785,SRR7234783,2.1010183236621724,case,GPA,,,Middle meatus,V1–V2,Training
+PRJNA473785,SRR7234784,-0.22635618738678875,case,GPA,,,Middle meatus,V1–V2,Training
+PRJNA733573,SRR14705947,0.6234933963082948,case,CRS,,,Anterior nares,V4,Training
+PRJNA733573,SRR14705946,-1.0765937638903444,case,CRS,,,Anterior nares,V4,Training
+PRJNA733573,SRR14705945,-0.8643879839640073,case,CRS,,,Anterior nares,V4,Training
+PRJNA733573,SRR14705943,-0.1432184595462772,case,CRS,,,Anterior nares,V4,Training
+PRJNA733573,SRR14705941,0.7771189100029111,case,CRS,,,Anterior nares,V4,Training
+PRJNA733573,SRR14705940,-0.7960567010852738,case,CRS,,,Anterior nares,V4,Training
+PRJNA733573,SRR14705936,0.5200612654949134,case,CRS,,,Anterior nares,V4,Training
+PRJNA733573,SRR14705934,-1.3033458543958836,case,CRS,,,Anterior nares,V4,Training
+PRJNA733573,SRR14705932,0.7148694636059741,case,CRS,,,Anterior nares,V4,Training
+PRJNA733573,SRR14705931,-0.10902276042893011,case,CRS,,,Anterior nares,V4,Training
+PRJNA733573,SRR14705914,0.7665158885676503,case,CRS,,,Anterior nares,V4,Training
+PRJNA733573,SRR14705903,-2.578263795631333,case,CRS,,,Anterior nares,V4,Training
+PRJNA733573,SRR14705892,-0.7638194074746387,case,CRS,,,Anterior nares,V4,Training
+PRJNA733573,SRR14705870,0.3227997727628781,case,CRS,,,Anterior nares,V4,Training
+PRJEB55924,ERR10221156,-3.6377862216780157,case,CRS,female,26.0,Middle meatus,V3–V4,Training
+PRJEB55924,ERR10221145,-3.9360262799479218,case,CRS,female,26.0,Maxillary sinus,V3–V4,Training
+PRJEB55924,ERR10221134,-3.7129598200367786,case,CRS,female,26.0,Frontal sinus,V3–V4,Training
+PRJEB55924,ERR10221184,-3.859162488457353,case,CRS,female,29.0,Middle meatus,V3–V4,Training
+PRJEB55924,ERR10221132,-1.9246994577223444,case,CRS,female,29.0,Maxillary sinus,V3–V4,Training
+PRJEB55924,ERR10221068,-3.1324297769054223,case,CRS,female,29.0,Frontal sinus,V3–V4,Training
+PRJEB55924,ERR10221174,-3.5631845579200037,case,CRS,female,30.0,Middle meatus,V3–V4,Training
+PRJEB55924,ERR10221172,-3.1662235208832414,case,CRS,female,30.0,Maxillary sinus,V3–V4,Training
+PRJEB55924,ERR10221160,-2.591017482518588,case,CRS,female,30.0,Frontal sinus,V3–V4,Training
+PRJEB55924,ERR10221158,-3.1701459631886477,case,CRS,female,30.0,Middle meatus,V3–V4,Training
+PRJEB55924,ERR10221150,-4.026111828042533,case,CRS,female,30.0,Maxillary sinus,V3–V4,Training
+PRJEB55924,ERR10221147,-3.1733896689666357,case,CRS,female,30.0,Frontal sinus,V3–V4,Training
+PRJEB55924,ERR10221140,-3.878109309206737,case,CRS,female,30.0,Middle meatus,V3–V4,Training
+PRJEB55924,ERR10221138,-3.8353464626476614,case,CRS,female,30.0,Maxillary sinus,V3–V4,Training
+PRJEB55924,ERR10221137,-3.626802392923911,case,CRS,female,30.0,Frontal sinus,V3–V4,Training
+PRJEB55924,ERR10221105,-3.7971353883696644,case,CRS,female,31.0,Middle meatus,V3–V4,Training
+PRJEB55924,ERR10221094,-4.12494883945599,case,CRS,female,31.0,Maxillary sinus,V3–V4,Training
+PRJEB55924,ERR10221084,-3.6834854650705213,case,CRS,female,31.0,Frontal sinus,V3–V4,Training
+PRJEB55924,ERR10221164,-4.878525385091097,case,CRS,female,36.0,Middle meatus,V3–V4,Training
+PRJEB55924,ERR10221161,-3.5207262729094673,case,CRS,female,36.0,Maxillary sinus,V3–V4,Training
+PRJEB55924,ERR10221136,-3.8748922383477673,case,CRS,female,36.0,Frontal sinus,V3–V4,Training
+PRJEB55924,ERR10221082,-3.8534703683233387,case,CRS,female,37.0,Middle meatus,V3–V4,Training
+PRJEB55924,ERR10221077,-2.7685369598150578,case,CRS,female,37.0,Maxillary sinus,V3–V4,Training
+PRJEB55924,ERR10221064,-3.295399946947501,case,CRS,female,37.0,Frontal sinus,V3–V4,Training
+PRJEB55924,ERR10221063,-3.3913497305626854,case,CRS,female,37.0,Middle meatus,V3–V4,Training
+PRJEB55924,ERR10221059,-3.662122531121554,case,CRS,female,37.0,Maxillary sinus,V3–V4,Training
+PRJEB55924,ERR10221058,-3.0187852821882672,case,CRS,female,37.0,Frontal sinus,V3–V4,Training
+PRJEB55924,ERR10221171,-3.965762641275412,case,CRS,female,38.0,Middle meatus,V3–V4,Training
+PRJEB55924,ERR10221162,-3.959090818495294,case,CRS,female,38.0,Maxillary sinus,V3–V4,Training
+PRJEB55924,ERR10221151,-4.085526608669225,case,CRS,female,38.0,Frontal sinus,V3–V4,Training
+PRJEB55924,ERR10221100,-3.2973134249389373,case,CRS,female,43.0,Middle meatus,V3–V4,Training
+PRJEB55924,ERR10221097,-3.5383600838932434,case,CRS,female,43.0,Maxillary sinus,V3–V4,Training
+PRJEB55924,ERR10221095,-4.109999497457441,case,CRS,female,43.0,Frontal sinus,V3–V4,Training
+PRJEB55924,ERR10221079,-4.117283294340465,case,CRS,female,45.0,Middle meatus,V3–V4,Training
+PRJEB55924,ERR10221069,-3.9487031449206635,case,CRS,female,45.0,Maxillary sinus,V3–V4,Training
+PRJEB55924,ERR10221061,-4.006326329864327,case,CRS,female,45.0,Frontal sinus,V3–V4,Training
+PRJEB55924,ERR10221080,-4.331808353300397,case,CRS,female,46.0,Middle meatus,V3–V4,Training
+PRJEB55924,ERR10221075,-3.7530260099056196,case,CRS,female,46.0,Maxillary sinus,V3–V4,Training
+PRJEB55924,ERR10221071,-4.11301460233833,case,CRS,female,46.0,Frontal sinus,V3–V4,Training
+PRJEB55924,ERR10221187,-3.5390651080543667,case,CRS,female,49.0,Middle meatus,V3–V4,Training
+PRJEB55924,ERR10221186,-3.9275883098890634,case,CRS,female,49.0,Maxillary sinus,V3–V4,Training
+PRJEB55924,ERR10221181,-3.941193389274532,case,CRS,female,49.0,Frontal sinus,V3–V4,Training
+PRJEB55924,ERR10221198,-3.9634838571377973,case,CRS,female,51.0,Middle meatus,V3–V4,Training
+PRJEB55924,ERR10221067,-3.762844106197012,case,CRS,female,51.0,Maxillary sinus,V3–V4,Training
+PRJEB55924,ERR10221056,-3.6447574699641354,case,CRS,female,51.0,Frontal sinus,V3–V4,Training
+PRJEB55924,ERR10221195,-4.082407147629778,case,CRS,female,55.0,Middle meatus,V3–V4,Training
+PRJEB55924,ERR10221176,-3.8195862220673056,case,CRS,female,55.0,Maxillary sinus,V3–V4,Training
+PRJEB55924,ERR10221053,-1.619989849213489,case,CRS,female,55.0,Frontal sinus,V3–V4,Training
+PRJEB55924,ERR10221129,-4.002353671561151,case,CRS,female,59.0,Middle meatus,V3–V4,Training
+PRJEB55924,ERR10221128,-3.4822778803843213,case,CRS,female,59.0,Maxillary sinus,V3–V4,Training
+PRJEB55924,ERR10221126,-3.9923911810660684,case,CRS,female,59.0,Frontal sinus,V3–V4,Training
+PRJEB55924,ERR10221191,-3.7144169742255313,case,CRS,female,60.0,Middle meatus,V3–V4,Training
+PRJEB55924,ERR10221189,-3.8449075462924283,case,CRS,female,60.0,Maxillary sinus,V3–V4,Training
+PRJEB55924,ERR10221074,-3.7843253115719717,case,CRS,female,60.0,Frontal sinus,V3–V4,Training
+PRJEB55924,ERR10221196,-3.6280904423912936,case,CRS,female,63.0,Middle meatus,V3–V4,Training
+PRJEB55924,ERR10221192,-3.1662589464943163,case,CRS,female,63.0,Maxillary sinus,V3–V4,Training
+PRJEB55924,ERR10221065,-3.1923029187408742,case,CRS,female,63.0,Frontal sinus,V3–V4,Training
+PRJEB55924,ERR10221173,-3.2096690068909814,case,CRS,female,65.0,Middle meatus,V3–V4,Training
+PRJEB55924,ERR10221170,-4.141676717365601,case,CRS,female,65.0,Maxillary sinus,V3–V4,Training
+PRJEB55924,ERR10221144,-3.9073401087382136,case,CRS,female,65.0,Frontal sinus,V3–V4,Training
+PRJEB55924,ERR10221104,-3.492840521788191,case,CRS,female,66.0,Middle meatus,V3–V4,Training
+PRJEB55924,ERR10221102,-3.5911470505636363,case,CRS,female,66.0,Maxillary sinus,V3–V4,Training
+PRJEB55924,ERR10221099,-3.517886880278632,case,CRS,female,66.0,Frontal sinus,V3–V4,Training
+PRJEB55924,ERR10221098,-4.170821965632439,case,CRS,female,66.0,Middle meatus,V3–V4,Training
+PRJEB55924,ERR10221093,-3.884769973979685,case,CRS,female,66.0,Maxillary sinus,V3–V4,Training
+PRJEB55924,ERR10221090,-3.582201883959997,case,CRS,female,66.0,Frontal sinus,V3–V4,Training
+PRJEB55924,ERR10221175,-4.035098398583504,case,CRS,female,68.0,Middle meatus,V3–V4,Training
+PRJEB55924,ERR10221083,-3.932020985712949,case,CRS,female,68.0,Maxillary sinus,V3–V4,Training
+PRJEB55924,ERR10221057,-4.017400171977504,case,CRS,female,68.0,Frontal sinus,V3–V4,Training
+PRJEB55924,ERR10221165,-2.4956309498852494,case,CRS,female,72.0,Middle meatus,V3–V4,Training
+PRJEB55924,ERR10221155,-3.3597697365384938,case,CRS,female,72.0,Maxillary sinus,V3–V4,Training
+PRJEB55924,ERR10221142,-3.148880096614737,case,CRS,female,72.0,Frontal sinus,V3–V4,Training
+PRJEB55924,ERR10221078,-3.7341518398688187,case,CRS,female,83.0,Middle meatus,V3–V4,Training
+PRJEB55924,ERR10221070,-3.8048191971352123,case,CRS,female,83.0,Maxillary sinus,V3–V4,Training
+PRJEB55924,ERR10221066,-2.3978330705968722,case,CRS,male,19.0,Frontal sinus,V3–V4,Training
+PRJEB55924,ERR10221060,-1.7821406178399917,case,CRS,male,19.0,Middle meatus,V3–V4,Training
+PRJEB55924,ERR10221117,-4.644691684677994,case,CRS,male,21.0,Maxillary sinus,V3–V4,Training
+PRJEB55924,ERR10221116,-4.5022110500147825,case,CRS,male,21.0,Frontal sinus,V3–V4,Training
+PRJEB55924,ERR10221115,-4.18122878170037,case,CRS,male,21.0,Middle meatus,V3–V4,Training
+PRJEB55924,ERR10221179,-3.8384905767914708,case,CRS,male,22.0,Maxillary sinus,V3–V4,Training
+PRJEB55924,ERR10221169,-2.731204600230747,case,CRS,male,22.0,Frontal sinus,V3–V4,Training
+PRJEB55924,ERR10221055,-2.651977114614365,case,CRS,male,22.0,Middle meatus,V3–V4,Training
+PRJEB55924,ERR10221194,-3.3072434577531915,case,CRS,male,34.0,Maxillary sinus,V3–V4,Training
+PRJEB55924,ERR10221193,-3.831089199822171,case,CRS,male,34.0,Frontal sinus,V3–V4,Training
+PRJEB55924,ERR10221178,-3.0938395574891544,case,CRS,male,34.0,Middle meatus,V3–V4,Training
+PRJEB55924,ERR10221101,-2.8326052397754564,case,CRS,male,35.0,Maxillary sinus,V3–V4,Training
+PRJEB55924,ERR10221089,-2.7982496604746583,case,CRS,male,35.0,Frontal sinus,V3–V4,Training
+PRJEB55924,ERR10221088,-2.276875557955859,case,CRS,male,35.0,Middle meatus,V3–V4,Training
+PRJEB55924,ERR10221188,-3.874350978644181,case,CRS,male,36.0,Maxillary sinus,V3–V4,Training
+PRJEB55924,ERR10221177,-3.642149670128977,case,CRS,male,36.0,Frontal sinus,V3–V4,Training
+PRJEB55924,ERR10221166,-3.7145102244704007,case,CRS,male,36.0,Middle meatus,V3–V4,Training
+PRJEB55924,ERR10221106,-2.4079485620471113,case,CRS,male,41.0,Maxillary sinus,V3–V4,Training
+PRJEB55924,ERR10221096,-2.960078462765435,case,CRS,male,41.0,Frontal sinus,V3–V4,Training
+PRJEB55924,ERR10221091,-3.1987500338418355,case,CRS,male,41.0,Middle meatus,V3–V4,Training
+PRJEB55924,ERR10221153,-3.6344888503258916,case,CRS,male,42.0,Maxillary sinus,V3–V4,Training
+PRJEB55924,ERR10221143,-3.9629961778767053,case,CRS,male,42.0,Frontal sinus,V3–V4,Training
+PRJEB55924,ERR10221139,-3.9813799911905594,case,CRS,male,42.0,Middle meatus,V3–V4,Training
+PRJEB55924,ERR10221107,-2.705836356884664,case,CRS,male,42.0,Maxillary sinus,V3–V4,Training
+PRJEB55924,ERR10221103,-2.916852550168485,case,CRS,male,42.0,Frontal sinus,V3–V4,Training
+PRJEB55924,ERR10221092,-2.8133178054327144,case,CRS,male,42.0,Middle meatus,V3–V4,Training
+PRJEB55924,ERR10221152,-4.003876768365161,case,CRS,male,44.0,Maxillary sinus,V3–V4,Training
+PRJEB55924,ERR10221135,-3.802708918864048,case,CRS,male,44.0,Frontal sinus,V3–V4,Training
+PRJEB55924,ERR10221131,-4.002668427975564,case,CRS,male,44.0,Middle meatus,V3–V4,Training
+PRJEB55924,ERR10221130,-3.9708266092823092,case,CRS,male,47.0,Maxillary sinus,V3–V4,Training
+PRJEB55924,ERR10221122,-4.071545056748794,case,CRS,male,47.0,Frontal sinus,V3–V4,Training
+PRJEB55924,ERR10221119,-3.9868682362655425,case,CRS,male,47.0,Middle meatus,V3–V4,Training
+PRJEB55924,ERR10221167,-3.4520036245034276,case,CRS,male,48.0,Maxillary sinus,V3–V4,Training
+PRJEB55924,ERR10221114,-4.518689121440315,case,CRS,male,53.0,Frontal sinus,V3–V4,Training
+PRJEB55924,ERR10221113,-4.436567953741597,case,CRS,male,53.0,Middle meatus,V3–V4,Training
+PRJEB55924,ERR10221111,-4.3640533444979965,case,CRS,male,53.0,Maxillary sinus,V3–V4,Training
+PRJEB55924,ERR10221087,-3.477707309427571,case,CRS,male,53.0,Frontal sinus,V3–V4,Training
+PRJEB55924,ERR10221086,-2.8284990472156784,case,CRS,male,53.0,Middle meatus,V3–V4,Training
+PRJEB55924,ERR10221085,-3.5428985295526423,case,CRS,male,53.0,Maxillary sinus,V3–V4,Training
+PRJEB55924,ERR10221109,-3.7262105704083734,case,CRS,male,54.0,Frontal sinus,V3–V4,Training
+PRJEB55924,ERR10221108,-3.6215721384993604,case,CRS,male,54.0,Middle meatus,V3–V4,Training
+PRJEB55924,ERR10221127,-3.871692164220007,case,CRS,male,55.0,Maxillary sinus,V3–V4,Training
+PRJEB55924,ERR10221121,-4.041779791744653,case,CRS,male,55.0,Frontal sinus,V3–V4,Training
+PRJEB55924,ERR10221120,-4.033974652230022,case,CRS,male,55.0,Middle meatus,V3–V4,Training
+PRJEB55924,ERR10221073,-3.8643347140903113,case,CRS,male,55.0,Maxillary sinus,V3–V4,Training
+PRJEB55924,ERR10221062,-3.6943519013527566,case,CRS,male,55.0,Frontal sinus,V3–V4,Training
+PRJEB55924,ERR10221185,-3.906235725000362,case,CRS,male,57.0,Middle meatus,V3–V4,Training
+PRJEB55924,ERR10221180,-4.078266241208429,case,CRS,male,57.0,Maxillary sinus,V3–V4,Training
+PRJEB55924,ERR10221168,-3.9755411314647144,case,CRS,male,57.0,Frontal sinus,V3–V4,Training
+PRJEB55924,ERR10221157,-3.8054312508171244,case,CRS,male,57.0,Middle meatus,V3–V4,Training
+PRJEB55924,ERR10221148,-4.040536839570069,case,CRS,male,57.0,Maxillary sinus,V3–V4,Training
+PRJEB55924,ERR10221052,-3.835705026562599,case,CRS,male,57.0,Frontal sinus,V3–V4,Training
+PRJEB55924,ERR10221112,-3.686057213891608,case,CRS,male,63.0,Middle meatus,V3–V4,Training
+PRJEB55924,ERR10221050,-3.566871995853257,case,CRS,male,63.0,Maxillary sinus,V3–V4,Training
+PRJEB55924,ERR10221197,-3.533883623050055,case,CRS,male,65.0,Frontal sinus,V3–V4,Training
+PRJEB55924,ERR10221182,-3.7414195633704854,case,CRS,male,65.0,Middle meatus,V3–V4,Training
+PRJEB55924,ERR10221081,-3.437927604566673,case,CRS,male,65.0,Maxillary sinus,V3–V4,Training
+PRJEB55924,ERR10221190,-4.1184791834846095,case,CRS,male,66.0,Frontal sinus,V3–V4,Training
+PRJEB55924,ERR10221183,-4.028948807259538,case,CRS,male,66.0,Middle meatus,V3–V4,Training
+PRJEB55924,ERR10221154,-3.9165931723375476,case,CRS,male,66.0,Maxillary sinus,V3–V4,Training
+PRJEB55924,ERR10221141,-4.0114336282214955,case,CRS,male,66.0,Frontal sinus,V3–V4,Training
+PRJEB55924,ERR10221076,-3.883542594363799,case,CRS,male,66.0,Middle meatus,V3–V4,Training
+PRJEB55924,ERR10221125,-4.052635656283886,case,CRS,male,70.0,Maxillary sinus,V3–V4,Training
+PRJEB55924,ERR10221124,-4.091988091636229,case,CRS,male,70.0,Frontal sinus,V3–V4,Training
+PRJEB55924,ERR10221118,-4.054902350422977,case,CRS,male,70.0,Middle meatus,V3–V4,Training
+PRJEB55924,ERR10221163,-2.304543299641605,case,CRS,male,73.0,Maxillary sinus,V3–V4,Training
+PRJEB55924,ERR10221149,-2.35102276374222,case,CRS,male,73.0,Frontal sinus,V3–V4,Training
+PRJEB55924,ERR10221133,-3.8991483715605346,case,CRS,male,73.0,Middle meatus,V3–V4,Training
+PRJNA544655,SRR9118179,-3.1889229482327575,case,CF,female,18.0,Maxillary sinus,V1–V4,Training
+PRJNA544655,SRR9118164,-0.20484686894454862,case,CF,female,22.0,Maxillary sinus,V1–V4,Training
+PRJNA544655,SRR9118168,-1.7776617841308733,case,CF,female,22.0,Maxillary sinus,V1–V4,Training
+PRJNA544655,SRR9118169,-3.049233031322041,case,CF,female,27.0,Maxillary sinus,V1–V4,Training
+PRJNA544655,SRR9118170,-0.2872941036277643,case,CF,female,29.0,Maxillary sinus,V1–V4,Training
+PRJNA544655,SRR9118187,-0.6967118498931643,case,CF,female,30.0,Maxillary sinus,V1–V4,Training
+PRJNA544655,SRR9118158,-1.7257259313197315,case,CF,male,23.0,Maxillary sinus,V1–V4,Training
+PRJNA544655,SRR9118181,0.6464802060978084,case,CF,male,24.0,Maxillary sinus,V1–V4,Training
+PRJNA544655,SRR9118161,-1.6651058143358246,case,CF,male,26.0,Maxillary sinus,V1–V4,Training
+PRJNA544655,SRR9118182,-0.4135580564468175,case,CF,male,26.0,Maxillary sinus,V1–V4,Training
+PRJNA544655,SRR9118159,-2.6657165958612548,case,CF,male,27.0,Maxillary sinus,V1–V4,Training
+PRJNA544655,SRR9118176,-0.7552681518788366,case,CF,male,27.0,Maxillary sinus,V1–V4,Training
+PRJNA544655,SRR9118184,-0.0692382889559956,case,CF,male,27.0,Maxillary sinus,V1–V4,Training
+PRJNA544655,SRR9118165,-0.7633993460982206,case,CF,male,30.0,Maxillary sinus,V1–V4,Training
+PRJNA899122,SRR23112005,-5.178944940354229,case,AR,,,Inferior turbinate,V3–V4,Training
+PRJNA899122,SRR23112006,-5.185480077433486,case,AR,,,Inferior turbinate,V3–V4,Training
+PRJNA899122,SRR23112007,-5.164762825721878,case,AR,,,Inferior turbinate,V3–V4,Training
+PRJNA899122,SRR23112008,-5.120665993254583,case,AR,,,Inferior turbinate,V3–V4,Training
+PRJNA899122,SRR23112009,-4.890967739457219,case,AR,,,Inferior turbinate,V3–V4,Training
+PRJNA899122,SRR23112010,-5.1478860611653126,case,AR,,,Inferior turbinate,V3–V4,Training
+PRJNA899122,SRR23111976,-1.916953586715731,case,AR,,,Inferior turbinate,V3–V4,Training
+PRJNA899122,SRR23111977,-0.2985673027298497,case,AR,,,Inferior turbinate,V3–V4,Training
+PRJNA899122,SRR23111979,-0.11960886917976432,case,AR,,,Inferior turbinate,V3–V4,Training
+PRJNA899122,SRR23111980,0.1658970373134433,case,AR,,,Inferior turbinate,V3–V4,Training
+PRJNA899122,SRR23111981,-3.4053725573474147,case,AR,,,Inferior turbinate,V3–V4,Training
+PRJNA899122,SRR23111982,-4.6773200715252745,case,AR,,,Inferior turbinate,V3–V4,Training
+PRJNA899122,SRR23111882,-0.5851618754028449,case,AR,,,Inferior turbinate,V3–V4,Training
+PRJNA899122,SRR23111983,-5.2037293433946195,case,AR,,,Inferior turbinate,V3–V4,Training
+PRJNA899122,SRR23111984,-4.921681336431557,case,AR,,,Inferior turbinate,V3–V4,Training
+PRJNA899122,SRR23111985,-4.8544898964758865,case,AR,,,Inferior turbinate,V3–V4,Training
+PRJNA899122,SRR23111986,-4.511016639058887,case,AR,,,Inferior turbinate,V3–V4,Training
+PRJNA899122,SRR23111987,-4.037391404404697,case,AR,,,Inferior turbinate,V3–V4,Training
+PRJNA899122,SRR23111988,-4.922043907489089,case,AR,,,Inferior turbinate,V3–V4,Training
+PRJNA899122,SRR23111990,-5.20821478529985,case,AR,,,Inferior turbinate,V3–V4,Training
+PRJNA899122,SRR23111991,-5.0932989710361,case,AR,,,Inferior turbinate,V3–V4,Training
+PRJNA899122,SRR23111992,-5.198339317600011,case,AR,,,Inferior turbinate,V3–V4,Training
+PRJNA899122,SRR23111993,-5.157177235801092,case,AR,,,Inferior turbinate,V3–V4,Training
+PRJNA899122,SRR23111883,-0.555589594318106,case,AR,,,Inferior turbinate,V3–V4,Training
+PRJNA899122,SRR23111994,-5.005257263820357,case,AR,,,Inferior turbinate,V3–V4,Training
+PRJNA899122,SRR23111995,-4.573772959384002,case,AR,,,Inferior turbinate,V3–V4,Training
+PRJNA899122,SRR23111996,-4.868264267782786,case,AR,,,Inferior turbinate,V3–V4,Training
+PRJNA899122,SRR23111997,-5.245116577757331,case,AR,,,Inferior turbinate,V3–V4,Training
+PRJNA899122,SRR23111998,-5.22515927958965,case,AR,,,Inferior turbinate,V3–V4,Training
+PRJNA899122,SRR23111999,-5.131177480903898,case,AR,,,Inferior turbinate,V3–V4,Training
+PRJNA899122,SRR23112001,-4.9934786905380015,case,AR,,,Inferior turbinate,V3–V4,Training
+PRJNA899122,SRR23112002,-4.546711786650709,case,AR,,,Inferior turbinate,V3–V4,Training
+PRJNA899122,SRR23112003,-5.014382845443084,case,AR,,,Inferior turbinate,V3–V4,Training
+PRJNA899122,SRR23112004,-5.15857694544426,case,AR,,,Inferior turbinate,V3–V4,Training
+PRJNA899122,SRR23111884,-0.7314593073346394,case,AR,,,Inferior turbinate,V3–V4,Training
+PRJNA899122,SRR23111949,-5.144516144529841,case,AR,,,Inferior turbinate,V3–V4,Training
+PRJNA899122,SRR23111950,-5.242703981138884,case,AR,,,Inferior turbinate,V3–V4,Training
+PRJNA899122,SRR23111951,-4.871919061604885,case,AR,,,Inferior turbinate,V3–V4,Training
+PRJNA899122,SRR23111952,-4.865477987010598,case,AR,,,Inferior turbinate,V3–V4,Training
+PRJNA899122,SRR23111953,-5.216301391859491,case,AR,,,Inferior turbinate,V3–V4,Training
+PRJNA899122,SRR23111954,-3.9516473382616604,case,AR,,,Inferior turbinate,V3–V4,Training
+PRJNA899122,SRR23111955,-1.3132304542373836,case,AR,,,Inferior turbinate,V3–V4,Training
+PRJNA899122,SRR23111937,0.2142347388007051,case,AR,,,Inferior turbinate,V3–V4,Training
+PRJNA899122,SRR23111938,-4.406940627544444,case,AR,,,Inferior turbinate,V3–V4,Training
+PRJNA899122,SRR23111939,-4.476937330704222,case,AR,,,Inferior turbinate,V3–V4,Training
+PRJNA899122,SRR23111940,-3.1654545626336157,case,AR,,,Inferior turbinate,V3–V4,Training
+PRJNA899122,SRR23111941,-4.836314326695182,case,AR,,,Inferior turbinate,V3–V4,Training
+PRJNA899122,SRR23111942,0.3196247064892418,case,AR,,,Inferior turbinate,V3–V4,Training
+PRJNA899122,SRR23111943,-4.689114888692197,case,AR,,,Inferior turbinate,V3–V4,Training
+PRJNA899122,SRR23111944,-5.055424434380171,case,AR,,,Inferior turbinate,V3–V4,Training
+PRJNA899122,SRR23111946,-5.073834819693036,case,AR,,,Inferior turbinate,V3–V4,Training
+PRJNA899122,SRR23111947,-5.13032451246614,case,AR,,,Inferior turbinate,V3–V4,Training
