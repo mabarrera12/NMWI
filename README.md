@@ -45,7 +45,6 @@ NMWI/
 │   ├── Auxiliary_files/
 │   │   ├── 10x10cv.py
 │   │   ├── Generate_data_index.py
-│   │   ├── Lasso_TableS6.py
 │   │   ├── nested_LOSO.py
 │   │   ├── NMWI.py
 │   │   └── PCoA_analysis_.R
@@ -201,7 +200,7 @@ Contains derived results used by manuscript notebooks, including:
 
 - Nested LOSO held-out predictions and model coefficients
 - Repeated 10×10 CV predictions and cutoff analyses
-- Final NMWI model coefficients.
+- Final NMWI model coefficients
 
 ---
 

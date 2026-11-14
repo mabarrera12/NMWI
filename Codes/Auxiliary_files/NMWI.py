@@ -38,8 +38,15 @@ coef = NMWI.coef_.flatten()
 feature_names = X_new.columns
 coefficients = pd.DataFrame(coef, index=feature_names, columns=["Coefficient"])
 sorted_coefficients = coefficients.sort_values("Coefficient", ascending=False)
-NMWI_coefs = sorted_coefficients[(sorted_coefficients['Coefficient']>0) | (sorted_coefficients['Coefficient']<0)]
-# NMWI_coefs.reset_index().to_csv('NMWI_coefficients.csv')
+
+NMWI_coefs = sorted_coefficients[sorted_coefficients["Coefficient"] != 0]
+# Save complete model: intercept + all 184 coefficients
+model_weights = pd.concat([
+    pd.DataFrame({"Coefficient": [NMWI.intercept_[0]]}, index=["Intercept"]),
+    sorted_coefficients
+])
+model_weights.index.name = "Feature"
+model_weights.to_csv("Data/Output/NMWI_coefficients.csv")
 
 num_pos  = (sorted_coefficients["Coefficient"] > 0).sum()
 num_neg  = (sorted_coefficients["Coefficient"] < 0).sum()

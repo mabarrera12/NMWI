@@ -2,6 +2,7 @@
 library(vegan)
 library(ade4)
 library(ggplot2)
+set.seed(1234)
 
 # Load input data ---------------------------------------------------------
 training_set <- read.delim("Data/Output/training_set.tsv", sep = "\t", header = TRUE, check.names = FALSE)
