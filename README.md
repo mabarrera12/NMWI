@@ -146,7 +146,7 @@ remotes::install_version("lme4", version = "1.1.37")
 
 ---
 
-## How to run
+## How to set up the environment
 
 ### 1. Clone the repository
 
