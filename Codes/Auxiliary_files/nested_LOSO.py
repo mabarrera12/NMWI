@@ -221,3 +221,10 @@ final_df.to_csv(
     OUTDIR / "Output/nested_loso_summary.tsv",
     sep="\t", index=False, na_rep="NA"
 )
+
+coef_df.to_csv(
+    OUTDIR / "Output/nested_loso_coefficients.tsv",
+    sep="\t",
+    index=True,
+    na_rep="NA"
+)

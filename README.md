@@ -47,7 +47,8 @@ NMWI/
 │   │   ├── Generate_data_index.py
 │   │   ├── nested_LOSO.py
 │   │   ├── NMWI.py
-│   │   └── PCoA_analysis_.R
+│   │   ├── PCoA_analysis_.R
+│   │   └── Supplementary_R_codes.R
 │   │
 │   └── Manuscript-Figures/
 │       ├── Table1.ipynb
@@ -67,8 +68,11 @@ NMWI/
 │       ├── 10x10_cutoff_summary.csv
 │       ├── 10x10_oof_predictions.csv
 │       ├── NMWI_coefficients.csv
+│       ├── NMWI_sample_scores.csv
 │       ├── nested_loso_coefficients.tsv
 │       ├── nested_loso_oof_predictions.tsv
+│       ├── training_set.tsv
+│       ├── Genus_level_raw_count_featureTable.tsv
 │       └── nested_loso_summary.tsv
 │
 ├── Feature_tables/
@@ -126,6 +130,7 @@ The PCoA/PERMANOVA analysis for Figure 1g uses R with:
 vegan: 2.7-1
 ade4: 1.7-23
 ggplot2: 3.5.2
+lme4: 1.1.37
 ```
 
 Specific R package versions can be installed with:
@@ -136,6 +141,7 @@ install.packages("remotes")
 remotes::install_version("vegan", version = "2.7-1")
 remotes::install_version("ade4", version = "1.7-23")
 remotes::install_version("ggplot2", version = "3.5.2")
+remotes::install_version("lme4", version = "1.1.37")
 ```
 
 ---
